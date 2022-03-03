@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "labels": [
+    "Jonas Blomme"
+  ],
+  "description": {
+    "names": {
+      "nl": "Veevoeder in silo's"
+    }
+  },
+  "internals": {
+    "token": "VsvSllB0_m3PEu9VqGvJUb9CURbJy4K0gdGo9Y3y0TY",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
