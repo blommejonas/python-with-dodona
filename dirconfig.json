@@ -1,0 +1,10 @@
+{
+  "access": "private",
+  "evaluation": {
+    "handler": "python",
+    "pythia_judge": "output"
+  },
+  "programming_language": "python",
+  "author": "Jonas Blomme <jonas.blomme@hdc.ksleuven.be>",
+  "contact": "jonas.blomme@hdc.ksleuven.be"
+}
