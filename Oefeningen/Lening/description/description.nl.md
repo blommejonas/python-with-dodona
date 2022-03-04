@@ -23,7 +23,7 @@ De waarden van $$V$$, $$r$$ en $$N$$, in die volgorde en elk op een afzonderlijk
 
 ## Uitvoer
 * 1e regel: n = $$n$$ maanden 
-* 2e regel: maandelijkse rentevoet = $$i*100$$ % - af te ronden tot op 0.001 %
+* 2e regel: maandelijkse rentevoet = $$i*100 \%$$ - af te ronden tot op 0.001 %
 * 3e regel: maandelijks af te lossen bedrag = $$A$$ - af te ronden tot op 0.01 euro
 * 4e regel: totaal terug te betalen bedrag = $$V_{tot}$$ euro
 * 5e regel: totaal bedrag aan intresten = $$I_{tot}$$ euro
