@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "labels": [
+    "Jonas Blomme"
+  ],
+  "description": {
+    "names": {
+      "nl": "BMI"
+    }
+  },
+  "internals": {
+    "token": "aCStNhiflf2d__6N4oy5KXpLOe6yeMf20p8wPKmD3jg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
