@@ -4,18 +4,17 @@ Van belang zijn volgende grootheden
 * $$V$$ : het ontleende bedrag
 * $$n$$ : het aantal perioden in maanden
 * $$A$$ : het periodiek te betalen bedrag (= de aflossing + de rente)
-* $$i$$ : de maandelijkse rente in %
+* $$i$$ : de maandelijkse rentevoet in %
 
 Schrijf een programma die de volgende gegevens weergeeft:
 * De maandelijkse rentevoet $$i$$.
 * Het maandelijks te betalen bedrag $$A$$ tot op 1 cent. Dit kan je berekenen als:
 
 $$
-A = \dfrac{\dfrac{i}{100}}{1-(1+\dfrac{i}{100})^{-n}}*V
+A = \dfrac{\dfrac{i}{100}}{1-\left(1+\dfrac{i}{100}\right)^{-n}}*V
 $$
 
 * Het totaal terug te betalen bedrag $$V_{tot}$$ (het ontleende bedrag + de totale intresten).
-* Het totaal bedrag aan intresten $$I_{tot}$$.
 
 ## Invoer
 De waarden van $$V$$, $$r$$ en $$N$$, in die volgorde en elk op een afzonderlijke regel.
@@ -24,7 +23,6 @@ De waarden van $$V$$, $$r$$ en $$N$$, in die volgorde en elk op een afzonderlijk
 * 1e regel: maandelijkse rentevoet = $$i$$ - af te ronden tot op 0.001 %
 * 2e regel: maandelijks af te lossen bedrag = $$A$$ - af te ronden tot op 0.01 euro
 * 3e regel: totaal terug te betalen bedrag = $$V_{tot}$$ euro
-* 4e regel: totaal bedrag aan intresten = $$I_{tot}$$ euro
 
 ## Voorbeeld
 Invoer:
@@ -38,5 +36,4 @@ Uitvoer:
 maandelijkse rentevoet = 0.153 %
 maandelijks af te lossen bedrag = 1295.01 euro
 totaal terug te betalen bedrag = 310803.52 euro
-totaal bedrag aan intresten = 50803.52 euro
 ```
