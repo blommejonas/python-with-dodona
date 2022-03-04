@@ -4,5 +4,5 @@ Schrijf een programma die de volgende gegevens weergeeft:
 * Het aantal perioden in maanden ($$n$$).
 * De maandelijkse rentevoet ($$i$$).
 * Het periodiek (maandelijks) te betalen bedrag ($$A$$) tot op 1 cent. Dit kan je berekenen als:
-  $$A = \dfrac{i*V}{1-(1+i)^{-n}}$$
+  \[A = \dfrac{i*V}{1-(1+i)^{-n}}\]
 * Het totaal terug te betalen bedrag aan de bank.
