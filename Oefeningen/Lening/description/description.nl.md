@@ -20,9 +20,10 @@ $$
 De waarden van $$V$$, $$r$$ en $$N$$, in die volgorde en elk op een afzonderlijke regel.
 
 ## Uitvoer
-* 1e regel: maandelijkse rentevoet = $$i$$ - af te ronden tot op 0.001 %
-* 2e regel: maandelijks af te lossen bedrag = $$A$$ - af te ronden tot op 0.01 euro
-* 3e regel: totaal terug te betalen bedrag = $$V_{tot}$$ euro
+Geef weer in het tekstformaat zoals weergegeven in de voorbeelden.
+* 1e regel: maandelijkse rentevoet $$i$$ (af te ronden tot op 0.001 %)
+* 2e regel: maandelijks af te lossen bedrag $$A$$ (af te ronden tot op 0.01 euro)
+* 3e regel: totaal terug te betalen bedrag $$V_{tot}$$ euro
 
 ## Voorbeeld
 Invoer:
@@ -33,7 +34,7 @@ Invoer:
 ```
 Uitvoer:
 ```
-maandelijkse rentevoet = 0.153 %
-maandelijks af te lossen bedrag = 1295.01 euro
-totaal terug te betalen bedrag = 310803.52 euro
+i = 0.153 %
+A = 1295.01 euro
+V_tot = 310803.52 euro
 ```
