@@ -1,1 +1,8 @@
 22.7 gezond gewicht
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 1
+show line numbers: false
+ignore fp rounding: -5
