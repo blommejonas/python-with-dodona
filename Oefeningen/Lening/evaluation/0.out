@@ -1,0 +1,13 @@
+i = 0.1529 %
+A = 1295.01 euro
+V_tot = 310803.52 euro
+i = 0.0716 %
+A = 710.76 euro
+V_tot = 127936.21 euro
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 3
+output block size: 3
+show line numbers: false
+ignore fp rounding: -5
