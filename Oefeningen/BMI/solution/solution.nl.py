@@ -4,13 +4,13 @@ l = float(input("Geef je lengte (in m): "))
 m = float(input("Geef je massa (in kg): "))
 
 # bereken de BMI, maar toon deze nog niet
-BMI = m / l**2
+BMI = round(m / l**2, 1)
 
-if(BMI < 18.5):
-    print(round(BMI, 1), "ondergewicht")
-elif(18.5 <= BMI < 25):
-    print(round(BMI, 1), "gezond gewicht")
-elif(25 <= BMI < 30):
-    print(round(BMI, 1), "overgewicht")
+if BMI < 18.5:
+    print(BMI, "ondergewicht")
+elif 18.5 <= BMI < 25 :
+    print(BMI, "gezond gewicht")
+elif 25 <= BMI < 30 :
+    print(BMI, "overgewicht")
 else:
-    print(round(BMI, 1), "obesitas")
+    print(BMI, "obesitas")
