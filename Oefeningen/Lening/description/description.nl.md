@@ -8,7 +8,7 @@ Schrijf een programma die de volgende gegevens weergeeft:
 $$
 A = \dfrac{i}{1-(1+i)^{-n}}*V
 $$
-
+  met $$i$$ de rentevoet als fractie.
 * Het totaal terug te betalen bedrag aan de bank.
 * Het totaal bedrag aan intresten te betalen aan de bank.
 
