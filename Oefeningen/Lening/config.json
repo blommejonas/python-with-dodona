@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "labels": [
+    "Jonas Blomme"
+  ],
+  "description": {
+    "names": {
+      "nl": "Lening"
+    }
+  },
+  "internals": {
+    "token": "SQqAAwHqIWRKPBj68pmbAvDogneiUdUgkrSU3xs-GKY",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
