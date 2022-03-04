@@ -41,5 +41,5 @@ n = 240 maanden
 maandelijkse rentevoet = 0.153 %
 maandelijks af te lossen bedrag = 1295.01 euro
 totaal terug te betalen bedrag = 310803.52 euro
-totaal bedrag aan intresten = 50803.52
+totaal bedrag aan intresten = 50803.52 euro
 ```
