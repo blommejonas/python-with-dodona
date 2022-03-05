@@ -1,7 +1,7 @@
 Schrijf een programma dat nagaat of een gegeven deeltal $$D$$ deelbaar is door een gegeven deler $$d$$. Als $$d$$ een deler is van $$D$$, dan print je het quotiënt $$q$$. In het andere geval print je het quotiënt $$q$$ en de rest $$r$$.
 
 ## Invoer
-Eerst wordt het deeltal $$D$$ gevraagd aan de gebruiker. Vervolgens wordt de deler $$d$$ gevraagd.
+Eerst wordt het deeltal $$D \in \mathbb{N}$$ gevraagd aan de gebruiker. Vervolgens wordt de deler $$d \in \mathbb{N}_0$$ gevraagd.
 
 ## Uitvoer
 Geef weer in het (exacte) tekstformaat zoals weergegeven in de voorbeelden.
