@@ -10,15 +10,15 @@ Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$
     </thead>
     <tbody>
       <tr>
-        <td>BMI < 18.5</td>
+        <td>BMI $$<$$ 18.5</td>
         <td>ondergewicht</td>
       </tr>
       <tr>
-        <td>18.5 $$\leq$$ BMI < 25</td>
+        <td>18.5 $$\leq$$ BMI $$<$$ 25</td>
         <td>gezond gewicht</td>
       </tr>
       <tr>
-        <td>25 $$\leq$$ BMI < 30</td>
+        <td>25 $$\leq$$ BMI $$<$$ 30</td>
         <td>overgewicht</td>
       </tr>
       <tr>
