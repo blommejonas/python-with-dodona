@@ -1,0 +1,13 @@
+7 is een deler van 56.
+Het quotiënt is 8.
+5 is geen deler van 152.
+Het quotiënt is 30 met rest 2.
+25 is geen deler van 1558.
+Het quotiënt is 62 met rest 8.
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 2
+output block size: 2
+show line numbers: false
+ignore fp rounding: -5
