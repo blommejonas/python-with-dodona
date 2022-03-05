@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "labels": [
+    "Jonas Blomme"
+  ],
+  "description": {
+    "names": {
+      "nl": "Is deler van"
+    }
+  },
+  "internals": {
+    "token": "3vKHixjsJWa0xUT4lLN0LxjgswnJXFagYU1r_UGprHg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
