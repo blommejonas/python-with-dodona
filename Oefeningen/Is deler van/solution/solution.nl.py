@@ -5,8 +5,8 @@ q = D//d
 r = D%d
 
 if r==0 :
-    print(d,"is een deler van",D)
-    print("Het quotiënt is",q)
+    print(d,"is een deler van",str(D)+".")
+    print("Het quotiënt is",str(q)+".")
 else :
-    print(d,"is geen deler van",D)
-    print("Het quotiënt is",q,"met rest",r)
+    print(d,"is geen deler van",str(D)+".")
+    print("Het quotiënt is",q,"met rest",str(r)+".")
