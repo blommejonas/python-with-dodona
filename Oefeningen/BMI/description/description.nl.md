@@ -1,6 +1,6 @@
 Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$m$$ (in kg) van de gebruiker vraagt. Het berekent de BMI van de gebruiker en interpreteert deze waarde aan de hand van de tabel. Het programma toont op één lijn de BMI (afgerond op 1 cijfer na de komma) en de interpretatie.
 
-<table class="table">
+<table class="table" style="width:50%" margin-left="auto" margin-right="auto">
   <thead>
     <tr>
       <th>BMI</th>
