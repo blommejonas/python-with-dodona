@@ -6,7 +6,7 @@ Eerst wordt het deeltal $$D \in \mathbb{N}$$ gevraagd aan de gebruiker. Vervolge
 ## Uitvoer
 Geef weer in het (exacte) tekstformaat zoals weergegeven in de voorbeelden.
 * In de 1e regel geef je aan of $$d$$ al dan niet een deler is van $$D$$.
-* In de 2e regel geef je het quotiënt weer en eventueel de rest indien $$d$$ geen deler is van $$D$$
+* In de 2e regel geef je het quotiënt $$q$$ weer en eventueel de rest $$r$$ indien $$d$$ geen deler is van $$D$$.
 
 ## Voorbeeld 1
 Invoer:
