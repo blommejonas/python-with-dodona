@@ -1,4 +1,4 @@
-Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$m$$ (in kg) van de gebruiker vraagt. Het berekent de BMI van de gebruiker en interpreteert deze waarde aan de hand van de tabel. Het programma toont op één lijn de BMI (afgerond op 1 cijfer na de komma) en de interpretatie.
+Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$m$$ (in kg) van de gebruiker vraagt. Het berekent de BMI van de gebruiker en interpreteert deze waarde aan de hand van de tabel.
 
 <div class="dodona-centered-group">
   <table class="table" style="width:50%">
@@ -28,3 +28,31 @@ Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$
     </tbody>
   </table>
 </div>
+
+## Invoer
+Eerst wordt gevraagd naar de lengte $$l$$ (in m) van de persoon. Vervolgens wordt gevraagd naar diens massa $$m$$ (in kg).
+
+## Uitvoer
+Het programma toont op één lijn de BMI (afgerond op 1 cijfer na de komma) en de interpretatie.
+
+## Voorbeeld 1
+Invoer:
+```
+1.68
+65
+```
+Uitvoer:
+```
+23.0 gezond gewicht
+```
+
+## Voorbeeld 2
+Invoer:
+```
+1.95
+69.5
+```
+Uitvoer:
+```
+18.3 ondergewicht
+```
