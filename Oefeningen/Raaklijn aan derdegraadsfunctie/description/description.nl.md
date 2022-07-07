@@ -1,7 +1,7 @@
 Gegeven de derdegraadsveeltermfunctie $$f(x) = a_3 x^3 + a_2 x^2 + a_1 x + a_0$$, bepaal dan de raaklijn aan $$f$$ in het punt $$P(x_0,f(x_0))$$
 
 ## Invoer
-* De coëfficiënten van de derdegraadsveeltermfuncties $$a_3$$, $$a_2$$, $$a_1$$ en $$a_O$$ (in deze volgorde).
+* De coëfficiënten van de derdegraadsveeltermfuncties $$a_3$$, $$a_2$$, $$a_1$$ en $$a_0$$ (in deze volgorde).
 * De waarde waarin je de raaklijn aan de functie $$f$$ wil bepalen: $$x_0$$
 
 ## Uitvoer
