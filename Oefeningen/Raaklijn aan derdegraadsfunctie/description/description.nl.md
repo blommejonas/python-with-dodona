@@ -55,3 +55,4 @@ Invoer:
 Uitvoer:
 ```
 De vergelijking van de raaklijn aan f in P(-1.00, -1.00) is y = -1.0.
+```
