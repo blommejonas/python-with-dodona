@@ -12,3 +12,10 @@ koorts - strook
 Dit is geen palindroom.
 koortsmeetsysteemstrook - koortsmeetsysteemstrook
 Dit is een palindroom.
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 2
+show line numbers: false
+ignore fp rounding: -5
