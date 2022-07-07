@@ -13,7 +13,7 @@ De vergelijking van de raaklijn aan $$f$$ in $$P(x_0,f(x_0))$$ is $$y = ax + b$$
 ```
 
 Hierbij worden de waarden $$a$$ en $$b$$ in de output afgerond tot op 1 cijfer na de komma.
-De waarden $$x_0$$ en $$f(x_0)$$ worden afgerond tot 2 cijfers na de komma.
+De waarde $$f(x_0)$$ wordt afgerond tot 2 cijfers na de komma.
 
 ## Voorbeeld 1
 Invoer:
@@ -40,5 +40,5 @@ Invoer:
 ```
 Uitvoer:
 ```
-De vergelijking van de raaklijn aan f in P(-1.50, -9.04) is y = 10.6x + 6.8
+De vergelijking van de raaklijn aan f in P(-1.5, -9.04) is y = 10.6x + 6.8
 ```
