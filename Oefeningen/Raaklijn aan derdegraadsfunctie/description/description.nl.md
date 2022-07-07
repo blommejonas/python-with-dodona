@@ -7,7 +7,7 @@ Gegeven de derdegraadsveeltermfunctie $$f(x) = a_3 x^3 + a_2 x^2 + a_1 x + a_0$$
 ## Uitvoer
 De volgende output wordt getoond:
 
-"De vergelijking van de raaklijn aan $$f$$ in $$P(x_0,f(x_0))$$ is $$y = ax + b$$)"
+"De vergelijking van de raaklijn aan $$f$$ in $$P(x_0,f(x_0))$$ is $$y = ax + b$$"
 
 Hierbij worden de waarden $$a$$, $$b$$, $$x_0$$, en $$f(x_0)$$ in de output afgerond tot op 1 cijfer na de komma.
 
