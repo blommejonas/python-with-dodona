@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "labels": [
+    "Jonas Blomme"
+  ],
+  "description": {
+    "names": {
+      "nl": "Palindroom"
+    }
+  },
+  "internals": {
+    "token": "M1RPRlytiB3ck6P1Tf2G7y4hHEVFQMcOLHNVNl8Gdc0",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
