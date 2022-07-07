@@ -8,4 +8,5 @@ for i in woord:
 if woord == omgekeerd:
     palindroom = "Dit is een palindroom."
 
-print(woord,"-",omgekeerd,"-",palindroom)
+print(woord,"-",omgekeerd)
+print(palindroom)
