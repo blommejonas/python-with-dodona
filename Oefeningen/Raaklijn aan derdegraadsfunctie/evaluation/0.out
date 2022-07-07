@@ -1,0 +1,8 @@
+
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 5
+output block size: 1
+show line numbers: false
+ignore fp rounding: -5
