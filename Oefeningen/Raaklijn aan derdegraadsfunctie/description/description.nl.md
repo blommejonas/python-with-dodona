@@ -22,5 +22,5 @@ Invoer:
 ```
 Uitvoer:
 ```
-De vergelijking van de raaklijn aan f in P(-1.0,8.0) is y = -9.0x - 1.0)
+De vergelijking van de raaklijn aan f in P(-1.0,8.0) is y = -9.0x - 1.0
 ```
