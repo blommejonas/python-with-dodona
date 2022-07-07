@@ -9,7 +9,7 @@ Bepaal de raaklijn aan $$f$$ in het punt $$P(x_0,f(x_0))$$
 De volgende output wordt getoond:
 
 ```
-De vergelijking van de raaklijn aan $$f$$ in $$P(x_0,f(x_0))$$ is $$y = ax + b$$
+De vergelijking van de raaklijn aan f in P(x_0,f(x_0)) is y = ax + b.
 ```
 
 Hierbij worden de waarden $$a$$ en $$b$$ in de output afgerond tot op 1 cijfer na de komma.
@@ -26,7 +26,7 @@ Invoer:
 ```
 Uitvoer:
 ```
-De vergelijking van de raaklijn aan f in P(-1.00, 8.00) is y = -9.0x - 1.0
+De vergelijking van de raaklijn aan f in P(-1.00, 8.00) is y = -9.0x - 1.0.
 ```
 
 ## Voorbeeld 2
@@ -40,5 +40,5 @@ Invoer:
 ```
 Uitvoer:
 ```
-De vergelijking van de raaklijn aan f in P(-1.5, -9.04) is y = 10.6x + 6.8
+De vergelijking van de raaklijn aan f in P(-1.5, -9.04) is y = 10.6x + 6.8.
 ```
