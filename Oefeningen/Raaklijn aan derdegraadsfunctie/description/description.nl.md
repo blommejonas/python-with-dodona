@@ -1,9 +1,9 @@
-Gegeven de derdegraadsfunctie $$f(x) = a_3 x^3 + a_2 x^2 + a_1 x + a_0$$.
+Gegeven de derdegraadsfunctie $$f(x) = a_3 x^3 + a_2 x^2 + a_1 x + a_0$$.<br />
 Bepaal de raaklijn aan $$f$$ in het punt $$P(x_0,f(x_0))$$.
 
 ## Invoer
 * De coëfficiënten van de derdegraadsfuncties $$a_3$$, $$a_2$$, $$a_1$$ en $$a_0$$ (in deze volgorde).
-* De waarde waarin je de raaklijn aan de functie $$f$$ wil bepalen: $$x_0$$
+* De waarde waarin je de raaklijn aan de functie $$f$$ wil bepalen: $$x=x_0$$.
 
 ## Uitvoer
 De volgende output wordt getoond:
@@ -12,7 +12,7 @@ De volgende output wordt getoond:
 De vergelijking van de raaklijn aan f in P(x_0,f(x_0)) is y = ax + b.
 ```
 
-Hierbij worden de waarden $$a$$ en $$b$$ in de output afgerond tot op 1 cijfer na de komma.
+Hierbij worden de waarden $$a$$ en $$b$$ in de output afgerond tot op 1 cijfer na de komma.<br />
 De waarde $$f(x_0)$$ wordt afgerond tot 2 cijfers na de komma.
 
 ## Voorbeeld 1
