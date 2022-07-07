@@ -1,5 +1,5 @@
 Gegeven de derdegraadsfunctie $$f(x) = a_3 x^3 + a_2 x^2 + a_1 x + a_0$$.
-Bepaal de raaklijn aan $$f$$ in het punt $$P(x_0,f(x_0))$$
+Bepaal de raaklijn aan $$f$$ in het punt $$P(x_0,f(x_0))$$.
 
 ## Invoer
 * De coëfficiënten van de derdegraadsfuncties $$a_3$$, $$a_2$$, $$a_1$$ en $$a_0$$ (in deze volgorde).
@@ -20,7 +20,7 @@ Invoer:
 ```
 0.5
 3
-4.5
+-4.5
 1
 -1
 ```
@@ -42,3 +42,16 @@ Uitvoer:
 ```
 De vergelijking van de raaklijn aan f in P(-1.5, -9.04) is y = 10.6x + 6.8.
 ```
+
+## Voorbeeld 3
+Invoer:
+```
+0.5
+3
+4.5
+1
+-1
+```
+Uitvoer:
+```
+De vergelijking van de raaklijn aan f in P(-1.00, -1.00) is y = -1.0.
