@@ -6,7 +6,9 @@ Een woord.
 
 ## Uitvoer
 * Regel 1: Het woord - Het woord van achter naar voor geschreven.
-* Regel 2: Is het palindroom ja of nee.
+* Regel 2: Is het een palindroom, ja of nee.
+
+Zie voorbeelden voor de correcte output.
 
 ## Voorbeeld 1
 Invoer:
