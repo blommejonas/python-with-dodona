@@ -21,11 +21,11 @@ rico_t = b2 * x**2 + b1 * x + b0
 b = f_x - rico_t * x
 
 if rico_t==0:
-    print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(f_x)+ ") is y = " +str(round(b,1)))
+    print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(round(f_x,2))+ ") is y = " +str(round(b,1)))
 else:
     if b>0:
-        print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(f_x)+ ") is y = " +str(round(rico_t,1))+ "x + " + str(round(b,1)))
+        print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(round(f_x,2))+ ") is y = " +str(round(rico_t,1))+ "x + " + str(round(b,1)))
     elif b<0:
-        print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(f_x)+ ") is y = " +str(round(rico_t,1))+ "x - " + str(abs(round(b,1))))
+        print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(round(f_x,2))+ ") is y = " +str(round(rico_t,1))+ "x - " + str(abs(round(b,1))))
     else:
-        print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(f_x)+ ") is y = " +str(round(rico_t,1))+ "x")
+        print("De vergelijking van de raaklijn aan f in P(" +str(x)+ ", " +str(round(f_x,2))+ ") is y = " +str(round(rico_t,1))+ "x")
