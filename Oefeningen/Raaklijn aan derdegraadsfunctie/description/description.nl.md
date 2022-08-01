@@ -3,7 +3,7 @@ Bepaal de raaklijn aan $$f$$ in het punt $$P(x_0,f(x_0))$$.
 
 ## Invoer
 * De coëfficiënten van de derdegraadsfuncties $$a_3$$, $$a_2$$, $$a_1$$ en $$a_0$$ (in deze volgorde).
-* De waarde waarin je de raaklijn aan de functie $$f$$ wil bepalen: $$x=x_0$$.
+* De getalwaarde waarin je de raaklijn aan de functie $$f$$ wil bepalen: $$x=x_0$$.
 
 ## Uitvoer
 De volgende output wordt getoond:
