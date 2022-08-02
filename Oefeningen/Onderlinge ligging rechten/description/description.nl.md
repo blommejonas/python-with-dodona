@@ -1,15 +1,15 @@
-Gegeven zijn 2 rechten $$r \leftrightarrow ax+bx+c=0$$ en $$s \rightleftarrow ux+vy+w=0$$.
+Gegeven zijn 2 rechten $$r \leftrightarrow ax+by+c=0$$ en $$s \leftrightarrow ux+vy+w=0$$. Voor de eenvoud nemen we aan dat de rechten niet evenwijdig zijn met één van de assen.
 
 Bepaal de onderlinge ligging van de rechten $$r$$ en $$s$$ en bepaal het eventuele snijpunt.
 
 ## Invoer
 De invoer gebeurt tekens op een afzonderlijke regel
-* De parameter $$a$$ in de rechte $$r \rightleftarrow ax+bx+c=0$$
-* De parameter $$b$$ in de rechte $$r \rightleftarrow ax+bx+c=0$$
-* De parameter $$c$$ in de rechte $$r \rightleftarrow ax+bx+c=0$$
-* De parameter $$u$$ in de rechte $$r \rightleftarrow ax+bx+c=0$$
-* De parameter $$v$$ in de rechte $$r \rightleftarrow ax+bx+c=0$$
-* De parameter $$w$$ in de rechte $$r \rightleftarrow ax+bx+c=0$$
+* De parameter $$a$$ in de rechte $$r \leftrightarrow ax+by+c=0$$
+* De parameter $$b$$ in de rechte $$r \leftrightarrow ax+by+c=0$$
+* De parameter $$c$$ in de rechte $$r \leftrightarrow ax+by+c=0$$
+* De parameter $$u$$ in de rechte $$r \leftrightarrow ux+vy+w=0$$
+* De parameter $$v$$ in de rechte $$r \leftrightarrow ux+vy+w=0$$
+* De parameter $$w$$ in de rechte $$r \leftrightarrow ux+vy+w=0$$
 
 ## Uitvoer
 De volgende output wordt getoond:
