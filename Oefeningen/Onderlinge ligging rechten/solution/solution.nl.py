@@ -21,7 +21,7 @@ if e != 0:
     x = f / e
     y = p1 * x + q1
     print("De rechten zijn snijdend.")
-    print("Het snijpunt heeft als coördinaat (" + str(x) + "," + str(y) + ")")
+    print("Het snijpunt heeft als coördinaat (" + str(round(x,2)) + "," + str(round(y,2)) + ")")
 else:
     if q1 == q2:
         print("De rechten zijn samenvallend.")
