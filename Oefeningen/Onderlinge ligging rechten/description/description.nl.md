@@ -64,6 +64,6 @@ Invoer:
 ```
 Uitvoer:
 ```
-De rechten zijn strikt evenwijdig.")
+De rechten zijn strikt evenwijdig.
 De rechten hebben geen enkel punt gemeenschappelijk.
 ```
