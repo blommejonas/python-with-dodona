@@ -1,4 +1,4 @@
-Gegeven zijn 2 rechten $$r \rightleftarrow ax+bx+c=0$$ en $$s \rightleftarrow ux+vy+w=0$$.
+Gegeven zijn 2 rechten $$r \leftrightarrow ax+bx+c=0$$ en $$s \rightleftarrow ux+vy+w=0$$.
 
 Bepaal de onderlinge ligging van de rechten $$r$$ en $$s$$ en bepaal het eventuele snijpunt.
 
