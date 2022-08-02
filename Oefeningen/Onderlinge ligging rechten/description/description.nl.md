@@ -1,4 +1,5 @@
-Gegeven zijn 2 rechten $$r \leftrightarrow ax+by+c=0$$ en $$s \leftrightarrow ux+vy+w=0$$. Voor de eenvoud nemen we aan dat de rechten niet evenwijdig zijn met één van de assen.
+Gegeven zijn 2 rechten $$r \leftrightarrow ax+by+c=0$$ en $$s \leftrightarrow ux+vy+w=0$$. 
+\n Voor de eenvoud nemen we aan dat de rechten niet evenwijdig zijn met één van de assen.
 
 Bepaal de onderlinge ligging van de rechten $$r$$ en $$s$$ en bepaal het eventuele snijpunt.
 
