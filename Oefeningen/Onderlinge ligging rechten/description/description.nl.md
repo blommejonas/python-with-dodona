@@ -33,7 +33,7 @@ Invoer:
 Uitvoer:
 ```
 De rechten zijn snijdend.
-De vergelijking van de raaklijn aan f in P(0.08, 8.00) is y = -9.0x - 1.0.
+Het snijpunt heeft als coördinaat (0.08,1.17).
 ```
 
 ## Voorbeeld 2
