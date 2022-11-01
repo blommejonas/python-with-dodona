@@ -11,9 +11,9 @@
 Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
 
 <div class="dodona-centered-group">
-  <img src="media/algoritme_billy.png" data-large="media/algoritme_billy.jpg" width="100" />
-  <img src="media/algoritme_dagelijksekost.png" data-large="media/algoritme_dagelijksekost.jpg" width="100" />
-  <img src="media/algoritme_flowchartcorona.png" data-large="media/algoritme_flowchartcorona.jpg" width="100" />
+  <img src="media/algoritme_billy.png" data-large="media/algoritme_billy.jpg" width="100px" />
+  <img src="media/algoritme_dagelijksekost.png" data-large="media/algoritme_dagelijksekost.jpg" width="100px" />
+  <img src="media/algoritme_flowchartcorona.png" data-large="media/algoritme_flowchartcorona.jpg" width="100px" />
 </div>
 
 # Wat is computationeel denken?
