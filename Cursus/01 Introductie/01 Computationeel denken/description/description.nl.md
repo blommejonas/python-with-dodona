@@ -3,7 +3,7 @@
   <p>De leerlingen ontwerpen algoritmes om problemen digitaal op te lossen. </p>
 </div>
 
-# Wat is een algoritme?
+## Wat is een algoritme?
 <div class="callout callout-danger">
   <p>Een algoritme is een geheel aan instructies die stapsgewijs uitgevoerd kunnen worden om een probleem op te lossen.</p>
 </div>
@@ -20,7 +20,15 @@ Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat 
 
 <img src="media/algoritme_funnypython.jpg" width="300px" data-caption="Python programma" />
 
-# Wat is computationeel denken?
+## Algoritmisch denken
+<div class="callout callout-danger">
+  <p>...algoritmes domineren de wereld. Ze bepalen uw Google-zoekresultaten, Wazen u door de ochtendspits, houden uw mailbox spamvrij. Algoritmes leiden ons leven   
+     in nagenoeg elk opzicht. _Frederik De Bosschere (VRT NWS [04-12-2017](https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/))_</p>
+</div>
+
+Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video is een ideale smaakmaker om je warm te maken voor algoritmisch denken of computationeel denken.
+
+## Wat is computationeel denken?
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
 Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**.
 
