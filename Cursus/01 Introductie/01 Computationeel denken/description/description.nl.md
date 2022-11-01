@@ -16,6 +16,10 @@ Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
   <img src="media/algoritme_flowchartcorona.jpg" align="top" width="250px" data-caption="Algoritme: Wanneer moet je je laten testen op corona?"/>
 </div>
 
+Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat het rechtstreeks kan uitgevoerd worden door een computer.
+
+<img src="media/algoritme_funnypython.jpg" width="300px" data-caption="Python programma" />
+
 # Wat is computationeel denken?
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
 Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**.
