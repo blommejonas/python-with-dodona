@@ -1,14 +1,15 @@
 {
+  "type": "content",
+  "labels": [
+    "Jonas Blomme"
+  ],
   "description": {
     "names": {
-      "nl": "Inleiding"
+      "nl": "BMI"
     }
   },
   "internals": {
     "token": "qrvddTdD9kj8RQDwdVpUhSqrAkd59u_YY-ZE-SBnu2Ahx78YX6yRsa8B4abVfXzd",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
-  "labels": [
-
-  ]
 }
