@@ -9,7 +9,7 @@ denkniveau daarboven**.
 
 Computationeel denken is handelingen op een zodanige manier beschrijven dat gebruikers, als ze die handelingen nauwgezet volgen, altijd het gewenste resultaat bekomen. Een verzameling van opeenvolgende handelingen noemen we een **sequentie**. In de informatica bedoelen we met computationeel denken het benaderen van problemen op een manier zodat computers kunnen worden gebruikt om ze op te lossen. Computationeel denken kan concreter gemaakt worden door het op te splitsen in een aantal concepten en aanpakken. Deze concepten proberen we duidelijker te maken doorheen deze cursus.
 
-![Overzicht computationeel denken](vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
+![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
 
 ## Decompositie
 De eerste stap is decompositie. Je kan dit vergelijken met segmenteren: het gegeven probleem wordt opgesplitst in kleinere deelproblemen. Nadien gaan we met elk van de deelproblemen afzonderlijk aan de slag. 
