@@ -3,7 +3,7 @@ Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Go
 Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het
 denkniveau daarboven**. Het is problemen op zo’n manier benaderen dat computers ze kunnen oplossen.
 
-<div class="callout callout-success">
+<div class="callout callout-info">
   <p>Computationeel denken is problemen op zo een manier benaderen dat computers kunnen gebruikt worden om ze op te lossen. ~ Jeanette Wing ~</p>
 </div>
 
