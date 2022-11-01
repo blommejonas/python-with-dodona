@@ -2,7 +2,7 @@
 Computationeel denken is denken als een computerwetenschapper.
 
 <div class="callout callout-success">
-  <pComputationeel denken is problemen op zo een manier benaderen dat computers kunnen gebruikt worden om ze op te lossen. ~ Jeanette Wing ~</p>
+  <p>Computationeel denken is problemen op zo een manier benaderen dat computers kunnen gebruikt worden om ze op te lossen. ~ Jeanette Wing ~</p>
 </div>
 
 De definitie van Jeanette Wing geeft niet direct veel inzicht, maar benadrukt wel de essentie. We willen nu eenmaal computers gebruiken om onze problemen op te lossen.
