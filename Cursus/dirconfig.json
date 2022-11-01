@@ -1,5 +1,5 @@
 {
-  "access": "public",
+  "access": "private",
   "type": "content",
   "programming_language": "python",
   "author": "Jonas Blomme <jonas.blomme@hdc.ksleuven.be>",
