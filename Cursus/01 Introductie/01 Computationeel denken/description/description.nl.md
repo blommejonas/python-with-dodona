@@ -1,14 +1,20 @@
-<div class="callout callout-warning">
+<div class="callout callout-info">
   <h4>Eindterm: computationeel denken</h4>
   <p>De leerlingen ontwerpen algoritmes om problemen digitaal op te lossen. </p>
 </div>
 
 # Wat is een algoritme?
-<div class="callout callout-info">
+<div class="callout callout-danger">
   <p>Een algoritme is een geheel aan instructies die stapsgewijs uitgevoerd kunnenworden om een probleem op te lossen.</p>
 </div>
 
 Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
+
+<div class="dodona-centered-group">
+  <img src="media/algoritme_billy.jpg" />
+  <img src="media/algoritme_dagelijksekost.jpg" />
+  <img src="media/algoritme_flowchartcorona.jpg" />
+</div>
 
 # Wat is computationeel denken?
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
