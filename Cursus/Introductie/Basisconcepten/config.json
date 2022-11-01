@@ -1,15 +1,8 @@
 {
-  "type": "content",
-  "labels": [
-    "Jonas Blomme"
-  ],
   "description": {
     "names": {
       "nl": "Basisconcepten"
     }
   },
-  "internals": {
-    "token": "GoDKtMNLwCF6UNvDEy-AfbgMqw8-YO66s_km-6_zg-Q",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  "labels": []
 }
