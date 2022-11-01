@@ -5,15 +5,15 @@
 
 # Wat is een algoritme?
 <div class="callout callout-danger">
-  <p>Een algoritme is een geheel aan instructies die stapsgewijs uitgevoerd kunnenworden om een probleem op te lossen.</p>
+  <p>Een algoritme is een geheel aan instructies die stapsgewijs uitgevoerd kunnen worden om een probleem op te lossen.</p>
 </div>
 
 Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
 
 <div class="dodona-centered-group">
-  <img src="media/algoritme_billy.jpg" width="200px" />
-  <img src="media/algoritme_dagelijksekost.jpg" width="200px" />
-  <img src="media/algoritme_flowchartcorona.jpg" width="200px" />
+  <img src="media/algoritme_billy.jpg" width="200px" data-caption="Algoritme: Billy boekenkast van IKEA" />
+  <img src="media/algoritme_dagelijksekost.jpg" width="200px" data-caption="Algoritme: Kookboek Dagelijkse Kost van Jeroen Meus" />
+  <img src="media/algoritme_flowchartcorona.jpg" width="200px" data-caption="Algoritme: Wanneer moet je je laten testen op corona?"/>
 </div>
 
 # Wat is computationeel denken?
