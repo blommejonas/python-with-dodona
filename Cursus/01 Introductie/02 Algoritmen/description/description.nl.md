@@ -12,14 +12,13 @@ Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
   <img src="media/algoritme_flowchartcorona.jpg" align="top" width="250px" data-caption="Algoritme: Wanneer moet je je laten testen op corona?"/>
 </div>
 
-Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat het rechtstreeks kan uitgevoerd worden door een computer.
-
-<img src="media/algoritme_funnypython.jpg" width="300px" data-caption="Python programma" />
-
-Misschien is het woord algoritme nieuw voor jou, maar je bent zeker vertrouwd met het concept.
 * In de lagere school heb je leren cijferen. De juf of meester heeft je bijvoorbeeld een stappenplan aangeleerd om een natuurlijk getal (het deeltal) te delen door een ander natuurlijk getal (de deler). Door dat stappenplan toe te passen, kom je gegarandeerd bij de juiste oplossing uit – op voorwaarde dat je geen rekenfouten maakt. De staartdeling van natuurlijke getallen is dus een voorbeeld van een algoritme.
 * In de eerste graad van het secundair onderwijs heb je geleerd hoe je een getal kunt ontbinden in priemfactoren en hoe je het kleinste gemene veelvoud kunt vinden van twee getallen. Dit zijn twee voorbeelden van algoritmes.
 * Een recept in een kookboek is een stappenplan dat in een eindig aantal stappen altijd tot een bepaald resultaat leidt. Een recept is dus in feite een algoritme. Zelfs als je niet weet wat een pannenkoek is, kun je toch een perfecte pannenkoek bakken, als je maar een recept hebt dat stap per stap duidelijk en ondubbelzinnig zegt wat je moet doen.
+
+Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat het rechtstreeks kan uitgevoerd worden door een computer.
+
+<img src="media/algoritme_funnypython.jpg" width="300px" data-caption="Python programma" />
 
 
 ## Algoritmisch denken
