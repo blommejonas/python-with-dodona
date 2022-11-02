@@ -29,7 +29,7 @@ Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat 
   
 Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video is een ideale smaakmaker om je warm te maken voor algoritmisch denken of computationeel denken.
 
-<object data='https://youtu.be/nKIu9yen5nc' width='560px' height='315px'></object>
+![Video 1](https://youtu.be/nKIu9yen5nc)
 
 ## Wat is computationeel denken?
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
