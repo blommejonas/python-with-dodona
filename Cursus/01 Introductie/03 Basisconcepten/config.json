@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "nl": "Basisconcepten"
+    }
+  },
+  "internals": {
+    "token": "rCEllp0LmVBxB9ZKKMM5sBTFW3AJOoOYzHdEPVBwmXg",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
