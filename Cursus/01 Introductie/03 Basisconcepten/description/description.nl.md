@@ -32,6 +32,12 @@ is het herkennen van patronen in probleemstellingen. Dit stelt je in staat om ve
 patroon toe te passen. Zo is het opzoeken van de juiste bus kinderspel wanneer je reeds met de trein of metro overweg kan. De tijdstabellen alsook het concept
 tussenstops zijn immers voor allen gelijkaardig.
 
+Wanneer het concept 'oppervlakte' geïntroduceerd moet worden, leren leerlingen eerst de oppervlakte van een rechthoek leren berekenen door het aantal vierkante
+centimeters ervan te tellen. Een betere oplossing bestaat er echter in om de lengte te vermenigvuldigen met de breedte van de rechthoek. Die methode is niet enkel
+sneller, ze werkt ook voor alle mogelijke rechthoeken - ongeacht hoe groot die zijn.
+
+<img src="media/patroonherkenning.jpeg" align="center" width="500px" data-caption="Ook wiskundige formules zijn veralgemeningen: de formule om de oppervlakte van een rechthoek te berekenen, kan voor eender welke rechthoek opnieuw gebruikt worden." />
+
 Computerwetenschappers proberen problemen op een snelle en efficiënte manier op te lossen. De methoden die ze daarvoor gebruiken, willen ze later opnieuw kunnen 
 toepassen. Als ze een gemeenschappelijk patroon zien tussen verschillende problemen of computerprogramma’s, dan zullen ze met één oplossingsmethode komen die ze
 daarna kunnen hergebruiken. Op die manier hoeven ze het werk maar één keer te doen.
