@@ -17,6 +17,7 @@ Onderstaande figuur legt computationeel denken schematisch uit:
 
 ![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
 
+## Wat is programmeren?
 **Programmeren** is het ontwerpen en schrijven van een reeks instructies (een programma) voor een computer en dit in een voor de computer begrijpbare taal.
 Programmeren kan heel eenvoudig zijn, zoals een programma om een robot een lijn te laten volgen, maar ook ongelooflijk ingewikkeld en complex – denk maar aan de
 software waarmee het weer wordt voorspeld of waarmee zoekresultaten in Google worden weergegeven.
