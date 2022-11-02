@@ -68,3 +68,12 @@ weergegeven.
 <img src="media/abstractie.png" align="center" width="500px" data-caption="Metronetwerk Brussel." />
 
 Abstractie is belangrijk om een probleem eenvoudig te kunnen oplossen en om een probleem aan een computer te kunnen voorleggen.
+
+
+## Evaluatie
+In de computerwetenschappen wordt er op een zeer systematische en grondige manier geëvalueerd. Daarbij wordt de kwaliteit, de effectiviteit en de efficiëntie van
+oplossingen, systemen, producten en processen beoordeeld. Tijdens de evaluatie wordt nagegaan of voorgestelde en uitgewerkte oplossingen inderdaad datgene doen
+waardoor ze werden ontwikkeld. Een systematische evaluatie beantwoordt aan:
+
+* Welbepaalde criteria: specificaties, een welomschreven ontwikkeldoel;
+* Behoeften van gebruikers: wie zijn de gebruikers, wat willen ze?
