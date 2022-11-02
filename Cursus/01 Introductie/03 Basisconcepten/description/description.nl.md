@@ -77,3 +77,5 @@ waardoor ze werden ontwikkeld. Een systematische evaluatie beantwoordt aan:
 
 * Welbepaalde criteria: specificaties, een welomschreven ontwikkeldoel;
 * Behoeften van gebruikers: wie zijn de gebruikers, wat willen ze?
+
+Het is dus belangrijk te reflecteren over het programma en de correctheid hiervan. Met andere woorden, doet het programma wat het moet doen?
