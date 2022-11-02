@@ -4,6 +4,8 @@
   <p>Een algoritme is een geheel aan instructies die stapsgewijs uitgevoerd kunnen worden om een probleem op te lossen.</p>
 </div>
 
+UPDATE?
+
 Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
 
 <div class="dodona-centered-group">
