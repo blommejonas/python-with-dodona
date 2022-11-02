@@ -2,13 +2,13 @@ Computationeel denken is een probleem op een zodanige manier benaderen dat het u
 we het probleem en zoeken zo naar de efficiëntste manier om tot een oplossing te komen. Er komen bij computationeel denken zes ‘concepten’ of stappen aan bod.
 
 1. Logisch denken
-1. Decompositie
-2. Patroonherkenning
-3. Abstractie
-4. Algoritmen
-5. Evaluatie
+2. Decompositie
+3. Patroonherkenning
+4. Abstractie
+5. Algoritmen
+6. Evaluatie
 
-Op puntje 4. gingen we reeds dieper in. We bespreken kort de overige concepten. Deze komen terug doorheen de cursus.
+Op puntje 5. gingen we reeds dieper in. We bespreken kort de overige concepten. Deze komen terug doorheen de cursus.
 
 ## Logisch denken
 Logische redeneringen helpen ons uit te leggen waarom iets gebeurt. Wanneer je twee dezelfde computers dezelfde instructies geeft (dus hetzelfde programma laat
@@ -60,4 +60,11 @@ Ook computers kunnen getraind worden om patronen te herkennen in een grote hoeve
 
 
 ## Abstractie
-Tal van problemen worden gekenmerkt door een grote hoeveelheid overbodige details. Door deze details weg te laten krijgen we een eenvoudigere voorstelling.
+Abstractie komt van het Latijnse woord ‘abstráhere’ en betekent ‘weglaten’. Komen tot de essentie behoort tot de kern van computationeel denken. Abstractie gaat
+over zaken eenvoudiger maken, over het identificeren van zaken die belangrijk zijn zonder je veel om details te bekommeren. Abstractie is dus een manier om met
+complexiteit om te gaan. Op een metrokaart bijvoorbeeld staan alleen de essentiële verbindingen en stations. Overbodige gegevens zoals hoogteligging worden niet
+weergegeven.
+
+<img src="media/abstractie.png" align="center" width="500px" data-caption="Metronetwerk Brussel." />
+
+Abstractie is belangrijk om een probleem eenvoudig te kunnen oplossen en om een probleem aan een computer te kunnen voorleggen.
