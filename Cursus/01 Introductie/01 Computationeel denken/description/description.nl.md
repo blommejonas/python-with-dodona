@@ -23,13 +23,15 @@ Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat 
 
 ## Algoritmisch denken
 
-<div class="callout callout-danger">
+<div class="callout callout-info">
   <p>...algoritmes domineren de wereld. Ze bepalen uw Google-zoekresultaten, Wazen u door de ochtendspits, houden uw mailbox spamvrij. Algoritmes leiden ons leven in nagenoeg elk opzicht. <i>Frederik De Bosschere (VRT NWS  <a href="https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/">04-12-2017</a>)</i></p>
 </div>
   
 Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video is een ideale smaakmaker om je warm te maken voor algoritmisch denken of computationeel denken.
 
-<iframe width="560" align="center" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Wat is computationeel denken?
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
