@@ -27,3 +27,18 @@ toepast.
 Softwareontwikkeling is een complex proces. Een groot project kunnen opdelen in verschillende onderdelen is dus essentieel. Denk maar aan alle verschillende 
 elementen die moeten worden gecombineerd om een computerprogramma (zoals PowerPoint) te maken. Hetzelfde geldt voor: een laptop of een tablet, een fiets, 
 koffiezetapparaat ... Deze toestellen zijn zelf samengesteld uit vele, los van elkaar gemaakte componenten die daarna moeten worden samengevoegd.
+
+
+## Patroonherkenning
+Onze wereld wordt gedomineerd door patronen. We definiëren patronen als dingen die zich herhalen of sterke gelijkenissen vertonen. Een belangrijke vaardigheid 
+is het herkennen van patronen in probleemstellingen. Dit stelt je in staat om veel sneller nieuwe problemen op te lossen door de reeds gekende oplossing van het
+patroon toe te passen. Zo is het opzoeken van de juiste bus kinderspel wanneer je reeds met de trein of metro overweg kan. De tijdstabellen alsook het concept
+tussenstops zijn immers voor allen gelijkaardig.
+
+Computerwetenschappers proberen problemen op een snelle en efficiënte manier op te lossen. De methoden die ze daarvoor gebruiken, willen ze later opnieuw kunnen 
+toepassen. Als ze een gemeenschappelijk patroon zien tussen verschillende problemen of computerprogramma’s, dan zullen ze met één oplossingsmethode komen die ze
+daarna kunnen hergebruiken. Op die manier hoeven ze het werk maar één keer te doen.
+
+Ook computers kunnen getraind worden om patronen te herkennen in een grote hoeveelheid data zoals het automatisch herkennen van nummerplaten en gezichten.
+
+
