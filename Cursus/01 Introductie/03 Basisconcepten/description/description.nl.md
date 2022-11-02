@@ -36,7 +36,7 @@ Wanneer het concept 'oppervlakte' geïntroduceerd moet worden, leren leerlingen 
 centimeters ervan te tellen. Een betere oplossing bestaat er echter in om de lengte te vermenigvuldigen met de breedte van de rechthoek. Die methode is niet enkel
 sneller, ze werkt ook voor alle mogelijke rechthoeken - ongeacht hoe groot die zijn.
 
-<img src="media/patroonherkenning.jpeg" align="center" width="500px" data-caption="Ook wiskundige formules zijn veralgemeningen: de formule om de oppervlakte van een rechthoek te berekenen, kan voor eender welke rechthoek opnieuw gebruikt worden." />
+<img src="media/patroonherkenning.jpeg" align="center" width="300px" data-caption="Ook wiskundige formules zijn veralgemeningen: de formule om de oppervlakte van een rechthoek te berekenen, kan voor eender welke rechthoek opnieuw gebruikt worden." />
 
 Computerwetenschappers proberen problemen op een snelle en efficiënte manier op te lossen. De methoden die ze daarvoor gebruiken, willen ze later opnieuw kunnen 
 toepassen. Als ze een gemeenschappelijk patroon zien tussen verschillende problemen of computerprogramma’s, dan zullen ze met één oplossingsmethode komen die ze
