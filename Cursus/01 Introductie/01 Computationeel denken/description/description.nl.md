@@ -26,7 +26,7 @@ Programmeren kan heel eenvoudig zijn, zoals een programma om een robot een lijn 
 software waarmee het weer wordt voorspeld of waarmee zoekresultaten in Google worden weergegeven.
 
 * Eerst komt het erop aan een probleem te analyseren en een oplossing te bedenken. In deze stap maak je gebruik van logisch redeneren, decompositie, abstractie en
-patronen om algoritmen te ontwerpen waarmee je het probleem of systeem kunt oplossen of modelleren. Een algoritme is een geheel van instructies die je stapsgewijs uitvoert om een probleem op te lossen. Een recept dus. Zo gebruikt Jeroen Meus een algoritme bij het koken en bij IKEA krijg je ook een algoritme om een kast in elkaar te steken. <i>Professor informaticawetenschappen Frank Neven (<a href="[https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/](https://www.klasse.be/213656/kunnen-jouw-leerlingen-al-computationeel-denken/)">Klasse</a>)</i>.
+patronen om algoritmen te ontwerpen waarmee je het probleem of systeem kunt oplossen of modelleren. Een algoritme is een geheel van instructies die je stapsgewijs uitvoert om een probleem op te lossen. Een recept dus. Zo gebruikt Jeroen Meus een algoritme bij het koken en bij IKEA krijg je ook een algoritme om een kast in elkaar te steken. <i>Professor informaticawetenschappen Frank Neven (<a href="https://www.klasse.be/213656/kunnen-jouw-leerlingen-al-computationeel-denken/">Klasse</a>)</i>.
 * De ideeën die uit de eerste stap voortvloeien, moet je uitschrijven in een welbepaalde programmeertaal op een computer. Dit noemen we ‘coderen’. De reeks instructies die het programma vormen, noemen we de ‘code’.
 
 Daarom zullen we in deze cursus de basisbeginselen van het programmeren aanleren.
