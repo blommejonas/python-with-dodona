@@ -53,3 +53,8 @@ Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+Algoritmes zijn tegenwoordig werkelijk overal:
+• Als je via een streaming muziekdienst naar muziek luistert, leert het algoritme je muzikale smaak steeds beter kennen. Op basis daarvan kan het algoritme je nieuwe muziek suggereren die je waarschijnlijk ook goed zult vinden.
+• Sociale media werken op precies dezelfde manier. Wanneer je ergens op klikt of een like achterlaat, leert het bedrijf je weer wat beter kennen. Daardoor kunnen ze je ook steeds beter bestoken met informatie (of advertenties) waarvan ze denken dat je ze leuk gaat vinden.
+• Heb je je al eens afgevraagd hoe een routeplanner werkt? Dat lijkt erg ingewikkeld: hoe kun je gegarandeerd de snelste weg van A naar B vinden? Toch valt dat mee: je hoeft niet meer te doen dan het toepassen van een relatief eenvoudig algoritme dat de Nederlandse wiskundige en informaticus Edsger Dijkstra (1930 – 2002) al in 1959 ontwikkelde.
+• Ook in sectoren waar je het misschien niet meteen verwacht, worden algoritmes steeds belangrijker. Artsen worden bijgestaan door software bij het stellen van een diagnose. Wanneer iemand een lening wilt aangaan bij een bank, is het een algoritme dat de kredietwaardigheid van die persoon onderzoekt. Algoritmes duiken ook op in vakgebieden waar je het niet verwacht: taalkundigen, archeologen en bijbelwetenschappers gebruiken tegenwoordig algoritmes bij hun wetenschappelijk onderzoek.
