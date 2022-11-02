@@ -7,7 +7,10 @@
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
 Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**. 
 
-Een rapport geschreven door Barendsen en Tolboom geeft een heldere beschrijving in het Nederlands: _“**Computationeel denken** als term werd geïntroduceerd door Jeannette Wing (2006) om een verzameling mentale gereedschappen aan te duiden die nodig zijn om computers effectief in te kunnen zetten. Hiertoe behoren analytische vaardigheden om problemen zodanig te kunnen formuleren dat we computers en andere gereedschappen kunnen gebruiken om ze te helpen oplossen, en ook probleemoplossend vermogen, zoals het zoeken van oplossingen in termen van algoritmen en gegevens. Jeannette Wing en vele anderen zien computationeel denken als een basisvaardigheid naast lezen, schrijven en rekenen.”_
+Een rapport geschreven door Barendsen en Tolboom geeft een heldere beschrijving in het Nederlands: 
+<div class="callout callout-info">
+  <p><i>“**Computationeel denken** als term werd geïntroduceerd door Jeannette Wing (2006) om een verzameling mentale gereedschappen aan te duiden die nodig zijn om computers effectief in te kunnen zetten. Hiertoe behoren analytische vaardigheden om problemen zodanig te kunnen formuleren dat we computers en andere gereedschappen kunnen gebruiken om ze te helpen oplossen, en ook probleemoplossend vermogen, zoals het zoeken van oplossingen in termen van algoritmen en gegevens. Jeannette Wing en vele anderen zien computationeel denken als een basisvaardigheid naast lezen, schrijven en rekenen.”</i> </p>
+</div>
 
 Computationeel denken verwijst dus naar het menselijke vermogen om complexe problemen op te lossen en daarbij computers als hulpmiddel te zien. Met andere woorden, computationeel denken is het proces waarbij aspecten van informaticawetenschappen herkend worden in de ons omringende wereld, en waarbij de methodes en technieken uit de informaticawetenschappen toegepast worden om problemen uit de fysische en virtuele wereld te begrijpen en op te lossen. 
 
