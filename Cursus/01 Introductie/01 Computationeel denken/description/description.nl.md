@@ -17,6 +17,12 @@ Onderstaande figuur legt computationeel denken schematisch uit:
 
 ![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
 
-Computationeel denken heeft dus niets te maken met nadenken over computers of redeneren zoals een computer. Wel is het zo dat **programmeren** ideaal is om computationeel denken in de praktijk te brengen. Je leert zo wat een algoritme, een programma, variabelen, condities of decompositie is. Dat klinkt complex, maar zelfs Jeroen Meus schrijft algoritmen. Een algoritme is een geheel van instructies die je stapsgewijs uitvoert om een probleem op te lossen. Een recept dus. En bij IKEA krijg je ook een algoritme om een kast in elkaar te steken. <i>Professor informaticawetenschappen Frank Neven (<a href="[https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/](https://www.klasse.be/213656/kunnen-jouw-leerlingen-al-computationeel-denken/)">Klasse</a>)</i>.
+**Programmeren** is het ontwerpen en schrijven van een reeks instructies (een programma) voor een computer en dit in een voor de computer begrijpbare taal.
+Programmeren kan heel eenvoudig zijn, zoals een programma om een robot een lijn te laten volgen, maar ook ongelooflijk ingewikkeld en complex – denk maar aan de
+software waarmee het weer wordt voorspeld of waarmee zoekresultaten in Google worden weergegeven.
+
+* Eerst komt het erop aan een probleem te analyseren en een oplossing te bedenken. In deze stap maak je gebruik van logisch redeneren, decompositie, abstractie en
+patronen om algoritmen te ontwerpen waarmee je het probleem of systeem kunt oplossen of modelleren. Een algoritme is een geheel van instructies die je stapsgewijs uitvoert om een probleem op te lossen. Een recept dus. Zo gebruikt Jeroen Meus een algoritme bij het koken en bij IKEA krijg je ook een algoritme om een kast in elkaar te steken. <i>Professor informaticawetenschappen Frank Neven (<a href="[https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/](https://www.klasse.be/213656/kunnen-jouw-leerlingen-al-computationeel-denken/)">Klasse</a>)</i>.
+* De ideeën die uit de eerste stap voortvloeien, moet je uitschrijven in een welbepaalde programmeertaal op een computer. Dit noemen we ‘coderen’. De reeks instructies die het programma vormen, noemen we de ‘code’.
 
 Daarom zullen we in deze cursus de basisbeginselen van het programmeren aanleren.
