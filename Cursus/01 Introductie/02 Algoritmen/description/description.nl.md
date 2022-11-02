@@ -16,7 +16,11 @@ Je kent al heel wat voorbeelden van algoritmes in het dagelijks leven:
 * In de eerste graad van het secundair onderwijs heb je geleerd hoe je een getal kunt ontbinden in priemfactoren en hoe je het kleinste gemene veelvoud kunt vinden van twee getallen. Dit zijn twee voorbeelden van algoritmes.
 * Een recept in een kookboek is een stappenplan dat in een eindig aantal stappen altijd tot een bepaald resultaat leidt. Een recept is dus in feite een algoritme. Zelfs als je niet weet wat een pannenkoek is, kun je toch een perfecte pannenkoek bakken, als je maar een recept hebt dat stap per stap duidelijk en ondubbelzinnig zegt wat je moet doen.
 
-Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat het rechtstreeks kan uitgevoerd worden door een computer.
+Hierbij is het belangrijk dat deze instructies ondubbelzinnig zijn. Dit wordt duidelijk aan de hand van de volgende figuur waarin dezelfde stappen anders geïnterpreteerd worden:
+
+<img src="media/algoritme_vierkant.jpg" width="500px" data-caption="Python programma" />
+
+Een computer begrijpt geen Nederlands (ook geen Engels). Bovenstaande instructies om een vierkant te tekenen, zijn niet voldoende voor een computer. De computer moet de instructies namelijk kunnen begrijpen. Daarom gebruikt men een **programmeertaal**. Hierin zijn alle instructies ondubbelzinnig en voor een computer zeer duidelijk. Een programma, geschreven in een bepaalde programmeertaal, is dus een algoritme dat een computer kan uitvoeren. Er bestaan verschillende programmeertalen zoals Python, Java, C, C++, C#, JavaScript, PHP, ... Wij zullen gebruik maken van de programmeertaal Python.
 
 <img src="media/algoritme_funnypython.jpg" width="300px" data-caption="Python programma" />
 
