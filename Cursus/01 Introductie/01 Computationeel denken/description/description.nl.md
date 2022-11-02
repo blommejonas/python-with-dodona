@@ -5,7 +5,7 @@
 
 ## Wat is computationeel denken? Meer dan alleen maar programmeren.
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
-Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**. Jeannette M. Wing is een belangrijke grondlegger van computationeel denken:
+Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**.
 
 
 <div class="callout callout-info">
