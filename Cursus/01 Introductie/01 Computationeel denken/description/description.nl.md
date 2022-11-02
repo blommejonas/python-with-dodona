@@ -24,7 +24,7 @@ Een algoritme wordt een programma als het geschreven wordt op zo’n manier dat 
 ## Algoritmisch denken
 
 <div class="callout callout-danger">
-  <p>...algoritmes domineren de wereld. Ze bepalen uw Google-zoekresultaten, Wazen u door de ochtendspits, houden uw mailbox spamvrij. Algoritmes leiden ons leven in nagenoeg elk opzicht. _Frederik De Bosschere (VRT NWS  <a href="https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/">04-12-2017</a>)_</p>
+  <p>...algoritmes domineren de wereld. Ze bepalen uw Google-zoekresultaten, Wazen u door de ochtendspits, houden uw mailbox spamvrij. Algoritmes leiden ons leven in nagenoeg elk opzicht. <i>Frederik De Bosschere (VRT NWS  <a href="https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/">04-12-2017</a>)</i></p>
 </div>
   
 Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video is een ideale smaakmaker om je warm te maken voor algoritmisch denken of computationeel denken.
