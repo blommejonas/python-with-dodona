@@ -1,6 +1,7 @@
 Computationeel denken is een probleem op een zodanige manier benaderen dat het uiteindelijk opgelost kan worden door een computer. Via een bepaald proces bekijken 
-we het probleem en zoeken zo naar de efficiëntste manier om tot een oplossing te komen. Er komen bij computationeel denken vijf ‘concepten’ of stappen aan bod.
+we het probleem en zoeken zo naar de efficiëntste manier om tot een oplossing te komen. Er komen bij computationeel denken zes ‘concepten’ of stappen aan bod.
 
+1. Logisch denken
 1. Decompositie
 2. Patroonherkenning
 3. Abstractie
@@ -8,6 +9,20 @@ we het probleem en zoeken zo naar de efficiëntste manier om tot een oplossing t
 5. Evaluatie
 
 Op puntje 4. gingen we reeds dieper in. We bespreken kort de overige concepten. Deze komen terug doorheen de cursus.
+
+## Logisch denken
+Logische redeneringen helpen ons uit te leggen waarom iets gebeurt. Wanneer je twee dezelfde computers dezelfde instructies geeft (dus hetzelfde programma laat
+uitvoeren) en ze daarvoor ook dezelfde invoerwaarden meegeeft, dan kun je dezelfde uitkomst verwachten.
+
+Computers gaan niet zomaar iets uitvinden. Ze gaan ook niet plots op een andere manier te werk, afhankelijk van hoe ze zich op dat moment toevallig voelen. Ze zijn
+voorspelbaar. Door logisch te redeneren kunnen wij op dezelfde manier te werk gaan als een computer.
+
+Onder 'logica' verstaan we het correct redeneren. Door middel van logica kun je vanuit bekende feiten nieuwe feiten afleiden. Je spreekt dan van "logisch 
+redeneren". In feite zijn computers niets meer dan apparaten die strikt logisch redeneren; ze zijn geprogrammeerd volgens logische regels.
+
+Dit proces waarin we bestaande kennis gebruiken om betrouwbare voorspellingen te maken, is een onderdeel van logisch redeneren. In essentie draait logisch redeneren
+rond het kunnen uitleggen van waarom iets doet wat het doet. Het kan daarnaast ook helpen om inzicht te krijgen in waarom iets niet werkt op de manier die we
+verwachten.
 
 ## Decompositie
 Veel problemen lijken op het eerste zicht te moeilijk om op te lossen. Decompositie gaat over het verdelen van een ingewikkeld probleem in verschillende kleine(re) 
@@ -44,3 +59,5 @@ daarna kunnen hergebruiken. Op die manier hoeven ze het werk maar één keer te 
 Ook computers kunnen getraind worden om patronen te herkennen in een grote hoeveelheid data zoals het automatisch herkennen van nummerplaten en gezichten.
 
 
+## Abstractie
+Tal van problemen worden gekenmerkt door een grote hoeveelheid overbodige details. Door deze details weg te laten krijgen we een eenvoudigere voorstelling.
