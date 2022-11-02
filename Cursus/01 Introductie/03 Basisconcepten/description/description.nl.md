@@ -15,7 +15,6 @@ problemen die je afzonderlijk kan oplossen. Het zorgt ervoor dat we een probleem
 ontmoedigend, maar een reeks kleinere, gerelateerde taken is veel gemakkelijker aan te pakken. Een groot probleem opdelen in kleinere deelproblemen kan ook samenwerking stimuleren, waarbij elke medewerker zijn eigen inzichten, ervaringen en vaardigheden kan inbrengen.
 
 Neem het probleem 'een boterham met kaas, confituur en chocomelk maken' als voorbeeld. Dat kan opgedeeld worden in een aantal taken.
-
 <img src="media/decompositie.jpeg" align="center" width="500px" data-caption="Twee mensen kunnen tegelijk ontbijt maken: de ene zorgt voor de boterham met kaas en de andere voor de chocolademelk" />
 
 Problemen ontleden in kleinere delen, komt niet enkel voor in programmeren: het is ook zowat het basisprincipe dat iedere ingenieur, ontwerper of projectleider 
