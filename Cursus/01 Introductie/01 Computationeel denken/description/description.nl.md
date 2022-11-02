@@ -3,6 +3,31 @@
   <p>De leerlingen ontwerpen algoritmes om problemen digitaal op te lossen. </p>
 </div>
 
+## Wat is computationeel denken? Meer dan alleen maar programmeren.
+Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
+Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**. 
+
+Computationeel denken gaat over het vermogen om **problemen op te lossen** door **inzicht in ICT** of **met behulp van ICT**. We zetten digitale tools in bij conceptueel en wiskundig denken. Computationeel denken stimuleert het **redeneren**, **abstraheren** en het **probleemoplossend vermogen**. Computationeel denken houdt dus in dat je naar een probleem of vraagstuk kijkt op een manier die toelaat dat een computer kan helpen bij de oplossing. Ruwweg gezien zijn er twee denkfasen:
+
+* Denk na over de stappen die nodig zijn om tot een oplossing te komen.
+* Zet je de "computer" met je technische skills en knowhow aan het werk.
+
+In computationeel denken onderscheiden we volgende **deelcompetenties**:
+
+* Formuleren van problemen;
+* Logisch organiseren en analyseren van gegevens;
+* Voorstellen van data door abstractie;
+* Automatiseren van oplossingen via algoritmisch denken (opeenvolging van geordende stappen);
+* Identificeren, analyseren en implementeren van mogelijke oplossingen met als doel de meest efficiënte en effectieve combinatie van stappen en middelen;
+* Veralgemenen van het probleemoplossingsproces en transfereren naar andere problemen.
+
+Computationeel denken heeft dus niets te maken met nadenken over computers of redeneren zoals een computer. Programmeren is een middel daarvoor. Daarom zullen we in deze cursus de basisbeginselen van het programmeren aanleren.
+
+Onderstaande figuur legt computationeel denken schematisch uit:
+
+![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
+
+
 ## Wat is een algoritme?
 
 <div class="callout callout-danger">
@@ -33,24 +58,3 @@ Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Wat is computationeel denken?
-Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
-Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**.
-
-<div class="callout callout-danger">
-  <p>Computationeel denken is problemen op zo een manier benaderen dat computers kunnen gebruikt worden om ze op te lossen. ~ Jeanette Wing ~</p>
-</div>
-
-Computationeel denken is handelingen op een zodanige manier beschrijven dat gebruikers, als ze die handelingen nauwgezet volgen, altijd het gewenste resultaat bekomen. Een verzameling van opeenvolgende handelingen noemen we een **sequentie**. In de informatica bedoelen we met computationeel denken het benaderen van problemen op een manier zodat computers kunnen worden gebruikt om ze op te lossen. Computationeel denken kan concreter gemaakt worden door het op te splitsen in een aantal concepten en aanpakken. Deze concepten proberen we duidelijker te maken doorheen deze cursus.
-
-![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
-
-## Decompositie
-De eerste stap is decompositie. Je kan dit vergelijken met segmenteren: het gegeven probleem wordt opgesplitst in kleinere deelproblemen. Nadien gaan we met elk van de deelproblemen afzonderlijk aan de slag. 
-
-Bijvoorbeeld als we een huis willen tekenen doen we dit niet in één keer. We gaan verschillende delen proberen te herkennen, die we dan afzonderlijk kunnen tekenen. Dus voor het huis zouden we kunnen beginnen met de voorgevel, daarna de rechtergevel, dan het dak, etc.
-
-Om aan decompositie te doen tijdens het programmeren zijn er bepaalde tools ter beschikking om het ons gemakkelijker te maken. In het programmeren spreken we over het gebruik van procedures en **functies**. Decompostie maakt het niet alleen gemakkelijker om het programma te bouwen, maar ook om het programma achteraf sneller terug te begrijpen.
-
-## Patroonherkenning
-Nadat we onze deelproblemen hebben bepaald, doen we aan patroonherkenning. We zoeken gelijkaardige eigenschappen waardoor we onze oplossing voor meerdere delen kunnen gebruiken. Zo vermijden we op termijn dubbel werk. 
