@@ -21,13 +21,13 @@ In computationeel denken onderscheiden we volgende **deelcompetenties**:
 * Identificeren, analyseren en implementeren van mogelijke oplossingen met als doel de meest efficiënte en effectieve combinatie van stappen en middelen;
 * Veralgemenen van het probleemoplossingsproces en transfereren naar andere problemen.
 
-Computationeel denken heeft dus niets te maken met nadenken over computers of redeneren zoals een computer. **Programmeren** is een middel daarvoor. Programmeren is immers ideaal om computationeel denken in de praktijk te brengen. Je leert zo wat een algoritme, een programma, variabelen, condities of decompositie is. Dat klinkt complex, maar zelfs Jeroen Meus schrijft algoritmen. Een algoritme is een geheel van instructies die je stapsgewijs uitvoert om een probleem op te lossen. Een recept dus. En bij IKEA krijg je ook een algoritme om een kast in elkaar te steken. <i>Professor informaticawetenschappen Frank Neven (<a href="[https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/](https://www.klasse.be/213656/kunnen-jouw-leerlingen-al-computationeel-denken/)">Klasse</a>)</i>.
-
-Daarom zullen we in deze cursus de basisbeginselen van het programmeren aanleren.
-
 Onderstaande figuur legt computationeel denken schematisch uit:
 
 ![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
+
+Computationeel denken heeft dus niets te maken met nadenken over computers of redeneren zoals een computer. **Programmeren** is een middel daarvoor. Programmeren is immers ideaal om computationeel denken in de praktijk te brengen. Je leert zo wat een algoritme, een programma, variabelen, condities of decompositie is. Dat klinkt complex, maar zelfs Jeroen Meus schrijft algoritmen. Een algoritme is een geheel van instructies die je stapsgewijs uitvoert om een probleem op te lossen. Een recept dus. En bij IKEA krijg je ook een algoritme om een kast in elkaar te steken. <i>Professor informaticawetenschappen Frank Neven (<a href="[https://www.vrt.be/vrtnws/nl/2017/12/04/opinie-frederik-de-bosschere-algoritmes/](https://www.klasse.be/213656/kunnen-jouw-leerlingen-al-computationeel-denken/)">Klasse</a>)</i>.
+
+Daarom zullen we in deze cursus de basisbeginselen van het programmeren aanleren.
 
 
 ## Wat is een algoritme?
