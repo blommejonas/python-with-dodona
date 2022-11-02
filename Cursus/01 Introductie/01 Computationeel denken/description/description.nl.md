@@ -37,7 +37,7 @@ Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video
 Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Google Assistent kan met artificiële intelligentie een afspraak bij de kapper maken. 
 Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**.
 
-<div class="callout callout-info">
+<div class="callout callout-danger">
   <p>Computationeel denken is problemen op zo een manier benaderen dat computers kunnen gebruikt worden om ze op te lossen. ~ Jeanette Wing ~</p>
 </div>
 
