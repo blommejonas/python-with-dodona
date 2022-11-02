@@ -8,10 +8,10 @@ Een computer wint gemakkelijk van een schaakmeester of de beste Go-speler. En Go
 Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben geprogrammeerd. Computationeel denken is niet gewoon programmeren, maar **gaat om het denkniveau daarboven**. 
 
 <div class="callout callout-info">
-  <p><i>“<b>Computationeel denken</b> als term werd geïntroduceerd door Jeannette Wing (2006) om een verzameling mentale gereedschappen aan te duiden die nodig zijn om computers effectief in te kunnen zetten. Hiertoe behoren analytische vaardigheden om problemen zodanig te kunnen formuleren dat we computers en andere gereedschappen kunnen gebruiken om ze te helpen oplossen, en ook probleemoplossend vermogen, zoals het zoeken van oplossingen in termen van algoritmen en gegevens.”</i> </p>
+  <p><i>“<b>Computational Thinking</b> is the thought processes involved in formulating problems and their solutions so that the solutions are represented in a form that can be effectively carried out by an information-processing agent.” (Jeannette M. Wing, 2008)</i> </p>
 </div>
 
-Computationeel denken verwijst dus naar het menselijke vermogen om complexe problemen op te lossen en daarbij computers als hulpmiddel te zien. Met andere woorden, computationeel denken is het proces waarbij aspecten van informaticawetenschappen herkend worden in de ons omringende wereld, en waarbij de methodes en technieken uit de informaticawetenschappen toegepast worden om problemen uit de fysische en virtuele wereld te begrijpen en op te lossen. 
+Hiermee wil ze duidelijk maken dat men bij computationeel denken problemen herformuleert zodat oplossingen effectief kunnen weergegeven en verwerkt worden door iemand die de informatie doorneemt. Computationeel denken verwijst dus naar het menselijke vermogen om complexe problemen op te lossen en daarbij computers als hulpmiddel te zien. Met andere woorden, computationeel denken is het proces waarbij aspecten van informaticawetenschappen herkend worden in de ons omringende wereld, en waarbij de methodes en technieken uit de informaticawetenschappen toegepast worden om problemen uit de fysische en virtuele wereld te begrijpen en op te lossen. 
 
 Computationeel denken is meer dan programmeren. Onderstaande figuur legt computationeel denken schematisch uit:
 
