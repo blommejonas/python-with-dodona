@@ -12,7 +12,7 @@ Op puntje 4. gingen we reeds dieper in. We bespreken kort de overige concepten. 
 ## Decompositie
 Veel problemen lijken op het eerste zicht te moeilijk om op te lossen. Decompositie gaat over het verdelen van een ingewikkeld probleem in verschillende kleine(re) 
 problemen die je afzonderlijk kan oplossen. Het zorgt ervoor dat we een probleem kunnen beheersen en dat de oplossing veel haalbaarder wordt: grote problemen zijn 
-ontmoedigend, maar een reeks kleinere, gerelateerde taken is veel gemakkelijker aan te pakken.
+ontmoedigend, maar een reeks kleinere, gerelateerde taken is veel gemakkelijker aan te pakken. Een groot probleem opdelen in kleinere deelproblemen kan ook samenwerking stimuleren, waarbij elke medewerker zijn eigen inzichten, ervaringen en vaardigheden kan inbrengen.
 
 Neem het probleem 'een boterham met kaas, confituur en chocomelk maken' als voorbeeld. Dat kan opgedeeld worden in een aantal taken.
 
