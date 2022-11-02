@@ -13,7 +13,7 @@ Maar toch zijn computers niet slim. Ze voeren instructies uit die mensen hebben 
 
 Computationeel denken verwijst dus naar het menselijke vermogen om complexe problemen op te lossen en daarbij computers als hulpmiddel te zien. Met andere woorden, computationeel denken is het proces waarbij aspecten van informaticawetenschappen herkend worden in de ons omringende wereld, en waarbij de methodes en technieken uit de informaticawetenschappen toegepast worden om problemen uit de fysische en virtuele wereld te begrijpen en op te lossen. 
 
-Onderstaande figuur legt computationeel denken schematisch uit:
+Computationeel denken is meer dan programmeren. Onderstaande figuur legt computationeel denken schematisch uit:
 
 ![Overzicht computationeel denken](media/vertaling_barefoot.jpg){:data-caption="Overzicht computationeel denken"}
 
