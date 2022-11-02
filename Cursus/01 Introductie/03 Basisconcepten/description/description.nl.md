@@ -15,7 +15,7 @@ problemen die je afzonderlijk kan oplossen. Het zorgt ervoor dat we een probleem
 ontmoedigend, maar een reeks kleinere, gerelateerde taken is veel gemakkelijker aan te pakken.
 
 Bijvoorbeeld:
-<img src="media/decompositie.jpg" width="500px" data-caption="Twee mensen kunnen tegelijk ontbijt maken: de ene zorgt voor de boterham met kaas en de andere voor de chocolademelk" />
+<img src="media/decompositie.jpeg" width="500px" data-caption="Twee mensen kunnen tegelijk ontbijt maken: de ene zorgt voor de boterham met kaas en de andere voor de chocolademelk" />
 
 Problemen ontleden in kleinere delen, komt niet enkel voor in programmeren: het is ook zowat het basisprincipe dat iedere ingenieur, ontwerper of projectleider 
 toepast.
