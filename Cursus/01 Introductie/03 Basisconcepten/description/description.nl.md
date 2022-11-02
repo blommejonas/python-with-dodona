@@ -14,12 +14,8 @@ Veel problemen lijken op het eerste zicht te moeilijk om op te lossen. Decomposi
 problemen die je afzonderlijk kan oplossen. Het zorgt ervoor dat we een probleem kunnen beheersen en dat de oplossing veel haalbaarder wordt: grote problemen zijn 
 ontmoedigend, maar een reeks kleinere, gerelateerde taken is veel gemakkelijker aan te pakken.
 
-Zo kan het overweldigend of stresserend zijn wanneer je onverwachts naar Timboektoe moet reizen. Wanneer je dit probleem opdeelt in een aantal hapklare taken, dan 
-lijkt het plots veel minder ingewikkeld. Bijvoorbeeld:
-1. de locatie van Timboektoe opzoeken,
-2. het vastleggen van een vliegtuigticket en bus,
-3. het boeken van een hotel en
-4. het maken van jouw rugzak.
+Bijvoorbeeld:
+<img src="media/decompositie.jpg" width="500px" data-caption="Twee mensen kunnen tegelijk ontbijt maken: de ene zorgt voor de boterham met kaas en de andere voor de chocolademelk" />
 
 Problemen ontleden in kleinere delen, komt niet enkel voor in programmeren: het is ook zowat het basisprincipe dat iedere ingenieur, ontwerper of projectleider 
 toepast.
