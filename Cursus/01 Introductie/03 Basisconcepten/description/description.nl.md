@@ -46,7 +46,7 @@ is het herkennen van patronen in probleemstellingen. Dit stelt je in staat om ve
 patroon toe te passen. Zo is het opzoeken van de juiste bus kinderspel wanneer je reeds met de trein of metro overweg kan. De tijdstabellen alsook het concept
 tussenstops zijn immers voor allen gelijkaardig.
 
-Wanneer het concept 'oppervlakte' geïntroduceerd moet worden, leren leerlingen eerst de oppervlakte van een rechthoek leren berekenen door het aantal vierkante
+Wanneer het concept 'oppervlakte' geïntroduceerd moet worden, leren leerlingen eerst de oppervlakte van een rechthoek berekenen door het aantal vierkante
 centimeters ervan te tellen. Een betere oplossing bestaat er echter in om de lengte te vermenigvuldigen met de breedte van de rechthoek. Die methode is niet enkel
 sneller, ze werkt ook voor alle mogelijke rechthoeken - ongeacht hoe groot die zijn.
 
