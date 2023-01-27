@@ -33,7 +33,7 @@ Je belandt op een scherm met 3 panelen. Het linkerpaneel bevat een overzicht van
 
 Tik nu in het centrale paneel onderstaande code in en klik nadien op **Run**.
 
-Uitvoer:
+
 ```
 print( "Hello, world!" )
 ```
