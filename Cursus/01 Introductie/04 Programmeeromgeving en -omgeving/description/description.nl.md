@@ -25,6 +25,6 @@ Deze video maakt deel uit van de reeks <a href="https://www.youtube.com/playlist
 Via repl.it maken we een eerste programma aan. Kies voor **Create Repl**, geef dit programma de naam ‘hello_world’ en kies voor Python als **Template**. Bevestig tot slot met **Create Repl**.
 
 <div class="dodona-centered-group">
-  <img src="media/replit_create_program.png" align="top" width="250px" data-caption="Repl.it - Create new program" />
-  <img src="media/replit_hello_world_program.png" align="top" width="250px" data-caption="Repl.it - Create program hello_world" />
+  <img src="media/replit_create_program.png" align="top" width="100px" data-caption="Repl.it - Create new program" />
+  <img src="media/replit_hello_world_program.png" align="top" width="3000px" data-caption="Repl.it - Create program hello_world" />
 </div>
