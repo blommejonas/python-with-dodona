@@ -18,4 +18,4 @@ In onderstaand filmpje krijg je een rondleiding in repl.it:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EIE9dOBSLKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Deze video maakt deel uit van de reeks <a href="https://www.youtube.com/playlist?list=PL2iW_rkiCt7UqxL47lGkBaTgApj_QHJ0K">Leren programmeren: Python</a> van UHasselt Tutorials. We zullen de video’s uit deze reeks later in deze lessenreeks nog gebruiken.
+Deze video maakt deel uit van de reeks <a href="https://www.youtube.com/playlist?list=PL2iW_rkiCt7UqxL47lGkBaTgApj_QHJ0K" target="_blank" rel="noopener noreferrer">Leren programmeren: Python</a> van <a href="https://www.youtube.com/c/UHasseltTutorials" target="_blank" rel="noopener noreferrer">UHasselt Tutorials</a>. We zullen de video’s uit deze reeks later in deze lessenreeks nog gebruiken.
