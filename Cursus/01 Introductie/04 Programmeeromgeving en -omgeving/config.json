@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "nl": "Programmeertaal en -omgeving"
+    }
+  },
+  "internals": {
+    "token": "N12rbGbA3hzRjkmM7osZpbZTYrS1yf5kKoNkFEfMQZI",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
