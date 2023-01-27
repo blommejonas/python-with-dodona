@@ -28,3 +28,11 @@ Via repl.it maken we een eerste programma aan. Kies voor **Create Repl**, geef d
   <img src="media/replit_create_program.png" align="top" width="200px" data-caption="Repl.it - Create new program" />
   <img src="media/replit_hello_world_program.png" align="top" width="400px" data-caption="Repl.it - Create program hello_world" />
 </div>
+
+Je belandt op een scherm met 3 panelen. Het linkerpaneel bevat een overzicht van de beschikbare bestanden. Het centrale paneel de programmacode en het rechterpaneel de **console**. In de console kan je rechtstreeks code uitvoeren, maar je vindt er ook eventuele input of output van je programma.
+
+Tik nu in het centrale paneel onderstaande code in en klik nadien op **Run**.
+
+'''
+print( "Hello, world!" )
+'''
