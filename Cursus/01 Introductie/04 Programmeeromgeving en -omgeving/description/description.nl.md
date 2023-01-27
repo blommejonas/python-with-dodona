@@ -7,6 +7,6 @@ De voorbije jaren hebben jullie misschien al wat geprogrammeerd met behulp van S
  </li> 
  <li> Ondanks zijn eenvoudige syntax is Python toch bijzonder krachtig. Door libraries of modules te importeren in je programma, is Python geschikt voor de meest uiteenlopende toepassingen. Dankzij die veelzijdigheid is Python op dit moment wellicht de meest gebruikte programmeertaal ter wereld.
  </li> 
- <li> Python is volledig open source. Dat maakt dat iedereen Python volledig gratis mag gebruiken. Je vindt de meest recente versie van Python steeds op <a href="https://www.python.org/downloads/>www.python.org/downloads/>wwww.python.org/downloads/</a>.
+ <li> <p>Python is volledig open source. Dat maakt dat iedereen Python volledig gratis mag gebruiken. Je vindt de meest recente versie van Python steeds op <a href="https://www.python.org/downloads/>www.python.org/downloads/>wwww.python.org/downloads/</a>.</p>
  </li> 
-   </ul>
+</ul>
