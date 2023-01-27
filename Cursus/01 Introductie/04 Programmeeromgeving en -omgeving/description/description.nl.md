@@ -19,3 +19,12 @@ In onderstaand filmpje krijg je een rondleiding in repl.it:
 </div>
 
 Deze video maakt deel uit van de reeks <a href="https://www.youtube.com/playlist?list=PL2iW_rkiCt7UqxL47lGkBaTgApj_QHJ0K" target="_blank" rel="noopener noreferrer">Leren programmeren: Python</a> van <a href="https://www.youtube.com/c/UHasseltTutorials" target="_blank" rel="noopener noreferrer">UHasselt Tutorials</a>. We zullen de video’s uit deze reeks later in deze lessenreeks nog gebruiken.
+
+## Je eerste programma: Hello, World!
+
+Via repl.it maken we een eerste programma aan. Kies voor **Create Repl**, geef dit programma de naam ‘hello_world’ en kies voor Python als **Template**. Bevestig tot slot met **Create Repl**.
+
+<div class="dodona-centered-group">
+  <img src="media/replit_create_program.png" align="top" width="250px" data-caption="Repl.it - Create new program" />
+  <img src="media/replit_hello_world_program.png" align="top" width="250px" data-caption="Repl.it - Create program hello_world" />
+</div>
