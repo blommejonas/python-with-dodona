@@ -34,7 +34,7 @@ Een computer begrijpt geen Nederlands (ook geen Engels). Bovenstaande instructie
 Algoritmen vormen de bouwstenen van onze digitale samenleving. De volgende video is een ideale smaakmaker om je warm te maken voor algoritmisch denken of computationeel denken.
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen="allowFullScreen"></iframe>
 </div>
 
 
