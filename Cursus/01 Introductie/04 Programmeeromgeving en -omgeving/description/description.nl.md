@@ -33,6 +33,15 @@ Je belandt op een scherm met 3 panelen. Het linkerpaneel bevat een overzicht van
 
 Tik nu in het centrale paneel onderstaande code in en klik nadien op **Run**.
 
-'''
+Uitvoer:
+```
 print( "Hello, world!" )
-'''
+```
+Proficiat! Je schreef zonet je allereerste programma.
+
+## Het leerplatform: Dodona
+In deze cursus op het leerplatform Dodona vinden jullie alle leeractiviteiten, video’s en oefeningen terug voor deze lessenreeks. Bij elke oefening kan je je code testen in Dodona (en indien nodig aanpassen tot het volledig voldoet aan de opgave).
+
+We zullen de code eerst schrijven in repl.it, omdat dit handiger werkt dan rechtstreeks code typen in Dodona. In de programmeeromgeving krijgt je code bijvoorbeeld verduidelijkende kleurtjes, je syntax wordt automatisch aangevuld, de foutmeldingen zijn veel duidelijker, … Kleine aanpassingen kan je eventueel wel rechtstreeks in Dodona doen.
+
+Je leerkracht ziet alleen de code op Dodona: het is dus belangrijk om steeds een finaal werkende versie te uploaden in Dodona.
