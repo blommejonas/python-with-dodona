@@ -32,3 +32,13 @@ Gehele getallen en decimale getallen zijn verschillende getalvormen. In Python z
 * Aanwezigheid van spaties kunnen de leesbaarheid van de code verhogen.
 
 <img src="media/spaties.png" align="center" width="250px" data-caption="Spaties in Python." />
+
+<div class="callout callout-danger">
+  <p>Wil je dat Python je begrijpt, hou je dan aan de Python-regels!</p>
+</div>
+
+## REPL-cyclus
+* **Read**: Python leest wat er staan.
+* **Evaluate**: Python begrijpt en voert uit.
+* **Print**: Python toont op het scherm.
+* **Loop**: Python geeft beurt terug.
