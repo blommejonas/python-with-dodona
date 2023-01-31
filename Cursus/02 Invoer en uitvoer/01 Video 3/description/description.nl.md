@@ -34,7 +34,7 @@ Gehele getallen en decimale getallen zijn verschillende getalvormen. In Python z
 <img src="media/spaties.png" align="center" width="250px" data-caption="Spaties in Python." />
 
 <div class="callout callout-danger">
-  <p>Wil je dat Python je begrijpt, hou je dan aan de Python-regels!</p>
+  <p>De syntax zijn de taalregels in een programmertaal. De syntax geeft aan welke tekens of symbolen er gebruikt mogen of moeten worden. Houden we ons niet aan de syntaxregels dan kan de code niet uitgevoerd worden. Python begrijpt dan niet wat we bedoelen!</p>
 </div>
 
 ## REPL-cyclus
@@ -42,3 +42,11 @@ Gehele getallen en decimale getallen zijn verschillende getalvormen. In Python z
 * **Evaluate**: Python begrijpt en voert uit.
 * **Print**: Python toont op het scherm.
 * **Loop**: Python geeft beurt terug.
+
+## Goed om te weten
+* Elke berekening heeft zijn eigen specifieke teken (+,-,*,/,...). *dit zijn rekenkundige operatoren*.
+* De P in REPL staat ook voor PROCESS (verwerken). Er wordt immers niet altijd iets geprint.
+* In de editor noteer je opeenvolgende commando’s. Die worden vervolgens na elkaar uitgevoerd. In de CLI zou de uitvoering - coderegel per coderegel - omslachtig zijn. Een reeks opeenvolgende commando’s noemen we een script. Een script kan je opslaan en een bestandsnaam geven.
+* De Python stijlgids (style guide) is een verzameling van vormvoorschriften. Door het volgen van die vormvoorschriften blijft je Pythoncode vlot leesbaar. De stijl gaat over de vorm van de code en dus niet over de syntax. Zo schrijft de stijlgids voor dat je bij een rekenkundige operator bij voorkeur een spatie zet voor en na de operator. Dus liever 5 + 2 dan 5+2. Wanneer veschillende ontwikkelaars dezelfde stijl gebruiken, kunnnen ze elkaars code makkelijk lezen.
+In Python wordt er naar de stijlgids verwezen als PEP 8 (PEP staat voor Python Enhancement Proposal).
+* Elk datatype (integer, float,...) dat we leren kennen in een programmertaal, heeft zijn bestaansreden. Leren programmeren betekent onder andere de verschillende datatypes en hun eigenschappen leren kennen. Die kennis laat ons toe om tijdens het programmeren Python’s reactie op een commando te voorspellen.
