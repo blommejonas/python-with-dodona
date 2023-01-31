@@ -8,7 +8,7 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
 <div>
 <ul>
   <li> Een essentieel onderdeel van een functie zijn de haakjes.<br>
-       *Voorbeeld*: print()
+       <i color="green">Voorbeeld</i>: 'print()'
   </li>
   <li> Tussen de haakjes geef je specifieke informatie mee voor dit commando. <br>
        Wat we noteren tussen de haken van een functie noemen we het argument van de functie. <br>
