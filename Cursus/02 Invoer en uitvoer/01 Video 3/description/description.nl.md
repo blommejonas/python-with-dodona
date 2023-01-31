@@ -5,8 +5,13 @@ In deze video tonen we je hoe je eenvoudige berekeningen met 2 gehele getallen k
 </div>
 
 ## Gehele getallen en rekenkundige operatoren
-
-* Integer : geheel getal (..., -3, -2, -1, 0, 1, 2, 3, ...)
+* **Integer** : geheel getal (..., -3, -2, -1, 0, 1, 2, 3, ...)
 * Operatoren : +  -  *  /
 
-<img src="media/rekenkundige_operatoren.png" align="center" width="700px" data-caption="De rekenkundige operatoren voor de optelling, het verschil, het product en de deling." />
+## Getalvormen
+* **Float**: rationaal getal
+  – Bij deling van twee gehele getallen krijgen we als antwoord een rationaal of een float.
+  – Als decimaal teken wordt een punt gebruikt.
+* De som, het verschil en het product van integers levert als resultaat opnieuw een integer op. De deling van integers levert echter een float op.
+
+<img src="media/rekenkundige_operatoren.png" align="center" width="650px" data-caption="De rekenkundige operatoren voor de optelling, het verschil, het product en de deling." />
