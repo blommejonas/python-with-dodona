@@ -9,4 +9,4 @@ In deze video tonen we je hoe je eenvoudige berekeningen met 2 gehele getallen k
 * Integer : geheel getal (..., -3, -2, -1, 0, 1, 2, 3, ...)
 * Operatoren : +  -  *  /
 
-<img src="media/rekenkundige_operatoren.png" align="center" width="300px" data-caption="De rekenkundige operatoren voor de optelling, het verschil, het product en de deling." />
+<img src="media/rekenkundige_operatoren.png" align="center" width="400px" data-caption="De rekenkundige operatoren voor de optelling, het verschil, het product en de deling." />
