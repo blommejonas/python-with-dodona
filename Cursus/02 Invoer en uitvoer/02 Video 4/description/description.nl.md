@@ -22,7 +22,7 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
 ## String
 <div>
 <ul>
-  <li> De tekst tussen aanhalingstekens vormt een sliert van tekens, wat we in het Engels een **string** noemen.</li>
+  <li> De tekst tussen aanhalingstekens vormt een sliert van tekens, wat we in het Engels een <b>string</b> noemen.</li>
   <li> Gekende datatypes tot nu toe:
     <ul>
       <li> INTEGER: geheel getal </li>
