@@ -44,7 +44,7 @@ Gehele getallen en decimale getallen zijn verschillende getalvormen. In Python z
 * **Loop**: Python geeft beurt terug.
 
 ## Goed om te weten
-* Elke berekening heeft zijn eigen specifieke teken (+,-,*,/,...). *dit zijn rekenkundige operatoren*.
+* Elke berekening heeft zijn eigen specifieke teken (+,-,*,/,...). Dit zijn rekenkundige operatoren.
 * De P in REPL staat ook voor PROCESS (verwerken). Er wordt immers niet altijd iets geprint.
 * In de editor noteer je opeenvolgende commando’s. Die worden vervolgens na elkaar uitgevoerd. In de CLI zou de uitvoering - coderegel per coderegel - omslachtig zijn. Een reeks opeenvolgende commando’s noemen we een script. Een script kan je opslaan en een bestandsnaam geven.
 * De Python stijlgids (style guide) is een verzameling van vormvoorschriften. Door het volgen van die vormvoorschriften blijft je Pythoncode vlot leesbaar. De stijl gaat over de vorm van de code en dus niet over de syntax. Zo schrijft de stijlgids voor dat je bij een rekenkundige operator bij voorkeur een spatie zet voor en na de operator. Dus liever 5 + 2 dan 5+2. Wanneer veschillende ontwikkelaars dezelfde stijl gebruiken, kunnnen ze elkaars code makkelijk lezen.
