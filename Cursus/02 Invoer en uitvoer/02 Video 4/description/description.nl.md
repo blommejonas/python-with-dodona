@@ -5,19 +5,22 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
 </div>
 
 ## Over functies
+<div>
 <ul>
-  <li> Een essentieel onderdeel van een functie zijn de haakjes.
-       Voorbeeld: print()
+  <li> Een essentieel onderdeel van een functie zijn de haakjes.<br>
+       *Voorbeeld*: print()
   </li>
-  <li> Tussen de haakjes geef je specifieke informatie mee voor dit commando. <n>
-       Wat we noteren tussen de haken van een functie noemen we het argument van de functie.
-       Voorbeeld: print(”Hello, World!)
+  <li> Tussen de haakjes geef je specifieke informatie mee voor dit commando. <br>
+       Wat we noteren tussen de haken van een functie noemen we het argument van de functie. <br>
+       *Voorbeeld*: print(”Hello, World!) <br><br>
 
        De tekst die afgedrukt moet worden geef je mee tussen de haakjes en moet steeds
        tussen aanhalingstekens staan. De aanhalingstekens worden NIET afgedrukt.
   </li>
 </ul>
-  
+</div>
+
+
 ## String
 * De tekst tussen aanhalingstekens vormt een sliert van tekens, wat we in het Engels een string noemen.
 * Gekende datatypes tot nu toe:
