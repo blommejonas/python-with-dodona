@@ -30,6 +30,6 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
       <li> STRING: sliert van tekens </li>
     </ul>
   <li> Een string kan alle mogelijke tekens bevatten. </li>
-  <li> Het argument van de functie ’print()’ kan zowel een string, een integer als een float zijn! </li>
+  <li> Het argument van de functie <code>print()</code> kan zowel een string, een integer als een float zijn! </li>
 </ul>
 </div>
