@@ -30,3 +30,5 @@ Gehele getallen en decimale getallen zijn verschillende getalvormen. In Python z
 * Spaties tussen getallen $\rightarrow$ foutmelding
 * Spaties bij begin regel $\rightarrow$ foutmelding
 * Aanwezigheid van spaties kunnen de leesbaarheid van de code verhogen.
+
+<img src="media/spaties.png" align="center" width="250px" data-caption="Spaties in Python." />
