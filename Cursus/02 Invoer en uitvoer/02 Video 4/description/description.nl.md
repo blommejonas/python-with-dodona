@@ -12,7 +12,7 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
   </li>
   <li> Tussen de haakjes geef je specifieke informatie mee voor dit commando. <br>
        Wat we noteren tussen de haken van een functie noemen we het argument van de functie. <br>
-       <i style="color:green;">Voorbeeld</i>: <code>print(”Hello, World!)</code> <br><br>
+       <i style="color:green;">Voorbeeld</i>: <code>print(”Hello, World!")</code> <br><br>
 
        De tekst die afgedrukt moet worden geef je mee tussen de haakjes en moet steeds tussen aanhalingstekens staan. De aanhalingstekens worden NIET afgedrukt.
   </li>
