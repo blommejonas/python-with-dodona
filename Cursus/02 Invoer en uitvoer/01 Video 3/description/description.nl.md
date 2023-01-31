@@ -9,9 +9,14 @@ In deze video tonen we je hoe je eenvoudige berekeningen met 2 gehele getallen k
 * Operatoren : +  -  *  /
 
 ## Getalvormen
-* **Float**: rationaal getal
-    – Bij deling van twee gehele getallen krijgen we als antwoord een rationaal of een float.
-    – Als decimaal teken wordt een punt gebruikt.
-* De som, het verschil en het product van integers levert als resultaat opnieuw een integer op. De deling van integers levert echter een float op.
+<ul> 
+    <li> **Float**: rationaal getal
+         <ul>
+             <li> Bij deling van twee gehele getallen krijgen we als antwoord een rationaal of een float.<\li>
+             <li> Als decimaal teken wordt een punt gebruikt.<\li>
+         <\ul>
+    <\li>
+    <li>De som, het verschil en het product van integers levert als resultaat opnieuw een integer op. De deling van integers levert echter een float op.<\li>
+<\ul>
 
 <img src="media/rekenkundige_operatoren.png" align="center" width="650px" data-caption="De rekenkundige operatoren voor de optelling, het verschil, het product en de deling." />
