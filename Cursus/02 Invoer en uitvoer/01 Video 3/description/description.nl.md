@@ -28,4 +28,5 @@ Gehele getallen en decimale getallen zijn verschillende getalvormen. In Python z
 ## Spaties in Python
 * Spaties tussen getallen en operatoren is geen probleem.
 * Spaties tussen getallen $\rightarrow$ foutmelding
-* Aanwezigheid van spaties verhoogt de leesbaarheid van de code
+* Spaties bij begin regel $\rightarrow$ foutmelding
+* Aanwezigheid van spaties kunnen de leesbaarheid van de code verhogen.
