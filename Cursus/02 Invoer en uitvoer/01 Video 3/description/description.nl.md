@@ -11,7 +11,7 @@ In deze video tonen we je hoe je eenvoudige berekeningen met 2 gehele getallen k
 ## Getalvormen
 <div>
 <ul> 
-    <li> **Float**: rationaal getal
+    <li> <b>Float</b>: rationaal getal
          <ul>
              <li> Bij deling van twee gehele getallen krijgen we als antwoord een rationaal of een float.</li>
              <li> Als decimaal teken wordt een punt gebruikt.</li>
