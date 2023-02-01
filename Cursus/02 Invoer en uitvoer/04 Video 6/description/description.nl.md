@@ -43,8 +43,24 @@ break       except      in          raise </code></pre>
 </div>
 
 ## Over de waarden
-* Waarden kunnen wijzigen (net zoals de inhoud van een lade kan wijzigen)
-* Je kan de waarde dus aanpassen.
-* Python onthoudt enkel de laatste toegekende waarde.
+<div>
+  <ul>
+    <li> Waarden kunnen wijzigen (net zoals de inhoud van een lade kan wijzigen).</li>
+    <li> Je kan de waarde dus aanpassen.</li>
+    <li> Python onthoudt enkel de laatste toegekende waarde.</li>
+  </ul>
+</div>
 
 <img src="media/Over_waarden.png" align="center" width="150px" data-caption="Python onthoudt enkel de laatste toegekende waarde." />
+
+## De toegekende waarde achterhalen
+<div>
+  <ul> 
+    <li> In de CLI: naam variabele typen + ENTER
+         <img src="media/CLI_motorkap.png" align="center" width="150px" data-caption="Door de naam van de variabele in te typen en op ENTER te drukken kan je de                   waarde van de variabele achterhalen." />
+         ’Kijken onder de motorkap.’
+    </li>
+    <li> In de editor: de functie ’print()’
+    </li>
+  </ul>
+</div>
