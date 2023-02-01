@@ -65,6 +65,9 @@ break       except      in          raise </code></pre>
       ’Kijken onder de motorkap.’
     </li>
     <li> In de editor: de functie ’print()’
+      <div align="center">
+         <img src="media/editor_waarde.png" align="center" width="150px" data-caption="In de editor kunnen we de waarde van een variabele enkel achterhalen via de print()-functie." />
+      </div>
     </li>
   </ul>
 </div>
