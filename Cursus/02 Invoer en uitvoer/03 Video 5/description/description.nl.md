@@ -6,6 +6,6 @@ In deze video is er slechts één doel, duidelijk maken wat variabelen zijn. We 
 
 # Analogie
 <div class="callout callout-info">
-  <p>Lades laten toe spullen op te bergen tot ze weer nodig zijn ...</p>
-  <p>Variabelen laten toe waarden op te slaan tot ze weer nodig zijn ...</p>
+  <p><b>Lades</b> laten toe <b>spullen</b> op te bergen tot ze weer nodig zijn ...</p>
+  <p><b>Variabelen</b> laten toe <b>waarden</b> op te slaan tot ze weer nodig zijn ...</p>
 </div>
