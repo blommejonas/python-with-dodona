@@ -21,7 +21,7 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
   </ul>
 </div>
 
-## Over de naam
+## Over de naam van een variabele
 <div>
   <ul>
     <li> De naam van een variabele mag geen spaties bevatten. <br>
@@ -42,7 +42,7 @@ break       except      in          raise </code></pre>
   </ul>
 </div>
 
-## Over de waarden
+## Over de waarden van een variabele
 <div>
   <ul>
     <li> Waarden kunnen wijzigen (net zoals de inhoud van een lade kan wijzigen).</li>
@@ -62,7 +62,7 @@ break       except      in          raise </code></pre>
       <div align="center">
          <img src="media/CLI_motorkap.png" align="center" width="150px" data-caption="Door de naam van de variabele in te typen en op ENTER te drukken kan je de                   waarde van de variabele achterhalen." />
       </div>
-      ’Kijken onder de motorkap.’
+      ’Kijken onder de motorkap.’ (enkel in de CLI!)
     </li>
     <li> <b>In de editor</b>: de functie <code>print()</code>
       <div align="center">
@@ -70,4 +70,13 @@ break       except      in          raise </code></pre>
       </div>
     </li>
   </ul>
+</div>
+
+## Getal als stringwaarde versus getal als getalwaarde
+* Het datatype van (waarden toegekend aan) variabelen kan je beoordelen door ’onder de motorkap’ naar die variabelen te kijken. Het onderscheid tussen de
+datatypes is zichtbaar.
+* Het datatype van (waarden toegekend aan) variabelen kan je NIET beoordelen door deze variabelen af te drukken (via <code>print()</code>. Het onderscheid tussen de datatypes is NIET zichtbaar.
+* Voorbeeld:
+<div align="center">
+  <img src="media/getal_vs_stringwaarde.png" align="center" width="650px" data-caption="In de CLI kan je het datatype van variabelen achterhalen door de naam van de variabele te typen en op ENTER te duwen. Via het print()-commando kan je het datatype van de variabele niet achterhalen." />
 </div>
