@@ -46,4 +46,5 @@ break       except      in          raise </code></pre>
 * Waarden kunnen wijzigen (net zoals de inhoud van een lade kan wijzigen)
 * Je kan de waarde dus aanpassen.
 * Python onthoudt enkel de laatste toegekende waarde.
+
 <img src="media/Over_waarden.png" align="center" width="150px" data-caption="Python onthoudt enkel de laatste toegekende waarde." />
