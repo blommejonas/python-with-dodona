@@ -14,14 +14,20 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
         <li> waarde toekennen aan de variabele </li>
       </ul>
     </li>
-    <li> De toekenning herken je aan de aanwezigheid van 1 is-gelijk-aan-teken </li>
+    <li> De toekenning herken je aan de aanwezigheid van 1 is-gelijk-aan-teken. </li>
     <li> LINKS van ’=’ staat de NAAM van de variabele.<br>
          RECHTS van ’=’ staat de WAARDE van de variabele.
     </li>
     <li> Enkele opmerkingen:
       <ul>
-        <li> geen spaties in naam variabele </li>
-        <li> naam van variabele moet starten met letter </li>
+        <li> De naam van een variabele mag geen spaties bevatten. <br>
+             Omwille van leesbaarheid: vervang spatie door liggend streepje (_).
+        </li>
+        <li> De naam van variabele moet starten met letter of een liggend streepje. </li>
+        <li> Een naam van een variabele mag slechts bestaan uit letters, cijfers, en een liggend streepje. </li>
+        <li> Zowel kleine letters als hoofdletters kunnen (case sensitive). </li>
+        <li> Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn:
+
       </ul>
     </li>
   </ul>
