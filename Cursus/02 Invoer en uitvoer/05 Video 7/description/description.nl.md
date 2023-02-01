@@ -3,3 +3,8 @@ In deze video passen we de opgedane kennis met betrekking tot variabelen toe. Da
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KIQjDof8V-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+## Programma
+<div align="center">
+  <img src="media/eerste_programma.png" align="center" width="150px" data-caption="Voorbeeldprogramma." />
+</div>
