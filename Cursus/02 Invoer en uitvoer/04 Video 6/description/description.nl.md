@@ -47,11 +47,13 @@ break       except      in          raise </code></pre>
   <ul>
     <li> Waarden kunnen wijzigen (net zoals de inhoud van een lade kan wijzigen).</li>
     <li> Je kan de waarde dus aanpassen.</li>
-    <li> Python onthoudt enkel de laatste toegekende waarde.</li>
+    <li> Python onthoudt enkel de laatste toegekende waarde.
+      <div align="center">
+        <img src="media/Over_waarden.png" align="center" width="150px" data-caption="Python onthoudt enkel de laatste toegekende waarde." />
+      </div>
+    </li>
   </ul>
 </div>
-
-<img src="media/Over_waarden.png" align="center" width="150px" data-caption="Python onthoudt enkel de laatste toegekende waarde." />
 
 ## De toegekende waarde achterhalen
 <div>
