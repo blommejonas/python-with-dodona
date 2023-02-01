@@ -78,5 +78,5 @@ datatypes is zichtbaar.
 * Het datatype van (waarden toegekend aan) variabelen kan je NIET beoordelen door deze variabelen af te drukken (via <code>print()</code>. Het onderscheid tussen de datatypes is NIET zichtbaar.
 * Voorbeeld:
 <div align="center">
-  <img src="media/getal_vs_stringwaarde.png" align="center" width="650px" data-caption="In de CLI kan je het datatype van variabelen achterhalen door de naam van de variabele te typen en op ENTER te duwen. Via het print()-commando kan je het datatype van de variabele niet achterhalen." />
+  <img src="media/getal_vs_stringwaarde.png" align="center" width="550px" data-caption="In de CLI kan je het datatype van variabelen achterhalen door de naam van de variabele te typen en op ENTER te duwen. Via het print()-commando kan je het datatype van de variabele niet achterhalen." />
 </div>
