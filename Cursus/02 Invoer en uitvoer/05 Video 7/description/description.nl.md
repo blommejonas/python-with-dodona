@@ -13,3 +13,11 @@ In deze video passen we de opgedane kennis met betrekking tot variabelen toe. Da
 * Start telkens met #.
 * Python negeert deze regel bij uitvoering.
 * Handig om extra uitleg te schrijven bij de code.
+
+## Werken met expressies
+* Een expressie is een combinatie van waarden, constanten, variabelen, operatoren,... die ge¨ınterpreteerd of ge¨evalueerd worden volgens bepaalde regels en vervolgens uitgerekend om uiteindelijk één waarde op te leveren.
+* Aangezien een expressie steeds evalueert naar ´e´en waarde kunnen we overal waar we met een waarde werken ook een expressie gebruiken in Python. Dit geldt o.a. voor het assignement statement: de waarde aan de rechterzijde kunnen we vervangen door een expressie.
+<div align="center">
+  <img src="media/expressie_naar_één_waarde.png" align="center" width="350px" data-caption="Een expressie evalueert steeds naar één waarde." />
+</div>
+* Opmerking: print(expressie) is toegestaan.
