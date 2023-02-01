@@ -35,7 +35,7 @@ and         del         global      not         with
 as          elif        if          or          yield
 assert      else        import      pass
 break       except      in          raiseµ
-</pre></code>
+</code></pre>
       </ul>
     </li>
   </ul>
