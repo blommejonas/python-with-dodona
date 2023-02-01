@@ -28,7 +28,7 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
         <li> Zowel kleine letters als hoofdletters kunnen (case sensitive). </li>
         <li> Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn: 
              <div align="center">
-             <img src="media/keywords.png" align="center" width="550px" data-caption="Analogie variablen en lades." />
+             <img src="media/keywords.png" align="center" width="500px" data-caption="Een naam van een variabele mag geen gereserveerd woord zijn." />
              </div>
         </li>
       </ul>
