@@ -9,3 +9,7 @@ In deze video is er slechts één doel, duidelijk maken wat variabelen zijn. We 
   <p><b>Lades</b> laten toe <b>spullen</b> op te bergen tot ze weer nodig zijn ...</p>
   <p><b>Variabelen</b> laten toe <b>waarden</b> op te slaan tot ze weer nodig zijn ...</p>
 </div>
+
+Het geheugen van Python kan je vergelijken met een kast met lades:
+
+<img src="media/variabelen.png" align="center" width="650px" data-caption="Analogie variablen en lades." />
