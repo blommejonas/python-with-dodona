@@ -14,6 +14,9 @@ Het geheugen van Python kan je vergelijken met een kast met lades:
 
 <img src="media/variabelen.png" align="center" width="650px" data-caption="Analogie variablen en lades." />
 
-* Zoals je een <span style="color:green">voorwerp</span> kan op slaan in een lade, <br> zo kan je een waarde opslaan in een variabele.
-* Bij een lade helpt het label het voorwerp terug te vinden, <br> bij een variabele helpt de naam de waarde terug te vinden.
-* Zoals er geen 2 lades zijn met hetzelfde label, <br> zijn er geen 2 variabelen met dezelfde naam.
+* Zoals je een <span style="color:green">voorwerp</span> kan op slaan in een <span style="color:red">lade</span>, <br> 
+zo kan je een <span style="color:green">waarde</span> opslaan in een <span style="color:red">variabele</span>.
+* Bij een <span style="color:red">lade</span> helpt het <span style="color:blue">label</span> het <span style="color:green">voorwerp</span> terug te vinden, <br> 
+bij een <span style="color:red">variabele</span> helpt de <span style="color:blue">naam</span> de <span style="color:green">waarde</span> terug te vinden.
+* Zoals er geen 2 <span style="color:red">lades</span> zijn met hetzelfde <span style="color:blue">label</span>, <br> 
+zijn er geen 2 <span style="color:red">variabelen</span> met dezelfde <span style="color:blue">naam</span>.
