@@ -19,7 +19,7 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
 </ul>
 </div>
 
-<img src="media/print_string.png" align="center" width="350px" data-caption="Aanhalingstekens moeten er staat." />
+<img src="media/print_string.png" align="center" width="350px" data-caption="Aanhalingstekens moeten er staan. Anders bekom je een foutmelding." />
 
 ## String
 <div>
