@@ -6,5 +6,10 @@ In deze video passen we de opgedane kennis met betrekking tot variabelen toe. Da
 
 ## Programma
 <div align="center">
-  <img src="media/eerste_programma.png" align="center" width="650px" data-caption="Voorbeeldprogramma." />
+  <img src="media/eerste_programma.png" align="center" width="550px" data-caption="Voorbeeldprogramma." />
 </div>
+
+## Commentaarregels
+* Start telkens met #.
+* Python negeert deze regel bij uitvoering.
+* Handig om extra uitleg te schrijven bij de code.
