@@ -14,10 +14,12 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
        Wat we noteren tussen de haken van een functie noemen we het argument van de functie. <br>
        <i style="color:green;">Voorbeeld</i>: <code>print(”Hello, World!")</code> <br><br>
 
-       De tekst die afgedrukt moet worden geef je mee tussen de haakjes en moet steeds tussen aanhalingstekens staan. De aanhalingstekens worden NIET afgedrukt.
+       De tekst die afgedrukt moet worden geef je mee tussen de haakjes en moet steeds tussen aanhalingstekens staan (zoniet krijg je een foutmelding). De aanhalingstekens worden NIET afgedrukt.
   </li>
 </ul>
 </div>
+
+<img src="media/print_string.png" align="center" width="250px" data-caption="Aanhalingstekens moeten er staat." />
 
 ## String
 <div>
@@ -34,6 +36,8 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
   <li> Het argument van de functie <code>print()</code> kan zowel een string, een integer als een float zijn! </li>
 </ul>
 </div>
+
+<img src="media/print_datatype.png" align="center" width="250px" data-caption="Het argument van de functie <code>print()</code> kan zowel een string, een integer als een float zijn!" />
 
 ## Goed om te weten
 <div>
