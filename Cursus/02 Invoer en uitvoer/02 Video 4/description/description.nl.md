@@ -34,3 +34,20 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
   <li> Het argument van de functie <code>print()</code> kan zowel een string, een integer als een float zijn! </li>
 </ul>
 </div>
+
+## Goed om te weten
+<div>
+  <ul>
+    <li> De Python stijlgids (PEP8) vraagt:
+      <ul>
+        <li> om de haakjes van de functie vast te plakken aan de functienaam, </li>
+        <li> om geen staties te zetten tussen het openingshaakje en het eerste argument. </li>
+      </ul>
+    </li>
+    <li> Met witruimte wordt de ruimte aangeduid die niet gebruikt is voor de tekst.
+         Ook spaties die we toevoegen omwille van leesbaarheid worden witruimte genoemd.
+    </li>
+    <li> Softwareontwikkelaars onthouden niet alle regels van een programmertaal. Dat is ook niet nodig. Bij twijfel test een ontwikkelaar de functionaliteit en vermoedelijke syntax in de CLI. Dit is vaak de snelste manier om tot werkende code te komen. Als de ontwikkelaar er op die manier niet snel uit komt, raadpleegt hij de Python user manual.
+    </li>
+  </ul>
+</div>
