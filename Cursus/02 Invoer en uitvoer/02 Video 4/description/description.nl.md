@@ -19,7 +19,7 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
 </ul>
 </div>
 
-<img src="media/print_string.png" align="center" width="250px" data-caption="Aanhalingstekens moeten er staat." />
+<img src="media/print_string.png" align="center" width="350px" data-caption="Aanhalingstekens moeten er staat." />
 
 ## String
 <div>
@@ -37,7 +37,7 @@ In deze video introduceren we het concept “functie” en leer je de functie pr
 </ul>
 </div>
 
-<img src="media/print_datatype.png" align="center" width="250px" data-caption="Het argument van de functie <code>print()</code> kan zowel een string, een integer als een float zijn!" />
+<img src="media/print_datatype.png" align="center" width="150px" data-caption="Het argument van de functie <code>print()</code> kan zowel een string, een integer als een float zijn!" />
 
 ## Goed om te weten
 <div>
