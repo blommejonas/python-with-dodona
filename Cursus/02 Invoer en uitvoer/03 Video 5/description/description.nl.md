@@ -13,3 +13,7 @@ In deze video is er slechts één doel, duidelijk maken wat variabelen zijn. We 
 Het geheugen van Python kan je vergelijken met een kast met lades:
 
 <img src="media/variabelen.png" align="center" width="650px" data-caption="Analogie variablen en lades." />
+
+* Zoals je een <span color:"green">voorwerp</span> kan op slaan in een lade, <br> zo kan je een waarde opslaan in een variabele.
+* Bij een lade helpt het label het voorwerp terug te vinden, <br> bij een variabele helpt de naam de waarde terug te vinden.
+* Zoals er geen 2 lades zijn met hetzelfde label, <br> zijn er geen 2 variabelen met dezelfde naam.
