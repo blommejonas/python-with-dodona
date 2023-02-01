@@ -58,9 +58,9 @@ break       except      in          raise </code></pre>
   <ul> 
     <li> In de CLI: naam variabele typen + ENTER
       <div align="center">
-         <img src="media/CLI_motorkap.png" align="center" width="150px" data-caption="Door de naam van de variabele in te typen en op ENTER te drukken kan je de                   waarde van de variabele achterhalen." /> <br>
-         ’Kijken onder de motorkap.’
+         <img src="media/CLI_motorkap.png" align="center" width="150px" data-caption="Door de naam van de variabele in te typen en op ENTER te drukken kan je de                   waarde van de variabele achterhalen." />
       </div>
+      ’Kijken onder de motorkap.’
     </li>
     <li> In de editor: de functie ’print()’
     </li>
