@@ -66,7 +66,7 @@ break       except      in          raise </code></pre>
     </li>
     <li> <b>In de editor</b>: de functie <code>print()</code>
       <div align="center">
-         <img src="media/editor_waarde.png" align="center" width="150px" data-caption="In de editor kunnen we de waarde van een variabele enkel achterhalen via de print()-functie." />
+         <img src="media/editor_waarde.png" align="center" width="650px" data-caption="In de editor kunnen we de waarde van een variabele enkel achterhalen via de print()-functie." />
       </div>
     </li>
   </ul>
