@@ -80,3 +80,8 @@ datatypes is zichtbaar.
 <div align="center">
   <img src="media/getal_vs_stringwaarde.png" align="center" width="550px" data-caption="In de CLI kan je het datatype van variabelen achterhalen door de naam van de variabele te typen en op ENTER te duwen. Via het print()-commando kan je het datatype van de variabele niet achterhalen." />
 </div>
+
+## Goed om te weten
+* De Python style guide (PEP8) adviseert om bij een assignment statement een spatie voor en een spatie na het is-gelijk-teken te zetten.
+* Het is belangrijk om het datatype van een variabele of waarde te kennen. We vermeldden eerder al dat die kennis ons toelaat om tijdens het programmeren Python’s reactie op een commando te voorspellen. Onthoud dat het ’onder de motorkap’ bekijken van een variabele toelaat om het datatype te beoordelen.
+* Soms worden getallen opgeslagen als stringwaarden. Dat doen we wanneer deze getallen de eigenschappen van stringwaarden nodig hebben en niet die van getalwaarden. Zo is het bijvoorbeeld niet zinvol een huisnummer of postcode op te slaan als een integer. We voeren nooit berekeningen uit met huisnummers of postcode, noch tonen we ze in grafieken.
