@@ -58,13 +58,13 @@ break       except      in          raise </code></pre>
 ## De toegekende waarde achterhalen
 <div>
   <ul> 
-    <li> In de CLI: naam variabele typen + ENTER
+    <li> <b>In de CLI</b>: naam variabele typen + ENTER
       <div align="center">
          <img src="media/CLI_motorkap.png" align="center" width="150px" data-caption="Door de naam van de variabele in te typen en op ENTER te drukken kan je de                   waarde van de variabele achterhalen." />
       </div>
       ’Kijken onder de motorkap.’
     </li>
-    <li> In de editor: de functie ’print()’
+    <li> <b>In de editor</b>: de functie <code>print()</code>
       <div align="center">
          <img src="media/editor_waarde.png" align="center" width="150px" data-caption="In de editor kunnen we de waarde van een variabele enkel achterhalen via de print()-functie." />
       </div>
