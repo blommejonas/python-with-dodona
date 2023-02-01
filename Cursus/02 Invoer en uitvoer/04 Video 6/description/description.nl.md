@@ -26,8 +26,9 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
         <li> De naam van variabele moet starten met letter of een liggend streepje. </li>
         <li> Een naam van een variabele mag slechts bestaan uit letters, cijfers, en een liggend streepje. </li>
         <li> Zowel kleine letters als hoofdletters kunnen (case sensitive). </li>
-        <li> Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn:
-
+        <li> Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn: 
+             <img src="media/keywords.png" align="center" width="550px" data-caption="Analogie variablen en lades." />
+        </li>
       </ul>
     </li>
   </ul>
