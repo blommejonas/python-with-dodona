@@ -14,7 +14,7 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
         <li> waarde toekennen aan de variabele </li>
       </ul>
     </li>
-    <li> Toekenning herken je aan de aanwezigheid van 1 isgelijkaanteken </li>
+    <li> De toekenning herken je aan de aanwezigheid van 1 is-gelijk-aan-teken </li>
     <li> LINKS van ’=’ staat de NAAM van de variabele.<br>
          RECHTS van ’=’ staat de WAARDE van de variabele.
     </li>
