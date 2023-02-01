@@ -9,7 +9,7 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
   <ul>
     <li> Een assignment statement bundelt drie processen
       <ul>
-        <li> cre¨eren van een variabele </li>
+        <li> creëren van een variabele </li>
         <li> naam geven aan de variabele </li>
         <li> waarde toekennen aan de variabele </li>
       </ul>
