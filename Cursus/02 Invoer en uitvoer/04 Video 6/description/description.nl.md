@@ -27,15 +27,13 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
         <li> Een naam van een variabele mag slechts bestaan uit letters, cijfers, en een liggend streepje. </li>
         <li> Je mag zowel hoofd- als kleine letters gebruiken in namen van variabelen, maar je moet wel beseffen dat Python “case sensitive” is, dus gevoelig voor de              verschillen tussen hoofd- en kleine letters. Bijvoorbeeld, de variabele naam <code>wereld</code> is voor Python niet hetzelfde als de variabele naam                  <code>Wereld</code>. </li>
         <li> Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn:
-<pre><code>
-False       class       finally     is          return
+<pre><code>False       class       finally     is          return
 None        continue    for         lambda      try
 True        def         from        nonlocal    while
 and         del         global      not         with
 as          elif        if          or          yield
 assert      else        import      pass
-break       except      in          raise
-</code></pre>
+break       except      in          raise </code></pre>
         </li>
       </ul>
     </li>
