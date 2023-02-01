@@ -25,10 +25,10 @@ In deze video creëren we variabelen, geven ze een naam en kennen er een waarde 
         </li>
         <li> De naam van variabele moet starten met letter of een liggend streepje. </li>
         <li> Een naam van een variabele mag slechts bestaan uit letters, cijfers, en een liggend streepje. </li>
-        <li> Je mag zowel hoofd- als kleine letters gebruiken in namen van variabelen, maar je moet wel beseffen dat Python “case sensitive” is, dus gevoelig voor de verschillen tussen hoofd- en kleine letters. Bijvoorbeeld, de variabele naam <code>wereld</code> is voor Python niet hetzelfde als de variabele naam <code>Wereld</code>. </li>
+        <li> Je mag zowel hoofd- als kleine letters gebruiken in namen van variabelen, maar je moet wel beseffen dat Python “case sensitive” is, dus gevoelig voor de              verschillen tussen hoofd- en kleine letters. Bijvoorbeeld, de variabele naam <code>wereld</code> is voor Python niet hetzelfde als de variabele naam                  <code>Wereld</code>. </li>
         <li> Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn:</li>
         <div align="center">
-          <img src="media/keywords.png" align="center" width="450px" data-caption="Een naam van een variabele mag geen gereserveerd woord zijn." />
+          <img src="media/keywords.png" top-margin="5px" align="center" width="450px" data-caption="Een naam van een variabele mag geen gereserveerd woord zijn." />
         </div>
       </ul>
     </li>
