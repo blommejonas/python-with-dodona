@@ -9,3 +9,7 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 * Tussen de haakjes: vraag die we willen stellen
 * Na het intypen van het antwoord steeds ENTER drukken.
 * Opmerking: de functie print() kan hier niet voor gebruikt worden. Deze kan wel een waarde (=stringwaarde) op het scherm tonen maar wacht vervolgens NIET op een antwoord.
+
+<div align="center">
+  <img src="media/input.png" align="center" width="250px" data-caption="De input()-functie." />
+</div>
