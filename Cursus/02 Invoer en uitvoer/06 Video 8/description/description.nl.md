@@ -32,5 +32,5 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
   <img src="media/concatenation.png" align="center" width="600px" data-caption="Het plakken van strings: concatenation." />
 </div>
 
-<p><b style="color:red">LET OP</b>: vergeet niet dat het resulaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat: </p>
+<b style="color:red">LET OP</b>: vergeet niet dat het resulaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat:
 
