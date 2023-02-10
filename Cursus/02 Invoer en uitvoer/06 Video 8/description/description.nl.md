@@ -19,3 +19,7 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 </div>
 
 * Het antwoord op de vraag is een waarde die we kunnen toekennen aan een variabele.
+
+<div align="center">
+  <img src="media/input_in_variabele.png" align="center" width="250px" data-caption="De input()-functie." />
+</div>
