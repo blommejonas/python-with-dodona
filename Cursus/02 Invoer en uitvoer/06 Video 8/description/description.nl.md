@@ -13,3 +13,9 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 <div align="center">
   <img src="media/input.png" align="center" width="250px" data-caption="De input()-functie." />
 </div>
+
+<div class="callout callout-info">
+  <p>Het resultaat van de functie input() is automatisch een string-waarde, ook al heeft de gebruiker zelf geen aanhalingstekens geplaatst</p>
+</div>
+
+* Het antwoord op de vraag is een waarde die we kunnen toekennen aan een variabele.
