@@ -26,8 +26,11 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 
 ## Het plakken van strings: concatenation
 * We gebruiken hiervoor het ’+’-teken.
-* In het voorbeeld worden 3 strings aan elkaar geplakt: voornaam, een spatie en achternaam.
+* In het voorbeeld worden 3 strings aan elkaar geplakt: voornaam, een spatie en familienaam.
 
 <div align="center">
   <img src="media/concatenation.png" align="center" width="600px" data-caption="Het plakken van strings: concatenation." />
 </div>
+
+<p><b style="color:red">LET OP</b>: vergeet niet dat het resulaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat: </p>
+
