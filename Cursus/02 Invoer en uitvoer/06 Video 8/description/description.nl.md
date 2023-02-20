@@ -32,5 +32,13 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
   <img src="media/concatenation.png" align="center" width="600px" data-caption="Het plakken van strings: concatenation." />
 </div>
 
-<b style="color:red">LET OP</b>: vergeet niet dat het resulaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat:
+<b style="color:red">LET OP</b>: vergeet niet dat het resultaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat:
 
+<div align="center">
+  <img src="media/concatenation_ongewenst.png" align="center" width="600px" data-caption="Het resultaat van de functie input() is een STRING-waarde." />
+</div>
+
+## Rol van het plusteken
+Het plusteken gedraagt zich anders volgens datatype:
+* stringwaarde + stringwaarde: ”12”+”34”wordt de string ’1234’
+* integer + integer : 12 + 34 wordt de integer 46
