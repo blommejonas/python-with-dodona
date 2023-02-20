@@ -21,7 +21,7 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 * Het antwoord op de vraag is een waarde die we kunnen toekennen aan een variabele.
 
 <div align="center">
-  <img src="media/input_in_variabele.png" align="center" width="280px" data-caption="De input()-functie." />
+  <img src="media/input_in_variabele.png" align="center" width="300px" data-caption="De input()-functie." />
 </div>
 
 ## Het plakken van strings: concatenation
@@ -29,13 +29,13 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 * In het voorbeeld worden 3 strings aan elkaar geplakt: voornaam, een spatie en familienaam.
 
 <div align="center">
-  <img src="media/concatenation.png" align="center" width="600px" data-caption="Het plakken van strings: concatenation." />
+  <img src="media/concatenation.png" align="center" width="650px" data-caption="Het plakken van strings: concatenation." />
 </div>
 
 <b style="color:red">LET OP</b>: vergeet niet dat het resultaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat:
 
 <div align="center">
-  <img src="media/concatenation_ongewenst.png" align="center" width="600px" data-caption="Het resultaat van de functie input() is een STRING-waarde." />
+  <img src="media/concatenation_ongewenst.png" align="center" width="550px" data-caption="Het resultaat van de functie input() is een STRING-waarde." />
 </div>
 
 ## Rol van het plusteken
