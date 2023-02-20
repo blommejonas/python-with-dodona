@@ -35,7 +35,7 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 <b style="color:red">LET OP</b>: vergeet niet dat het resultaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat:
 
 <div align="center">
-  <img src="media/concatenation_ongewenst.png" align="center" width="550px" data-caption="Het resultaat van de functie input() is een STRING-waarde." />
+  <img src="media/concatenation_ongewenst.png" align="center" width="600px" data-caption="Het resultaat van de functie input() is een STRING-waarde." />
 </div>
 
 ## Rol van het plusteken
