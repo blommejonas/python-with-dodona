@@ -29,7 +29,7 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 * In het voorbeeld worden 3 strings aan elkaar geplakt: voornaam, een spatie en familienaam.
 
 <div align="center">
-  <img src="media/concatenation.png" align="center" width="650px" data-caption="Het plakken van strings: concatenation." />
+  <img src="media/concatenation.png" align="center" width="600px" data-caption="Het plakken van strings: concatenation." />
 </div>
 
 <b style="color:red">LET OP</b>: vergeet niet dat het resultaat van de functie input() een STRING-waarde is. Volgend programma geeft dus niet het gewenste resultaat:
