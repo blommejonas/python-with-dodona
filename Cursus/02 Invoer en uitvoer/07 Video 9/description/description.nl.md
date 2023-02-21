@@ -27,5 +27,6 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
     <div align="center">
       <code>int(”15.23")</code> &#8594; 23
     </div>
+  </li>
 </ul>
 
