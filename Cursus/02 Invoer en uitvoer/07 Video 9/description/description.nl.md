@@ -10,7 +10,7 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
 * int(waarde) controleert of de waarde een integer kan voorstellen. Indien dit zo is, geeft de functie die integer-waarde terug!
 
 <div align="center">
-  <code>int(”15")</code> &rarr 15
+  <p><code>int(”15")</code> &rarr 15<\p>
 </div>
 
 * Deze functie zet dus een string om naar integer.
