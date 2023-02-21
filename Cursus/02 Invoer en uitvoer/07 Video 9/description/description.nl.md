@@ -47,5 +47,13 @@ Een expressie is een combinatie van waarden, constanten, variabelen, operatoren 
   </li>
   <li> De functie int() zet o.a. een waarde van het datatype string om naar een waarde van het datatype integer. Zo is de integerwaarde beschikbaar voor verdere         verwerking.
   </li>
-  
+  <li> Synoniemen voor ’een waarde beschikbaar maken’:
+    <ul> 
+      <li> een waarde opleveren</li>
+      <li> een waarde retourneren</li>
+    </ul>
+    In het Engels wordt dit ’returning a value’.
+  </li>
+  <li> Niet elke functie maakt een waarde beschikbaar, zoals de functie int(). De functie print() voert een taak uit, namelijk afdrukken op een scherm, zonder een       waarde beschikbaar te maken.
+  </li>
 </ul>
