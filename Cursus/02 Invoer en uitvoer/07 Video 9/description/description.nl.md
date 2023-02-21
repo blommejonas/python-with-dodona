@@ -31,7 +31,7 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
 </ul>
 
 ## Uitbreiding definitie expressie
-Een expressie is een combinatie van waarden, constanten, variabelen, operatoren en <b>functies</b> die geïnterpreteerd of ge¨evalueerd worden volgens bepaalde regels en vervolgens uitgerekend om uiteindelijk ´e´en waarde op te leveren.
+Een expressie is een combinatie van waarden, constanten, variabelen, operatoren en <b>functies</b> die geïnterpreteerd of geëvalueerd worden volgens bepaalde regels en vervolgens uitgerekend om uiteindelijk één waarde op te leveren.
 <div align="center">
   <img src="media/expressie_naar_één_waarde.png" align="center" width="350px" data-caption="Een expressie evalueert steeds naar één waarde." />
 </div>
