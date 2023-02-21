@@ -30,3 +30,30 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
   </li>
 </ul>
 
+## Uitbreiding definitie expressie
+Een expressie is een combinatie van waarden, constanten, variabelen, operatoren en <b>functies</b> die geïnterpreteerd of ge¨evalueerd worden volgens bepaalde regels en vervolgens uitgerekend om uiteindelijk ´e´en waarde op te leveren.
+<div align="center">
+  <img src="media/expressie_naar_één_waarde.png" align="center" width="350px" data-caption="Een expressie evalueert steeds naar één waarde." />
+</div>
+
+## Overzicht van de reeds geziene functies
+* <code>print(waarde)</code>
+* <code>input(waarde)</code>
+* <code>int(waarde)</code>
+
+## Goed om te weten
+<ul>
+  <li> De functie int() behoort tot de groep van de type conversion functies. Het is immers een functie die het datatype convergeert (omzet) naar een ander datatype. 
+  </li>
+  <li> De functie int() zet o.a. een waarde van het datatype string om naar een waarde van het datatype integer. Zo is de integerwaarde beschikbaar voor verdere         verwerking.
+  </li>
+  <li> Synoniemen voor ’een waarde beschikbaar maken’:
+    <ul> 
+      <li> een waarde opleveren</li>
+      <li> een waarde retourneren</li>
+    </ul>
+    In het Engels wordt dit ’returning a value’.
+  <li> Niet elke functie maakt een waarde beschikbaar, zoals de functie int().
+    De functie print() voert een taak uit, namelijk afdrukken op een scherm, zonder een waarde beschikbaar te maken.
+  </li>
+</ul>
