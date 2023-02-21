@@ -1,5 +1,6 @@
 {
   "type": "content",
+  "programming_language": "python",
   "description": {
     "names": {
       "nl": "Video 09: de functie int()"
