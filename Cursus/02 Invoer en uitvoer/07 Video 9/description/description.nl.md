@@ -15,7 +15,9 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
   </li>
   <li> Deze functie zet dus een string om naar integer.</li>
   <li> Terug naar ons programma som van 2 getallen:
-    <img src="media/functie_int.png" align="center" width="350px" data-caption="Aanhalingstekens moeten er staan. Anders bekom je een foutmelding." />
+    <div align="center">
+      <img src="media/functie_int.png" align="center" width="600px" data-caption="De functie int()." />
+    </div>
   </li>
 </ul>
 
