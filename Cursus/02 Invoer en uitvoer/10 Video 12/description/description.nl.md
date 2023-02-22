@@ -3,3 +3,9 @@ In deze video leren we de functie str() kennen, die ons toelaat om een getal om 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RG4yR9EmR_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+We weten reeds hoe we een stringwaarde kunnen omzetten naar een integer-waarde, namelijk met de functie int(). Het omgekeerde komt ook veel voor. Hiervoor hebben we de functie str() nodig.
+
+<div align="center">
+  <img src="media/type_conversion.png" align="center" width="600px" data-caption="Type conversion integer versus string." />
+</div>
