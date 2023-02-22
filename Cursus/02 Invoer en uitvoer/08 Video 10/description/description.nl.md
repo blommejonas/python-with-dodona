@@ -24,14 +24,16 @@ Elke programmeertaal gebruikt een aantal standaard datatypes:<br>
 
 ## Hoe komt een waarde aan een datatype?
 Python baseert zich hiervoor op een aantal duidelijke afspraken en regels: <br>
-<b>Afspraken:</b>
-<ul>
-  <li> waardie die begint en eindigt met ” ”⇒ tussen aanhalingstekens is string, </li>
-  <li> waarde met aan elkaar plakkende cijfers ⇒ integer, </li>
-  <li> waarde met aan elkaar plakkende cijfers met 1 punt ertussen ⇒ float. </li>
-</ul>
-<b>Regels:</b>
-<ul>
-  <li> som, verschil, prodcut van 2 integers ⇒ integer </li>
-  <li> deling van 2 integers ⇒ float </li>
-</ul>
+<div>
+  <b>Afspraken:</b>
+  <ul>
+    <li> waardie die begint en eindigt met ” ”⇒ tussen aanhalingstekens is string, </li>
+    <li> waarde met aan elkaar plakkende cijfers ⇒ integer, </li>
+    <li> waarde met aan elkaar plakkende cijfers met 1 punt ertussen ⇒ float. </li>
+  </ul>
+  <b>Regels:</b>
+  <ul>
+    <li> som, verschil, prodcut van 2 integers ⇒ integer </li>
+    <li> deling van 2 integers ⇒ float </li>
+  </ul>
+</div>
