@@ -33,7 +33,7 @@ Python baseert zich hiervoor op een aantal duidelijke afspraken en regels: <br>
   </ul>
   <b>Regels:</b>
   <ul>
-    <li> som, verschil, prodcut van 2 integers ⇒ integer </li>
+    <li> som, verschil, product van 2 integers ⇒ integer </li>
     <li> deling van 2 integers ⇒ float </li>
   </ul>
 </div>
