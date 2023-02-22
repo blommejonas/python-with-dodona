@@ -15,6 +15,6 @@ Elke programmeertaal gebruikt een aantal standaard datatypes:
 ## De functie type()
 * Met deze functie kan je het datatype van een waarde achterhalen.
   <div align="center">
-    <img src="media/functie_int_efficiënter.png" align="center" width="600px" data-caption="De functie int()." />
+    <img src="media/functie_type.png" align="center" width="100px" data-caption="De functie type()." />
   </div>
 * Ook een expressie mag tussen de haakjes geplaatst worden.
