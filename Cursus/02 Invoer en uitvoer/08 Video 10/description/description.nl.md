@@ -8,7 +8,7 @@ We weten al dat we getallen in een variabele kunnen opslaan als stringwaarde of 
 Door een variabele ’onder de motorkap’ te bekijken, kan je het datatype beoordelen.
 
 ## Datatypes
-Datatypes helpen programmeurs om tijdens het programmeren op een gestructureerde en efficiënte wijze hun doel te bereiken en om fouten te vermijden. <br>
+Datatypes helpen programmeurs om tijdens het programmeren op een gestructureerde en efficiënte wijze hun doel te bereiken en om fouten te vermijden.
 Elke programmeertaal gebruikt een aantal standaard datatypes:<br>
 <i style="color:green;">Voorbeelden</i>: integer, float, string.
 
@@ -21,3 +21,17 @@ Elke programmeertaal gebruikt een aantal standaard datatypes:<br>
   <div align="center">
     <img src="media/functie_type_expressie.png" align="center" width="220px" data-caption="De functie type() met expressies." />
   </div>
+
+## Hoe komt een waarde aan een datatype?
+Python baseert zich hiervoor op een aantal duidelijke afspraken en regels: <br>
+<b>Afspraken:</b>
+<ul>
+  <li> waardie die begint en eindigt met ” ”⇒ tussen aanhalingstekens is string, </li>
+  <li> waarde met aan elkaar plakkende cijfers ⇒ integer, </li>
+  <li> waarde met aan elkaar plakkende cijfers met 1 punt ertussen ⇒ float. </li>
+</ul>
+<b>Regels:</b>
+<ul>
+  <li> som, verschil, prodcut van 2 integers ⇒ integer </li>
+  <li> deling van 2 integers ⇒ float </li>
+</ul>
