@@ -18,3 +18,6 @@ Elke programmeertaal gebruikt een aantal standaard datatypes:
     <img src="media/functie_type.png" align="center" width="100px" data-caption="De functie type()." />
   </div>
 * Ook een expressie mag tussen de haakjes geplaatst worden.
+  <div align="center">
+    <img src="media/functie_type_expressie.png" align="center" width="200px" data-caption="De functie type() met expressies." />
+  </div>
