@@ -8,7 +8,7 @@ In deze video leren we hoe we een getal tot een macht verheffen en hoe we machts
 Symbool machtsverheffing: ** <br><br>
 <b style="color:green;">Voorbeeld</b>: $$8^2$$<br>
 <div align="center">
-  <img src="media/machtsverheffing.png" align="center" width="50px" data-caption="Syntax machtsverheffing." />
+  <img src="media/machtsverheffing.png" align="center" width="60px" data-caption="Syntax machtsverheffing." />
 </div>
 Het resultaat is een <b>integer</b>.
 
