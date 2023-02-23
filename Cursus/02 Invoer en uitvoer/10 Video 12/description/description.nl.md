@@ -9,6 +9,7 @@ We weten reeds hoe we een stringwaarde kunnen omzetten naar een integer-waarde, 
 <div align="center">
   <img src="media/type_conversion.png" align="center" width="300px" data-caption="Type conversion integer versus string." />
 </div>
+<br>
 
 ## Voorbeeld
 <div align="center">
@@ -29,7 +30,7 @@ De zin die op het scherm moet komen, bestaat uit 3 delen: 2 delen met vaste teks
 rekeningsaldo. Deze 3 stukjes kunnen we aan elkaar plakken door <b>concatenation</b>. Dit lukt alleen maar als de afzonderlijke stukjes strings zijn!
 
 <div align="center">
-  <img src="media/functie_str_voorbeeld.png" align="center" width="650px" data-caption="Toepassing van de functie str()." />
+  <img src="media/functie_str_voorbeeld.png" align="center" width="700px" data-caption="Toepassing van de functie str()." />
 </div>
 
 Merk op dat de variabele nog steeds van het type integer is!
