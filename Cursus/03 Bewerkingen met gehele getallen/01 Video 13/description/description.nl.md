@@ -15,7 +15,7 @@ Het resultaat is een <b>integer</b>.
 ## Syntax machtswortel
 Een n-de machtswortel kunnen we als volgt schrijven:
 <div align="center">
-  $$\sqrt[n]{getal} = getal^{\frac{1}{n}}$$
+  $$\sqrt[n]{\text{getal}} = \text{getal}^{\frac{1}{n}}$$
 </div>
 We hoeven dus geen nieuw symbool.<br><br>
 <b style="color:green;">Voorbeelden</b>: $$\sqrt{49}$$, $$\sqrt[3]{27}$$ en $$\sqrt[4]{625}$$<br> 
