@@ -7,5 +7,5 @@ In deze video leren we de functie str() kennen, die ons toelaat om een getal om 
 We weten reeds hoe we een stringwaarde kunnen omzetten naar een integer-waarde, namelijk met de functie int(). Het omgekeerde komt ook veel voor. Hiervoor hebben we de functie str() nodig.
 
 <div align="center">
-  <img src="media/type_conversion.png" align="center" width="600px" data-caption="Type conversion integer versus string." />
+  <img src="media/type_conversion.png" align="center" width="300px" data-caption="Type conversion integer versus string." />
 </div>
