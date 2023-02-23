@@ -4,7 +4,34 @@ In deze video schenken we aandacht aan berekeningen met meer dan 2 getallen. Op 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/N2N80yazET4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-## De voorrangsregels
+## De voorrangspiramide
 <div align="center">
   <img src="media/voorrangsregels.png" align="center" width="550px" data-caption="De voorrangsregels." />
 </div>
+
+<ul>
+  <li><b>Haakjes</b> hebben altijd voorrang.</li>
+  <li>Dan volgen de <b>powers</b>:
+    <ul>
+      <li>machten</li>
+      <li>machtswortels</li>
+      <li>logaritmen</li>
+    </ul>
+    
+  </li>
+  <li>Tenslotte de <b>gelijkwaardige bewerkingen</b>:
+    <ul>
+      <li>eerst product en deling</li>
+      <li>dan som en verschil</li>
+    </ul>
+  </li>
+</ul>
+
+Dit is dus identiek aan de voorrangsregels in wiskunde.
+
+## Gelijkwaardige bewerkingen
+* Steeds uitvoeren van links naar rechts.
+  Voorbeeld: 12/4*3=9
+* Uitzondering op de links-rechts-regel: opeenvolging van machten.
+  Hier werken we van rechts naar links!
+  Voorbeeld: 2**3**2 = 2**(3**2) = 2**9 = 512
