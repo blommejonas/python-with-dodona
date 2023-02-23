@@ -15,9 +15,12 @@ Het resultaat is een integer.
 ## Syntax machtswortel
 Een n-de machtswortel kunnen we als volgt schrijven:
 <div align="center">
-  $$/sqrt[n]{getal} = getal^{/frac{1}{n}}
+  $$/sqrt[n]{getal} = getal^{/frac{1}{n}}$$
 </div>
-We hoeven dus geen nieuw symbool.
-Het resultaat is een float.
-Voorbeeld:
+We hoeven dus geen nieuw symbool.<br>
+Het resultaat is een float.<br>
+<b style="color:green;">Voorbeelden</b>: $$8^2$$<br>: $$sqrt{49}$$, $$sqrt[3]{27}$$ en $$sqrt[4]{625}$$<br> 
+<div align="center">
+  <img src="media/machtswortels.png" align="center" width="100px" data-caption="Syntax machtswortel." />
+</div>
 Opmerking: haakjes rond 1/n moeten er staan!
