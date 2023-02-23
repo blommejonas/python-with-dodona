@@ -17,7 +17,6 @@ In deze video schenken we aandacht aan berekeningen met meer dan 2 getallen. Op 
     <ul>
       <li>machten</li>
       <li>machtswortels</li>
-      <li>logaritmen</li>
     </ul>
     
   </li>
@@ -34,10 +33,10 @@ Dit is dus identiek aan de voorrangsregels in wiskunde.
 ## Gelijkwaardige bewerkingen
 <ul>
   <li>Steeds uitvoeren van links naar rechts.<br>
-      Voorbeeld: 12/4*3=9
+      <b style="color:green;">Voorbeeld</b>: 12/4*3=9
   </li>
   <li>Uitzondering op de links-rechts-regel: opeenvolging van machten.<br>
       Hier werken we van rechts naar links!<br>
-      Voorbeeld: 2**3**2 = 2**(3**2) = 2**9 = 512
+      <b style="color:green;">Voorbeeld</b>: 2**3**2 = 2**(3**2) = 2**9 = 512
   </li>
 </ul>
