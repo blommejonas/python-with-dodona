@@ -23,15 +23,16 @@ Je wil volgend op scherm laten verschijnen:
   <i>Het saldo op je bankrekening bedraagt 2378 euro.</i>
 </div>
 <br>
-Waarbij de waarde (hier 2378) aanpasbaar moet zijn.<br>
+waarbij de waarde (hier 2378) aanpasbaar moet zijn.<br>
 
 <b style="color:green;">Oplossing</b><br>
 De zin die op het scherm moet komen, bestaat uit 3 delen: 2 delen met vaste tekst en het middelste stukje dat de waarde is die toegekend is aan een variabele, vb:
 rekeningsaldo. Deze 3 stukjes kunnen we aan elkaar plakken door <b>concatenation</b>. Dit lukt alleen maar als de afzonderlijke stukjes strings zijn!
 
 <div align="center">
-  <img src="media/functie_str_voorbeeld.png" align="center" width="700px" data-caption="Toepassing van de functie str()." />
+  <img src="media/functie_str_voorbeeld.png" align="center" width="750px" data-caption="Toepassing van de functie str()." />
 </div>
+<br>
 
 Merk op dat de variabele nog steeds van het type integer is!
 
