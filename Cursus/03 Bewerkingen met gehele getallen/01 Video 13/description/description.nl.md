@@ -8,9 +8,9 @@ In deze video leren we hoe we een getal tot een macht verheffen en hoe we machts
 Symbool machtsverheffing: ** <br>
 <b style="color:green;">Voorbeeld</b>: $$8^2$$<br>
 <div align="center">
-  <img src="media/machtsverheffing.png" align="center" width="75px" data-caption="Syntax machtsverheffing." />
+  <img src="media/machtsverheffing.png" align="center" width="50px" data-caption="Syntax machtsverheffing." />
 </div>
-Het resultaat is een integer.
+Het resultaat is een <b>integer</b>.
 
 ## Syntax machtswortel
 Een n-de machtswortel kunnen we als volgt schrijven:
@@ -23,4 +23,8 @@ Het resultaat is een float.<br>
 <div align="center">
   <img src="media/machtswortels.png" align="center" width="100px" data-caption="Syntax machtswortel." />
 </div>
-Opmerking: haakjes rond 1/n moeten er staan!
+Het resultaat is een <b>float</b>.
+
+<div class="callout callout-danger">
+  <p>Opmerking: haakjes rond 1/n moeten er staan!</p>
+</div>
