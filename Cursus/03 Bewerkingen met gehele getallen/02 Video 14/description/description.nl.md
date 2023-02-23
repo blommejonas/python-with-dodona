@@ -9,6 +9,8 @@ In deze video schenken we aandacht aan berekeningen met meer dan 2 getallen. Op 
   <img src="media/voorrangsregels.png" align="center" width="550px" data-caption="De voorrangsregels." />
 </div>
 
+<br>
+
 <ul>
   <li><b>Haakjes</b> hebben altijd voorrang.</li>
   <li>Dan volgen de <b>powers</b>:
@@ -30,8 +32,12 @@ In deze video schenken we aandacht aan berekeningen met meer dan 2 getallen. Op 
 Dit is dus identiek aan de voorrangsregels in wiskunde.
 
 ## Gelijkwaardige bewerkingen
-* Steeds uitvoeren van links naar rechts.
-  Voorbeeld: 12/4*3=9
-* Uitzondering op de links-rechts-regel: opeenvolging van machten.
-  Hier werken we van rechts naar links!
-  Voorbeeld: 2**3**2 = 2**(3**2) = 2**9 = 512
+<ul>
+  <li>Steeds uitvoeren van links naar rechts.<br>
+      Voorbeeld: 12/4*3=9
+  </li>
+  <li>Uitzondering op de links-rechts-regel: opeenvolging van machten.<br>
+      Hier werken we van rechts naar links!<br>
+      Voorbeeld: 2**3**2 = 2**(3**2) = 2**9 = 512
+  </li>
+</ul>
