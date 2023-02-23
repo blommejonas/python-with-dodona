@@ -6,9 +6,9 @@ In deze video leren we hoe we een getal tot een macht verheffen en hoe we machts
 
 ## Syntax machtsverheffing 
 Symbool machtsverheffing: ** <br>
-<b style="color:green;">Voorbeeld</b><br>
+<b style="color:green;">Voorbeeld</b>: $$8^2$$<br>
 <div align="center">
-  <img src="media/getal_als_string.png" align="center" width="100px" data-caption="Syntax machtsverheffing." />
+  <img src="media/machtsverheffing.png" align="center" width="100px" data-caption="Syntax machtsverheffing." />
 </div>
 Het resultaat is een integer.
 
