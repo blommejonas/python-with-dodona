@@ -6,5 +6,5 @@ In deze video schenken we aandacht aan berekeningen met meer dan 2 getallen. Op 
 
 ## De voorrangsregels
 <div align="center">
-  <img src="media/voorrangsregels.png" align="center" width="60px" data-caption="De voorrangsregels." />
+  <img src="media/voorrangsregels.png" align="center" width="550px" data-caption="De voorrangsregels." />
 </div>
