@@ -5,7 +5,7 @@ In deze video leren we hoe we een getal tot een macht verheffen en hoe we machts
 </div>
 
 ## Syntax machtsverheffing 
-Symbool machtsverheffing: ** <br>
+Symbool machtsverheffing: ** <br><br>
 <b style="color:green;">Voorbeeld</b>: $$8^2$$<br>
 <div align="center">
   <img src="media/machtsverheffing.png" align="center" width="50px" data-caption="Syntax machtsverheffing." />
@@ -17,7 +17,7 @@ Een n-de machtswortel kunnen we als volgt schrijven:
 <div align="center">
   $$\sqrt[n]{getal} = getal^{\frac{1}{n}}$$
 </div>
-We hoeven dus geen nieuw symbool.<br>
+We hoeven dus geen nieuw symbool.<br><br>
 <b style="color:green;">Voorbeelden</b>: $$\sqrt{49}$$, $$\sqrt[3]{27}$$ en $$\sqrt[4]{625}$$<br> 
 <div align="center">
   <img src="media/machtswortels.png" align="center" width="100px" data-caption="Syntax machtswortel." />
