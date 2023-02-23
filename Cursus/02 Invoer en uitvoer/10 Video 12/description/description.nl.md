@@ -39,4 +39,4 @@ Merk op dat de variabele nog steeds van het type integer is!
 * De functie str() is ook toepasbaar op float-waarden (float → string).
 * De functie str() behoort tot de groep van de type conversion functies. Het is immers een functie die het datatype convergeert naar een ander datatype.
 * De functie str() zet een bestaande waarde om naar een waarde van het datatype string. Zo is de stringwaarde beschikbaar voor verdere verwerking. Het datatype werd dus geconverteerd.
-* We leerden eerder al de functie int() kennen als ´e´en van de type conversion functies.
+* We leerden eerder al de functie int() kennen als één van de type conversion functies.
