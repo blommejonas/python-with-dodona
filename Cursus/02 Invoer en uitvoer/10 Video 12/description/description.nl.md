@@ -9,12 +9,12 @@ We weten reeds hoe we een stringwaarde kunnen omzetten naar een integer-waarde, 
 <div align="center">
   <img src="media/type_conversion.png" align="center" width="300px" data-caption="Type conversion integer versus string." />
 </div>
-<br>
 
 ## Voorbeeld
 <div align="center">
   <img src="media/getal_als_string.png" align="center" width="300px" data-caption="Type conversion: getal als string." />
 </div>
+<br>
 
 ## Wanneer komt die functie str() van pas?
 <b style="color:green;">Voorbeeld</b><br>
