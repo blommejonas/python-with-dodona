@@ -32,7 +32,6 @@ rekeningsaldo. Deze 3 stukjes kunnen we aan elkaar plakken door <b>concatenation
 <div align="center">
   <img src="media/functie_str_voorbeeld.png" align="center" width="750px" data-caption="Toepassing van de functie str()." />
 </div>
-<br>
 
 Merk op dat de variabele nog steeds van het type integer is!
 
