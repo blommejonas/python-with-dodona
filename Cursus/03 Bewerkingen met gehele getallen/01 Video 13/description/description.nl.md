@@ -10,7 +10,7 @@ Symbool machtsverheffing: ** <br><br>
 <div align="center">
   <img src="media/machtsverheffing.png" align="center" width="60px" data-caption="Syntax machtsverheffing." />
 </div>
-Het resultaat is een <b>integer</b>.
+Het resultaat is een <b>integer</b>.<br>
 
 ## Syntax machtswortel
 Een n-de machtswortel kunnen we als volgt schrijven:
