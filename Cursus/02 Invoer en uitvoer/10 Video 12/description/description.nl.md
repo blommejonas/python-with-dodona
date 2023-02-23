@@ -30,7 +30,7 @@ De zin die op het scherm moet komen, bestaat uit 3 delen: 2 delen met vaste teks
 rekeningsaldo. Deze 3 stukjes kunnen we aan elkaar plakken door <b>concatenation</b>. Dit lukt alleen maar als de afzonderlijke stukjes strings zijn!
 
 <div align="center">
-  <img src="media/functie_str_voorbeeld.png" align="center" width="750px" data-caption="Toepassing van de functie str()." />
+  <img src="media/functie_str_voorbeeld.png" align="center" width="800px" data-caption="Toepassing van de functie str()." />
 </div>
 
 Merk op dat de variabele nog steeds van het type integer is!
