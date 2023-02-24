@@ -13,7 +13,7 @@ Daarnaast heb je in videoles 10 over datatypes ook geleerd dat de deling van twe
 <img src="media/afronden_bij_float_toInt.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
 
 <p>Let wel op: als je getal niet geheel is, gaat de functie <code>int()</code> in feite alles na de komma weglaten, zowel bij positieve als bij negatieve getallen.</p>
-<img src="media/afronden_bij_float_precisie.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
+<img src="media/afronden_bij_float_toInt_opletten.png" align="center" width="200px" data-caption="Afronden met behulp van het int()-commando." />
 
 <p>Merk op dat er hierboven iets geks gebeurt voor <code>5.9999999999999999</code>. Dat is omdat we voorbij de precisie gaan waarmee Python werkt voor floats.</p>
 
@@ -23,7 +23,7 @@ Er zijn bepaalde begrenzingen aan de grootte van de floats en aan de precisie. H
 
 Bijvoorbeeld: het statement <code>print((431/100)*100)</code> geeft als antwoord <code>430.99999999999994</code>, en niet 431 zoals je zou verwachten. Als je weet dat de uitkomst van een berekening waarin floats zitten een integer moet zijn, dan doe je er goed aan om de uitkomst af te ronden naar het dichtstbijzijnde gehele getal. Dat kun je doen met behulp van de <code>round()</code> functie.
 
-10/2 geeft resultaat 5.0
+<img src="media/afronden_bij_float_precisie.png" align="center" width="200px" data-caption="Precisie bij werken met floats." />
 
 # De functie round()
 ## Een float omzetten naar een integer met de functie round()
