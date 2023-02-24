@@ -26,7 +26,7 @@ We weten al dat we tussen de haakjes van de functie print() een expressie mogen 
 * Python drukt ze achter elkaar af gescheiden met een spatie.
 
 <div align="center">
-  <img src="media/functie_print_meerdere_argumenten.png" align="center" width="300px" data-caption="Verschillende waarden afdrukken met de print()-functie." />
+  <img src="media/functie_print_meerdere_argumenten.png" align="center" width="275px" data-caption="Verschillende waarden afdrukken met de print()-functie." />
 </div>
 <br>
 
