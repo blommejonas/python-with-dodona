@@ -40,7 +40,7 @@ print( nr3 / (nr1 % nr2) )
 Misschien zie je wat het probleem is, maar stel dat je het niet ziet, hoe vind je dan uit wat er mis is? Als je het programma uitvoert, zie je dat de fout ontdekt wordt op regel 10, wat wil zeggen dat alles nog steeds werkte op regel 9.
 
 <pre><code>Traceback (most recent call last):
-  File "main.py", line 10, in <module>
+  File "main.py", line 10, in &#60;module&#62;
     print( nr3 / (nr1 % nr2) )
 ZeroDivisionError: division by zero
 </code></pre>
