@@ -73,17 +73,18 @@ Er bestaat <b>2 soorten delingen</b>:
   </li>
   <li>Oplossing:
     <ul>
-      <li>Hoeveel volledige groepen kunnen we vormen?<br>
+      <li><b>Hoeveel volledige groepen kunnen we vormen?</b><br>
         We berekenen: 317/23 = 13,7826.<br>
         De oplossing is het getal voor de komma, dus 13.<br>
-        Hiervoor kunnen we de floor division gebruiken:
+        Hiervoor kunnen we de floor division gebruiken:<br>
         <div align = "center">
           317 // 23 = 13
         </div>
+        <br>
       </li>
-      <li>Hoeveel mensen blijven er over?<br>
+      <li><b>Hoeveel mensen blijven er over?</b><br>
         We berekenen hiervoor 317 − 13 · 23 = 18.<br>
-        We kunnen de rest bij deling van 317 door 23 in 1 stap vinden m.b.v. de bewerking modulo:
+        We kunnen de rest bij deling van 317 door 23 in 1 stap vinden m.b.v. de bewerking modulo:<br>
         <div align = "center">
           317 % 23 = 18
         </div>
