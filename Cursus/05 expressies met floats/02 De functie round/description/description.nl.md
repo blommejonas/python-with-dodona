@@ -17,7 +17,7 @@ Daarnaast heb je in videoles 10 over datatypes ook geleerd dat de deling van twe
   <img src="media/afronden_bij_float_toInt.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
 </div>
 
-<p>Let wel op: als je getal niet geheel is, gaat de functie <code>int()</code> in feite alles na de komma weglaten, zowel bij positieve als bij negatieve getallen.</p>
+Let wel op: als je getal niet geheel is, gaat de functie <code>int()</code> in feite alles na de komma weglaten, zowel bij positieve als bij negatieve getallen.
 <div align="center">
   <img src="media/afronden_bij_float_precisie.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
 </div>
