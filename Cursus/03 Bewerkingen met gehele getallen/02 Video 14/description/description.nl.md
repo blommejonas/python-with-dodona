@@ -43,12 +43,14 @@ Dit is dus identiek aan de voorrangsregels in wiskunde.
 
 ## Fouten opsporen = debugging
 <ul>
-  <li>Testen in CLI: Trial and error (= tinkering)</li>
-  <li>Vaardigheid van computationele denker</li>
+  <li>Testen in CLI: trial and error (= tinkering)</li>
+  <li>Fouten opsporen is een belangrijke vaardigheid van computationele denker</li>
   <li>Werkt het niet:
     <ul>
-      <li>syntax-fout?</li>
-      <li>logische fout?</li>
-      <li>volgorde der bewerkingen?</li>
+      <li>maakte je syntax-fout?</li>
+      <li>of een logische fout?</li>
+      <li>of een fout tegen de volgorde der bewerkingen?</li>
+      <li>...</li>
     </ul>
+  </li>
 </ul>
