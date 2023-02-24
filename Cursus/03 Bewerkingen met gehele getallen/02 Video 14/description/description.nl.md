@@ -40,3 +40,15 @@ Dit is dus identiek aan de voorrangsregels in wiskunde.
       <b style="color:green;">Voorbeeld</b>: 2**3**2 = 2**(3**2) = 2**9 = 512
   </li>
 </ul>
+
+## Fouten opsporen = debugging
+<ul>
+  <li>Testen in CLI: Trial and error (= tinkering)</li>
+  <li>Vaardigheid van computationele denker</li>
+  <li>Werkt het niet:
+    <ul>
+      <li>syntax-fout?</li>
+      <li>logische fout?</li>
+      <li>volgorde der bewerkingen?</li>
+    </ul>
+</ul>
