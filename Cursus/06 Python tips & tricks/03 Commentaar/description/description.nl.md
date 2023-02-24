@@ -8,4 +8,4 @@ Er zijn twee manieren om commentaar op te nemen in Python code.
 
 De volgende code laat voorbeelden zien van beide manieren van becommentariëren:
 
-<img src="media/commentaar.png" align="center" width="200px" data-caption="Commentaar schrijven in Python" />
+<img src="media/commentaar.png" align="center" width="650px" data-caption="Commentaar schrijven in Python" />
