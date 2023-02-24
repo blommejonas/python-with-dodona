@@ -56,4 +56,4 @@ De ingebouwde debugger laat het programma muisklik per muisklik uitvoeren en laa
 
 De ingebouwde debugger vind je bij je testresultaten. Ga naast een (fout) testresultaat staan op de rode lijn. De rode lijn wordt dikker en je kan op “start debugger” klikken.
 
-<img src="media/dodona_debuggen.png" align="center" width="600px" data-caption="Dodona: start debugger." />
+<img src="media/dodona_debuggen.png" align="center" width="450px" data-caption="Dodona: start debugger." />
