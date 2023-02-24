@@ -6,12 +6,12 @@ Als je een getal met een punt ingeeft, interpreteert Python dat automatisch als 
 
 Daarnaast heb je in videoles 10 over datatypes ook geleerd dat de deling van twee integers automatisch een float als resultaat geeft in Python, zelfs als de deling rest 0 heeft.
 
+<div align="center">
+  <img src="media/afronden_bij_float.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
+</div>
+
 ## Een float omzetten naar een integer met de functie int()
 Het is niet altijd handig dat Python de deling van twee integers automatisch als float labelt. We kunnen daarom het resultaat opnieuw omzetten naar een integer met de functie <code>int()</code>.
-
-<div align="center">
-  <img src="media/afronden_bij_float.png" align="center" width="150px" data-caption="10/2 geeft als resultaat de float 5.0" />
-</div>
 
 Let wel op: als je getal niet geheel is, gaat de functie <code>int()</code> in feite alles na de komma weglaten, zowel bij positieve als bij negatieve getallen.
 
