@@ -55,3 +55,5 @@ Mislukt één van de testen in Dodona? Dan kan je de geïntegreerde debugger van
 De ingebouwde debugger laat het programma muisklik per muisklik uitvoeren en laat zien wat er gebeurt. Zo kun je letterlijk lijn per lijn visualiseren wat er gebeurt bij het uitvoeren van de code, welke waarde een variabele toegewezen krijgt, waarom een lus wel of niet uitgevoerd wordt, … .
 
 De ingebouwde debugger vind je bij je testresultaten. Ga naast een (fout) testresultaat staan op de rode lijn. De rode lijn wordt dikker en je kan op “start debugger” klikken.
+
+<img src="media/dodona_debuggen.png" align="center" width="600px" data-caption="Dodona: start debugger." />
