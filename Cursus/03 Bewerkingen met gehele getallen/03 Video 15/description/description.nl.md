@@ -26,6 +26,7 @@ Er bestaat <b>2 soorten delingen</b>:
         Hierbij is 33 het deeltal, 4 de deler, 8 het quotiënt en 1 de rest.<br>
         De rest is steeds strikt kleiner dan de deler.
       </li>
+      <br>
       <li><b style="color:green;">Algemeen</b>:<br>
         Om $$D$$ (het <b>deeltal</b>) te delen door $$d$$ (de <b>deler</b>), bepalen we de natuurlijke getallen $$q$$ (het <b>quotiënt</b>) en $$r$$ (de <b>rest</b>) zó dat<br><br>
         <div align="center">
@@ -42,7 +43,7 @@ Er bestaat <b>2 soorten delingen</b>:
 <ul>
   <li><b>Floor division</b> of <b>geheeltallige deling</b> : // <br><br>
     <div align="center">
-      $$>D$$ // $$d$$ = $$q$$
+      $$D$$ // $$d$$ = $$q$$
     </div>
     <br>
     De floor division of geheeltallig deling (//) levert ons dus het <b>quotiënt</b> bij deling van $$D$$ door $$d$$.
@@ -71,5 +72,22 @@ Er bestaat <b>2 soorten delingen</b>:
     </ul>
   </li>
   <li>Oplossing:
+    <ul>
+      <li>Hoeveel volledige groepen kunnen we vormen?<br>
+        We berekenen: 317/23 = 13,7826.<br>
+        De oplossing is het getal voor de komma, dus 13.<br>
+        Hiervoor kunnen we de floor division gebruiken:
+        <div align = "center">
+          317 // 23 = 13
+        </div>
+      </li>
+      <li>Hoeveel mensen blijven er over?<br>
+        We berekenen hiervoor 317 − 13 · 23 = 18.<br>
+        We kunnen de rest bij deling van 317 door 23 in 1 stap vinden m.b.v. de bewerking modulo:
+        <div align = "center">
+          317 % 23 = 18
+        </div>
+      </li>
+    </ul>
   </li>
 </ul>
