@@ -42,14 +42,14 @@ Er bestaat <b>2 soorten delingen</b>:
 <ul>
   <li>Floor division of geheeltallige deling : // <br><br>
     <div align="center">
-      $$D // d = q$$
+      <i>D</i> // <i>d</i> = <i>q</i>
     </div>
     <br>
     De floor division of geheeltallig deling (//) levert ons dus het <b>quotiënt</b> bij deling van $$D$$ door $$d$$.
   </li>
   <li>Modulo of restberekening: %
     <div align="center">
-      $$D % d = r$$
+      <i>D</i> % <i>d</i> = <i>r</i>$$
     </div>
     <br>
     De modulo of restberekening (%) levert ons dus de <b>rest</b> bij deling van $$D$$ door $$d$$.
