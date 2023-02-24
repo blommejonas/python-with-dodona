@@ -3,3 +3,19 @@ In deze video leren we de functie float() kennen, die ons toelaat een string om 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EQ26girUxyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+## De functie float()
+De functie float() is de tweelingsbroer van de functie int().
+<ul>
+  <li>int() <br>
+    De functie int() zet een string om in een integer op voorwaarde dat deze string een sliert van cijfers is.
+  </li>
+  <li>float() <br>
+    De functie float() zal op exact dezelfde wijze een string omzetten naar een float op voorwaarde dat deze string een sliert van cijfers is met ergens één punt           tussen.
+  </li>
+</ul>
+
+## Type conversion functies
+* <code>int()</code>
+* <code>float()</code>
+* <code>str()</code>
