@@ -29,17 +29,17 @@ Bijvoorbeeld: het statement <code>print((431/100)*100)</code> geeft als antwoord
 ## Een float omzetten naar een integer met de functie round()
 Zoals je hieronder ziet, gaat de functie <code>round()</code> een getal afronden naar de dichtsbijzijnde integer.
 
-10/2 geeft resultaat 5.0
+<img src="media/functie_round1.png" align="center" width="200px" data-caption="De functie round()." />
 
 **Maar opgelet: de functie <code>round()</code> in Python volgt helaas niet altijd de afspraken die we binnen de wiskunde hebben over afronden.** In het bijzonder wanneer het eerste cijfer dat we weglaten een 5 is, wijken de regels van Python af van de wiskundige regels. Wij zouden bijvoorbeeld 1,5 afronden naar 2 en 2,5 afronden naar 3. Zoals je hieronder ziet, doet Python iets anders:
 
-10/2 geeft resultaat 5.0
+<img src="media/functie_round2.png" align="center" width="200px" data-caption="De functie round()." />
 
 In dit geval kiest Python ervoor om af te ronden naar het dichtsbijzijnde even getal. Dit is slechts een detail, maar we vermelden het toch voor de volledigheid.
 
 ## Afronden tot op een aantal cijfers na de komma met de functie round()
 Je kan met de functie <code>round()</code> een getal ook afronden tot een gegeven aantal cijfers na de komma.
 
-10/2 geeft resultaat 5.0
+<img src="media/functie_round_na_komma.png" align="center" width="200px" data-caption="De functie round(): afronden tot een gegeven aantal cijfers na de komma." />
 
 Merk op: ook hier volgt Python z’n eigen regels als het eerste cijfer dat wordt weggelaten een 5 is.
