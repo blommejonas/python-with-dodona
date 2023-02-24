@@ -3,7 +3,7 @@ Wanneer een programma niet uitgevoerd kan worden, probeert Python aan te geven o
 
 Toch kan het voorkomen dat Python verwijst naar een lijn die perfect in orde is. Een typische situatie is wanneer er op een regel niet even veel haakjes open gaan als er haakjes sluiten. In dat geval zal Python melden dat er op de volgende regel een probleem is. Kijk naar volgend voorbeeld:
 
-<code><pre>1   a = 3
+<pre><code>1   a = 3
 2   print(a
 3   b = 5
 4   print(b)
@@ -11,7 +11,7 @@ Toch kan het voorkomen dat Python verwijst naar een lijn die perfect in orde is.
 
 Er stelt zich duidelijk een probleem op lijn 2: het haakje van de print-functie gaat open, maar niet dicht. De foutmelding die Python geeft, is echter
 
-<code><pre>File "main.py", line 3
+<pre><code>File "main.py", line 3
 b = 5
 ˆ
 SyntaxError: invalid syntax
@@ -25,7 +25,7 @@ Als er iets fout zit in code, geeft Python meestal een foutmelding. Dit zijn vaa
 ## Debuggen met variabelen
 Een veelvoorkomende oorzaak van functionele fouten in programma’s is dat variabelen blijken niet de waardes te bevatten waarvan je dacht dat ze ze bevatten. Een goede manier om je code te “debuggen” (dat wil zeggen, uit te vinden waar in je code fouten staan en die te verbeteren) is het printen van variabele namen op geschikte plaatsen. Bijvoorbeeld, de volgende code geeft een foutmelding als je hem uitvoert.
 
-<code><pre>nr1 = 5
+<pre><code>nr1 = 5
 nr2 = 4
 nr3 = 5
 print( nr3 / (nr1 % nr2) )
@@ -39,7 +39,7 @@ print( nr3 / (nr1 % nr2) )
 
 Misschien zie je wat het probleem is, maar stel dat je het niet ziet, hoe vind je dan uit wat er mis is? Als je het programma uitvoert, zie je dat de fout ontdekt wordt op regel 10, wat wil zeggen dat alles nog steeds werkte op regel 9.
 
-<code><pre>Traceback (most recent call last):
+<pre><code>Traceback (most recent call last):
   File "main.py", line 10, in <module>
     print( nr3 / (nr1 % nr2) )
 ZeroDivisionError: division by zero
