@@ -49,6 +49,7 @@ Er bestaat <b>2 soorten delingen</b>:
     <br>
     De floor division of geheeltallig deling (//) levert ons dus het <b>quotiënt</b> bij deling van $$D$$ door $$d$$.
   </li>
+  <br>
   <li><b>Modulo</b> of <b>restberekening</b>: %
     <div align="center">
       $$D$$ % $$d$$ = $$r$$
