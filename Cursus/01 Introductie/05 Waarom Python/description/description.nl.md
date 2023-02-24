@@ -13,8 +13,7 @@ int main() {
 
 In C#, de populaire variant van C++ die uitgebracht is door Microsoft, is het:
 
-<pre><code>
-using System;
+<pre><code>using System;
 namespace HelloWorld {
     class Hello {
         static void Main() {
@@ -27,8 +26,7 @@ namespace HelloWorld {
 
 In Objective-C, Apple’s variant op C++, is het nog erger:
 
-<pre><code>
-#import <Foundation/Foundation.h>
+<pre><code>#import <Foundation/Foundation.h>
 int main ( int argc, const char * argv[] ) {
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
     NSLog (@"Hello, world!");
@@ -39,8 +37,7 @@ int main ( int argc, const char * argv[] ) {
 
 In Java, dat voor veel studenten aan universiteiten en hogescholen de eerst-geleerde programmeertaal is, wordt het:
 
-<pre><code>
-class Hello {
+<pre><code>class Hello {
     public static void main( String[] args ) {
         System.out.println( "Hello, world!" );
     }
@@ -49,8 +46,7 @@ class Hello {
 
 En zie nu wat Hello World in Python is:
 
-<pre><code>
-print( "Hello, world!" )
+<pre><code>print( "Hello, world!" )
 </code></pre>
 
 Ik neem aan dat we het met elkaar eens zijn dat de Python versie van dit programma leesbaarder en begrijpelijker is dan de andere varianten – zelfs als je de taal niet kent.
