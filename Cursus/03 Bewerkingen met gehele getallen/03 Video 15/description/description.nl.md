@@ -22,8 +22,14 @@ Er bestaat <b>2 soorten delingen</b>:
         <div align="center">
           $$33 = 4 \cdot 8 + 1$$ en $$1 < 4$$
         </div>
-          Hierbij is 33 het <b>deeltal</b>, 4 de <b>deler</b>, 8 het <b>quotiënt</b> en 1 de <b>rest</b>.<br>
+        Hierbij is 33 het deeltal, 4 de deler, 8 het quotiënt en 1 de rest.<br>
         De rest is steeds strikt kleiner dan de deler.
+      </li>
+      <li><b style="color:green;">Algemeen</b>:<br>
+        Om $$D$$ (het <b>deeltal</b>) te delen door $$d$$ (de <b>deler</b>), bepalen we de natuurlijke getallen $$q$$ (het <b>quotiënt</b>) en $$r$$ (de <b>rest</b>) zó dat<br>
+        <div align="center">
+          $$D = d \cdot q + r$$ en $$r < d$$
+        </div>
       </li>
     </ul>
   </li>
