@@ -42,6 +42,7 @@ Programmeurs houden zich aan een flink aantal conventies wanneer ze variabele na
 * Om verwarring tussen hoofd- en kleine letters te vermijden, gebruiken programmeurs meestal alleen kleine letters in variabele namen.
 * Als een variabele naam uit meerdere woorden bestaat, zetten programmeurs underscores tussen die woorden.
 * Programmeurs kiezen nooit variabele namen die beginnen met een underscore. Het gebruik van dat soort namen is voorbehouden aan de auteurs van Python.
+
 Je moet proberen je voor je eigen code ook aan deze conventies te houden. De conventie met betrekking tot het kiezen van betekenisvolle variabele namen is vooral belangrijk, omdat het code leesbaar en onderhoudbaar maakt. Kijk bijvoorbeeld eens naar de volgende code:
 
 <pre><code>a = 3.14159265
