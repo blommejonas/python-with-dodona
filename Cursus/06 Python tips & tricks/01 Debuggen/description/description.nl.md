@@ -23,7 +23,7 @@ Python lijkt dus te suggereren dat er op lijn 3 een syntax error staat, terwijl 
 Als er iets fout zit in code, geeft Python meestal een foutmelding. Dit zijn vaak “syntax fouten,” die aangeven dat er iets fout zit in de vorm van je code. Er zijn ook “runtime errors,” die aangeven dat je code op zich syntactisch correct lijkt, maar dat er iets fout is gegaan bij de uitvoering ervan. Een goed voorbeeld is de ZeroDivisionError, die aangeeft dat je probeerde te delen door nul (wat niet mag, zoals je weet).
 
 ## Debuggen met variabelen
-Een veelvoorkomende oorzaak van functionele fouten in programma’s is dat variabelen blijken niet de waardes te bevatten waarvan je dacht dat ze ze bevatten. Een goede manier om je code te “debuggen” (dat wil zeggen, uit te vinden waar in je code fouten staan en die te verbeteren) is het printen van variabele namen op geschikte plaatsen. Bijvoorbeeld, de volgende code geeft een foutmelding als je hem uitvoert.
+Een veelvoorkomende oorzaak van functionele fouten in programma’s is dat variabelen niet de waardes blijken te bevatten waarvan je dacht dat ze ze bevatten. Een goede manier om je code te “debuggen” (dat wil zeggen, uit te vinden waar in je code fouten staan en die te verbeteren) is het printen van variabele namen op geschikte plaatsen. Bijvoorbeeld, de volgende code geeft een foutmelding als je hem uitvoert.
 
 <pre><code>nr1 = 5
 nr2 = 4
