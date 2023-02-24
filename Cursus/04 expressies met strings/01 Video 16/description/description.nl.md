@@ -21,5 +21,5 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
 </ul>
 
 <div align="center">
-  <img src="media/aanhalingstekens.png" align="center" width="550px" data-caption="Gebruik van aanhalingstekens." />
+  <img src="media/aanhalingstekens.png" align="center" width="300px" data-caption="Gebruik van aanhalingstekens." />
 </div>
