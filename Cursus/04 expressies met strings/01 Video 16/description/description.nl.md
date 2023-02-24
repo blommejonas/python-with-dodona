@@ -42,3 +42,10 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
     <p>Python kiest voor de enkelvoudige aanhalingstekens. Bij een enkelvoudig aanhalingsteken in de tekst plaatst Python een backslash. De backslash is GEEN                onderdeel van de string en heeft dus een bijzondere functie (zie later).</p>
   </li>
 </ul>
+
+## Getal als string of als getal opslaan
+Kijk wat je met het getal wil doen. Indien je dit getal NIET gebruikt om berekeningen mee uit te voeren, kies je voor aanhalingstekens (en dus als string)!<br>
+<p><b style="color:green;">Voorbeelden</b>:</p>
+* telefoonnummer
+* postnummer
+* huisnummer
