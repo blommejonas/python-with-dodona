@@ -6,7 +6,7 @@ In deze video leren we de functie input() kennen, en leren we strings aan elkaar
 
 ## De functie input()
 * Deze functie kan een vraag stellen en het antwoord afwachten.
-* Tussen de haakjes: vraag die we willen stellen
+* Tussen de haakjes: vraag die we willen stellen (tussen quotes).
 * Na het intypen van het antwoord steeds ENTER drukken.
 * Opmerking: de functie print() kan hier niet voor gebruikt worden. Deze kan wel een waarde (=stringwaarde) op het scherm tonen maar wacht vervolgens NIET op een antwoord.
 
