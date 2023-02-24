@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "nl": "Debuggen"
+    }
+  },
+  "internals": {
+    "token": "sQcRBIfKiu4TweTzifUofMGD8wOX2v4oWfxvLBtoeUI",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "Jonas Blomme"
+  ]
+}
