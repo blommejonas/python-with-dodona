@@ -28,7 +28,14 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
     </div>
     Voor deze string kan je geen enkelvoudig aanhalingsteken gebruiken omdat dit teken in de string zelf reeds voorkomt. Hier kan je dus opteren voor het dubbele         aanhalingsteken:
     <div align="center">
-      <img src="media/aanhalingstekens_vb1.png" align="center" width="275px" data-caption="Gebruik van aanhalingstekens." />
+      <img src="media/aanhalingstekens_vb1.png" align="center" width="350px" data-caption="Gebruik van aanhalingstekens - Voorbeeld 1." />
     </div>
+  </li>
+  <li>Wanneer je gebruik maakt van drievoudige aanhalingtekens, worden deze door Python niet weergegeven.
+    <div align="center">
+      <img src="media/aanhalingstekens_vb2.png" align="center" width="350px" data-caption="Gebruik van aanhalingstekens - Voorbeeld 2." />
+    </div>
+    Python kiest voor de enkelvoudige aanhalingstekens. Bij een enkelvoudig aanhalingsteken in de tekst plaatst Python een backslash. De backslash is GEEN onderdeel     van de string en heeft dus een bijzondere functie (zie later).
+
   </li>
 </ul>
