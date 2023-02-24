@@ -14,6 +14,7 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
     </div>
   </li>
   <li> Deze functie zet dus een string om naar integer.</li>
+  <li> Indien de waarde geen integer kan voorstellen, dan geeft Python een foutmelding (ValueError)</li>
   <li> Terug naar ons programma som van 2 getallen:
     <div align="center">
       <img src="media/functie_int.png" align="center" width="600px" data-caption="De functie int()." />
@@ -23,6 +24,7 @@ We weten ondertussen dat de waarde 12 verschilt van de waarde ”12”. De eerst
       <img src="media/functie_int_efficiënter.png" align="center" width="600px" data-caption="De functie int()." />
     </div>
   </li>
+  <li> De code proberen we zowel compact als leesbaar te houden </li>
   <li> De functie int() kan je ook toepassen op een floatwaarde. Een float bestaat uit 2 delen: een geheel deel en een decimaal deel. De functie int() levert het         gehele deel op van de floatwaarde!
     <div align="center">
       <code>int(”15.23")</code> &#8594; 23
