@@ -43,7 +43,11 @@ Dit is dus identiek aan de voorrangsregels in wiskunde.
 
 ## Voorbeeld
 <p>(5 - 6 / 2) + 3**2 * 7</p>
-<p>(5 - 3) + 3**2 * 7</p>
+<p>= (5 - 3) + 3**2 * 7</p>
+<p>= 2 + 3**2 * 7 </p>
+<p>= 2 + 9 * 7</p>
+<p>= 2 + 63</p>
+<p>= 65</p>
 
 ## Fouten opsporen = debugging
 <ul>
