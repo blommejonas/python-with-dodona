@@ -83,7 +83,6 @@ Splits een groep van 317 mensen in groepjes van 23.
         <div align = "center">
           317 // 23 = 13
         </div>
-        <br>
       </li>
       <li><b>Hoeveel mensen blijven er over?</b><br>
         We berekenen hiervoor 317 − 13 · 23 = 18.<br>
@@ -117,14 +116,12 @@ Stel dat de duur van een gebeurtenis 123456789 s is.
         <div align = "center">
           123456789 // 60 = 2057613
         </div>
-        <br>
         Dit zijn dus 2057613 minuten.
       </li>
       <li><b>Hoeveel resterende seconden blijven er dan over?</b><br>
         <div align = "center">
           123456789 % 60 = 9
         </div>
-        <br>
         Er blijven 9 seconden over.
       </li>
     </ul>
