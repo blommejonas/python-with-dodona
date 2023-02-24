@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "nl": "Commentaar"
+    }
+  },
+  "internals": {
+    "token": "OcvF9UV4XEnriSBucDc4TM1gljciRuyDXrrLA43PEBM",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "Jonas Blomme"
+  ]
+}
