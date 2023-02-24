@@ -12,19 +12,19 @@ Daarnaast heb je in videoles 10 over datatypes ook geleerd dat de deling van twe
 
 
 ## Een float omzetten naar een integer met de functie int()
-Het is niet altijd handig dat Python de deling van twee integers automatisch als float labelt. We kunnen daarom het resultaat opnieuw omzetten naar een integer met de functie <code>int()</code>.
+<p>Het is niet altijd handig dat Python de deling van twee integers automatisch als float labelt. We kunnen daarom het resultaat opnieuw omzetten naar een integer met de functie <code>int()</code>.</p>
 
 <div align="center">
   <img src="media/afronden_bij_float_toInt.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
 </div>
 
-Let wel op: als je getal niet geheel is, gaat de functie <code>int()</code> in feite alles na de komma weglaten, zowel bij positieve als bij negatieve getallen.
+<p>Let wel op: als je getal niet geheel is, gaat de functie <code>int()</code> in feite alles na de komma weglaten, zowel bij positieve als bij negatieve getallen.</p>
 
 <div align="center">
   <img src="media/afronden_bij_float_precisie.png" align="center" width="200px" data-caption="10/2 geeft als resultaat de float 5.0" />
 </div>
 
-Merk op dat er hierboven iets geks gebeurt voor <code>5.9999999999999999</code>. Dat is omdat we voorbij de precisie gaan waarmee Python werkt voor floats.
+<p>Merk op dat er hierboven iets geks gebeurt voor <code>5.9999999999999999</code>. Dat is omdat we voorbij de precisie gaan waarmee Python werkt voor floats.</p>
 
 
 ## Precisie van floats in Python
