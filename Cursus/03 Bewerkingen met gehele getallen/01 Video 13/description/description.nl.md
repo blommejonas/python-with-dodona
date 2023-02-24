@@ -27,7 +27,7 @@ Het resultaat is een <b>float</b>.<br>
 Merk op dat we niet altijd het resultaat verkrijgen dat we verwachten.<br>
 <b style="color:green;">Voorbeeld</b>:<br>
 <div align="center">
-  <img src="media/machtswortels_benadering.png" align="center" width="100px" data-caption="Syntax machtswortel." />
+  <img src="media/machtswortels_benadering.png" align="center" width="150px" data-caption="Syntax machtswortel." />
 </div>
 Dit heeft verschillende redenen waar we nu niet dieper op ingaan. We houden het erop dat het gevonden resultaat het verwachte resultaat heel heel dicht benadert.
 
