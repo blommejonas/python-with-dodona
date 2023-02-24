@@ -58,8 +58,9 @@ Er bestaat <b>2 soorten delingen</b>:
 </ul>
 
 ## Voorbeeld
+Splits een groep van 317 mensen in groepjes van 23.
 <ul>
-  <li>Splits een groep van 317 mensen in groepjes van 23. We hebben dus gegeven:
+  <li><b style="color:blue;">Gegeven:</b>
     <ul>
       <li>Totaal: 317</li>
       <li>Groepsgrootte: 23</li>
@@ -71,7 +72,7 @@ Er bestaat <b>2 soorten delingen</b>:
       <li>Hoeveel mensen blijven er over?</li>
     </ul>
   </li>
-  <li>Oplossing:
+  <li><b style="color:blue;">Oplossing:</b>
     <ul>
       <li><b>Hoeveel volledige groepen kunnen we vormen?</b><br>
         We berekenen: 317/23 = 13,7826.<br>
