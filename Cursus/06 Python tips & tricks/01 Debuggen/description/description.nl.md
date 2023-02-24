@@ -9,7 +9,7 @@ Toch kan het voorkomen dat Python verwijst naar een lijn die perfect in orde is.
 4   print(b)
 </code></pre>
 
-Er stelt zich duidelijk een probleem op lijn 2: het haakje van de print-functie gaat open, maar niet dicht. De foutmelding die Python geeft, is echter
+Er stelt zich duidelijk een probleem op lijn 2: het haakje van de <code>print</code>-functie gaat open, maar niet dicht. De foutmelding die Python geeft, is echter
 
 <pre><code>File "main.py", line 3
 b = 5
@@ -20,7 +20,7 @@ SyntaxError: invalid syntax
 Python lijkt dus te suggereren dat er op lijn 3 een syntax error staat, terwijl daar in werkelijkheid niets aan de hand is.
 
 ## Runtime Error
-Als er iets fout zit in code, geeft Python meestal een foutmelding. Dit zijn vaak “syntax fouten,” die aangeven dat er iets fout zit in de vorm van je code. Er zijn ook “runtime errors,” die aangeven dat je code op zich syntactisch correct lijkt, maar dat er iets fout is gegaan bij de uitvoering ervan. Een goed voorbeeld is de ZeroDivisionError, die aangeeft dat je probeerde te delen door nul (wat niet mag, zoals je weet).
+Als er iets fout zit in code, geeft Python meestal een foutmelding. Dit zijn vaak “syntax fouten,” die aangeven dat er iets fout zit in de vorm van je code. Er zijn ook “runtime errors,” die aangeven dat je code op zich syntactisch correct lijkt, maar dat er iets fout is gegaan bij de uitvoering ervan. Een goed voorbeeld is de <code>ZeroDivisionError</code>, die aangeeft dat je probeerde te delen door nul (wat niet mag, zoals je weet).
 
 ## Debuggen met variabelen
 Een veelvoorkomende oorzaak van functionele fouten in programma’s is dat variabelen niet de waardes blijken te bevatten waarvan je dacht dat ze ze bevatten. Een goede manier om je code te “debuggen” (dat wil zeggen, uit te vinden waar in je code fouten staan en die te verbeteren) is het printen van variabele namen op geschikte plaatsen. Bijvoorbeeld, de volgende code geeft een foutmelding als je hem uitvoert.
@@ -45,7 +45,7 @@ Misschien zie je wat het probleem is, maar stel dat je het niet ziet, hoe vind j
 ZeroDivisionError: division by zero
 </code></pre>
 
-Als je een extra regel code zet tussen regel 9 en 10, die de waarde afdrukt van nr1, nr2, nr3 and misschien ook nr1 % nr2, dan ontdek je waarschijnlijk snel wat er misloopt. print() statements veranderen niks aan de variabelen, dus je kunt ze veilig toevoegen.
+Als je een extra regel code zet tussen regel 9 en 10, die de waarde afdrukt van <code>nr1</code>, <code>nr2</code>, <code>nr3</code> en misschien ook <code>nr1 % nr2</code>, dan ontdek je waarschijnlijk snel wat er misloopt. <code>print()</code> statements veranderen niks aan de variabelen, dus je kunt ze veilig toevoegen.
 
 Een fatsoenlijke manier om het probleem in deze code op te lossen (dus een andere manier dan gewoon de laatste regel te verwijderen) komen we later nog tegen.
 
