@@ -41,6 +41,10 @@ Dit is dus identiek aan de voorrangsregels in wiskunde.
   </li>
 </ul>
 
+## Voorbeeld
+<p>(5 - 6 / 2) + 3**2 * 7</p>
+<p>(5 - 3) + 3**2 * 7</p>
+
 ## Fouten opsporen = debugging
 <ul>
   <li>Testen in CLI: trial and error (= tinkering)</li>
