@@ -27,7 +27,7 @@ Python baseert zich hiervoor op een aantal duidelijke afspraken en regels: <br>
 <div>
   <b>Afspraken:</b>
   <ul>
-    <li> waardie die begint en eindigt met ” ”⇒ tussen aanhalingstekens is string, </li>
+    <li> waardie die begint en eindigt met ” ” ⇒ tussen aanhalingstekens is string, </li>
     <li> waarde met aan elkaar plakkende cijfers ⇒ integer, </li>
     <li> waarde met aan elkaar plakkende cijfers met 1 punt ertussen ⇒ float. </li>
   </ul>
