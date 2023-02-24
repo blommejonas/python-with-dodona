@@ -18,6 +18,7 @@ We weten al dat we tussen de haakjes van de functie print() een expressie mogen 
 <div align="center">
   <img src="media/python_version.png" align="center" width="600px" data-caption="Python versie opvragen in Repl.it." />
 </div>
+<br>
 
 ## Verschillende waarden afdrukken op het scherm
 * Tussen de haakjes van de functie print() kunnen verschillende argumenten geplaatst worden.
@@ -25,8 +26,9 @@ We weten al dat we tussen de haakjes van de functie print() een expressie mogen 
 * Python drukt ze achter elkaar af gescheiden met een spatie.
 
 <div align="center">
-  <img src="media/functie_print_meerdere_argumenten.png" align="center" width="600px" data-caption="Verschillende waarden afdrukken met de print()-functie." />
+  <img src="media/functie_print_meerdere_argumenten.png" align="center" width="300px" data-caption="Verschillende waarden afdrukken met de print()-functie." />
 </div>
+<br>
 
 ## Goed om te weten
 De Python stijlgids raadt aan om bij een functie met meerdere argumenten buiten het verplichte scheidingsteken ook een spatie tussen de argumenten te plaatsen.
