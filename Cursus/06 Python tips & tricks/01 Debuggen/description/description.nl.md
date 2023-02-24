@@ -25,16 +25,16 @@ Als er iets fout zit in code, geeft Python meestal een foutmelding. Dit zijn vaa
 ## Debuggen met variabelen
 Een veelvoorkomende oorzaak van functionele fouten in programma’s is dat variabelen niet de waardes blijken te bevatten waarvan je dacht dat ze ze bevatten. Een goede manier om je code te “debuggen” (dat wil zeggen, uit te vinden waar in je code fouten staan en die te verbeteren) is het printen van variabele namen op geschikte plaatsen. Bijvoorbeeld, de volgende code geeft een foutmelding als je hem uitvoert.
 
-<pre><code> 1 nr1 = 5
- 2 nr2 = 4
- 3 nr3 = 5
- 4 print( nr3 / (nr1 % nr2) )
- 5 nr1 = nr1 + 1
- 6 print( nr3 / (nr1 % nr2) )
- 7 nr1 = nr1 + 1
- 8 print( nr3 / (nr1 % nr2) )
- 9 nr1 = nr1 + 1
-10 print( nr3 / (nr1 % nr2) )
+<pre><code> 1   nr1 = 5
+ 2   nr2 = 4
+ 3   nr3 = 5
+ 4   print( nr3 / (nr1 % nr2) )
+ 5   nr1 = nr1 + 1
+ 6   print( nr3 / (nr1 % nr2) )
+ 7   nr1 = nr1 + 1
+ 8   print( nr3 / (nr1 % nr2) )
+ 9   nr1 = nr1 + 1
+10   print( nr3 / (nr1 % nr2) )
 </code></pre>
 
 Misschien zie je wat het probleem is, maar stel dat je het niet ziet, hoe vind je dan uit wat er mis is? Als je het programma uitvoert, zie je dat de fout ontdekt wordt op regel 10, wat wil zeggen dat alles nog steeds werkte op regel 9.
