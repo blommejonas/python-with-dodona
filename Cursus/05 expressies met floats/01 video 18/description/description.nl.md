@@ -14,7 +14,7 @@ De functie float() is de tweelingsbroer van de functie int().
     <p>De functie float() zal op exact dezelfde wijze een string omzetten naar een float op voorwaarde dat deze string een sliert van cijfers is met ergens één punt          tussen.
     </p>
     <div align="center">
-      <img src="media/functie_float.png" align="center" width="125px" data-caption="De functie float()." />
+      <img src="media/functie_float.png" align="center" width="150px" data-caption="De functie float()." />
     </div>
   </li>
 </ul>
