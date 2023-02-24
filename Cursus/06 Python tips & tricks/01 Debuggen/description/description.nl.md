@@ -25,8 +25,7 @@ Als er iets fout zit in code, geeft Python meestal een foutmelding. Dit zijn vaa
 ## Debuggen met variabelen
 Een veelvoorkomende oorzaak van functionele fouten in programma’s is dat variabelen blijken niet de waardes te bevatten waarvan je dacht dat ze ze bevatten. Een goede manier om je code te “debuggen” (dat wil zeggen, uit te vinden waar in je code fouten staan en die te verbeteren) is het printen van variabele namen op geschikte plaatsen. Bijvoorbeeld, de volgende code geeft een foutmelding als je hem uitvoert.
 
-<code><pre>
-nr1 = 5
+<code><pre>nr1 = 5
 nr2 = 4
 nr3 = 5
 print( nr3 / (nr1 % nr2) )
@@ -40,8 +39,7 @@ print( nr3 / (nr1 % nr2) )
 
 Misschien zie je wat het probleem is, maar stel dat je het niet ziet, hoe vind je dan uit wat er mis is? Als je het programma uitvoert, zie je dat de fout ontdekt wordt op regel 10, wat wil zeggen dat alles nog steeds werkte op regel 9.
 
-<code><pre>
-Traceback (most recent call last):
+<code><pre>Traceback (most recent call last):
   File "main.py", line 10, in <module>
     print( nr3 / (nr1 % nr2) )
 ZeroDivisionError: division by zero
