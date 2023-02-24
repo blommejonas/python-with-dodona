@@ -32,6 +32,7 @@ Er bestaat <b>2 soorten delingen</b>:
           $$D = d \cdot q + r$$ en $$r < d$$
         </div>
       </li>
+      In deze les bestuderen we hoe we de geheeltallige deling met quotiënt en rest kunnen uitvoeren in Python.
     </ul>
   </li>
 </ul>
