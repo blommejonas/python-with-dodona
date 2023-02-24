@@ -18,18 +18,18 @@ We herhalen de regels voor het geven van namen aan variabelen uit videoles 7.
 
 Je bent vrij om namen te kiezen voor variabelen, als je je daarbij maar aan een aantal eenvoudige regels houdt:
 
-Een naam van een variabele mag slechts bestaan uit letters, cijfers, en “underscores” (_)
-Een naam van een variabele moet beginnen met een letter of een underscore.
-Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn:
+* Een naam van een variabele mag slechts bestaan uit letters, cijfers, en “underscores” (_)
+* Een naam van een variabele moet beginnen met een letter of een underscore.
+* Een naam van een variabele mag geen gereserveerd woord zijn. “Gereserveerde woorden” (of “keywords”) zijn:
 
-<pre><code>False       class       finally     is          return
-None        continue    for         lambda      try
-True        def         from        nonlocal    while
-and         del         global      not         with
-as          elif        if          or          yield
-assert      else        import      pass
-break       except      in          raise
-</pre></code>
+  <pre><code>False       class       finally     is          return
+  None        continue    for         lambda      try
+  True        def         from        nonlocal    while 
+  and         del         global      not         with
+  as          elif        if          or          yield
+  assert      else        import      pass
+  break       except      in          raise
+  </code></pre>
 
 Je mag zowel hoofd- als kleine letters gebruiken in namen van variabelen, maar je moet wel beseffen dat Python “case sensitive” is, dus gevoelig voor de verschillen tussen hoofd- en kleine letters. Bijvoorbeeld, de variabele naam <code>wereld</code> is voor Python niet hetzelfde als de variabele naam <code>Wereld</code>.
 
