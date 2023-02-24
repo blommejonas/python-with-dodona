@@ -7,10 +7,10 @@ In deze video leren we de functie float() kennen, die ons toelaat een string om 
 ## De functie float()
 De functie float() is de tweelingsbroer van de functie int().
 <ul>
-  <li>int() <br>
+  <li><code>int()</code> <br>
     De functie int() zet een string om in een integer op voorwaarde dat deze string een sliert van cijfers is.
   </li>
-  <li>float() <br>
+  <li><code>float()</code> <br>
     De functie float() zal op exact dezelfde wijze een string omzetten naar een float op voorwaarde dat deze string een sliert van cijfers is met ergens één punt           tussen.
   </li>
 </ul>
