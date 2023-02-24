@@ -59,19 +59,19 @@ Er bestaat <b>2 soorten delingen</b>:
   </li>
 </ul>
 
-## Voorbeeld
+## Voorbeeld 1
 Splits een groep van 317 mensen in groepjes van 23.
 <ul>
-  <li><b style="color:blue;">Gegeven:</b>
-    <ul>
-      <li>Totaal: 317</li>
-      <li>Groepsgrootte: 23</li>
-    </ul>
-  </li>
   <li><b style="color:blue;">Gevraagd:</b>
     <ul>
       <li>Hoeveel volledige groepen kunnen we vormen?</li>
       <li>Hoeveel mensen blijven er over?</li>
+    </ul>
+  </li>
+  <li><b style="color:blue;">Gegeven:</b>
+    <ul>
+      <li>Totaal: 317</li>
+      <li>Groepsgrootte: 23</li>
     </ul>
   </li>
   <li><b style="color:blue;">Oplossing:</b>
@@ -91,6 +91,41 @@ Splits een groep van 317 mensen in groepjes van 23.
         <div align = "center">
           317 % 23 = 18
         </div>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+## Voorbeeld 2
+Stel dat de duur van een gebeurtenis 123456789 s is.
+<ul>
+  <li><b style="color:blue;">Gevraagd:</b>
+    <ul>
+      <li>Hoeveel minuten zijn dat?</li>
+      <li>Hoeveel resterende seconden blijven er dan over?</li>
+    </ul>
+  </li>
+  <li><b style="color:blue;">Gegeven:</b>
+    <ul>
+      <li>Totaal: 123456789</li>
+      <li>Groepsgrootte: 60</li>
+    </ul>
+  </li>
+  <li><b style="color:blue;">Oplossing:</b>
+    <ul>
+      <li><b>Hoeveel minuten zijn dat?</b><br>
+        <div align = "center">
+          123456789 // 60 = 2057613
+        </div>
+        <br>
+        Dit zijn dus 2057613 minuten.
+      </li>
+      <li><b>Hoeveel resterende seconden blijven er dan over?</b><br>
+        <div align = "center">
+          123456789 % 60 = 9
+        </div>
+        <br>
+        Er blijven 9 seconden over.
       </li>
     </ul>
   </li>
