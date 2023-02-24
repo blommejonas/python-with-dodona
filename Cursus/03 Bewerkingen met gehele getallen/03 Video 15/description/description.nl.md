@@ -18,15 +18,16 @@ Er bestaat <b>2 soorten delingen</b>:
   <li>een deling met rest, ook een <b>euclidische deling</b> genoemd<br>
     <ul>
       <li><b style="color:green;">Voorbeeld</b>:<br>
-        Bij de euclidische deling van 33 door 4 is 8 het quotiënt en 1 de rest. Hierbij geldt:<br>
+        Bij de euclidische deling van 33 door 4 is 8 het quotiënt en 1 de rest. Hierbij geldt:<br><br>
         <div align="center">
           $$33 = 4 \cdot 8 + 1$$ en $$1 < 4$$
         </div>
+        <br>
         Hierbij is 33 het deeltal, 4 de deler, 8 het quotiënt en 1 de rest.<br>
         De rest is steeds strikt kleiner dan de deler.
       </li>
       <li><b style="color:green;">Algemeen</b>:<br>
-        Om $$D$$ (het <b>deeltal</b>) te delen door $$d$$ (de <b>deler</b>), bepalen we de natuurlijke getallen $$q$$ (het <b>quotiënt</b>) en $$r$$ (de <b>rest</b>) zó dat<br>
+        Om $$D$$ (het <b>deeltal</b>) te delen door $$d$$ (de <b>deler</b>), bepalen we de natuurlijke getallen $$q$$ (het <b>quotiënt</b>) en $$r$$ (de <b>rest</b>) zó dat<br><br>
         <div align="center">
           $$D = d \cdot q + r$$ en $$r < d$$
         </div>
