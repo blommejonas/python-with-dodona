@@ -66,7 +66,7 @@ Splits een groep van 317 mensen in groepjes van 23.
       <li>Groepsgrootte: 23</li>
     </ul>
   </li>
-  <li>We stellen ons de volgende vragen:
+  <li><b style="color:blue;">Gevraagd:</b>
     <ul>
       <li>Hoeveel volledige groepen kunnen we vormen?</li>
       <li>Hoeveel mensen blijven er over?</li>
