@@ -16,7 +16,7 @@ We weten al dat we tussen de haakjes van de functie print() een expressie mogen 
 
 ## Opvragen van de Python versie in replit.com
 <div align="center">
-  <img src="media/python_version.png" align="center" width="600px" data-caption="Python versie opvragen in Repl.it." />
+  <img src="media/python_version.png" align="center" width="650px" data-caption="Python versie opvragen in Repl.it." />
 </div>
 <br>
 
