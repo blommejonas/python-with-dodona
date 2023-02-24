@@ -6,7 +6,7 @@ Het belangrijkste voordeel is dat Python het mogelijk maakt om je te concentrere
 Het eerste programma dat iedereen schrijft in een computertaal is <code>Hello World</code>. Dit is een programma dat de tekst <code>“Hello, world!”</code> op het scherm zet. In de zeer populaire taal C++, wordt <code>Hello World</code> als volgt gecodeerd:
 
 <pre><code>
-#include <div><iostream></div>
+#include &#60; iostream &#62;
 int main() {
     std::cout << "Hello, world!";
 }
