@@ -32,7 +32,26 @@ Er bestaat <b>2 soorten delingen</b>:
           $$D = d \cdot q + r$$ en $$r < d$$
         </div>
       </li>
+      <br>
       In deze les bestuderen we hoe we de geheeltallige deling met quotiënt en rest kunnen uitvoeren in Python.
     </ul>
+  </li>
+</ul>
+
+## Syntax
+<ul>
+  <li>Floor division of geheeltallige deling : // <br><br>
+    <div align="center">
+      $$D // d = q$$
+    </div>
+    <br>
+    De floor division of geheeltallig deling (//) levert ons dus het <b>quotiënt</b> bij deling van $$D$$ door $$d$$.
+  </li>
+  <li>Modulo of restberekening: %
+    <div align="center">
+      $$D % d = r$$
+    </div>
+    <br>
+    De modulo of restberekening (%) levert ons dus de <b>rest</b> bij deling van $$D$$ door $$d$$.
   </li>
 </ul>
