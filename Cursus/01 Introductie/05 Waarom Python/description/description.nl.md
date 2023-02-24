@@ -10,8 +10,9 @@ Het eerste programma dat iedereen schrijft in een computertaal is <code>Hello Wo
 int main() {
     std::cout << "Hello, world!";
 }
-In C#, de populaire variant van C++ die uitgebracht is door Microsoft, is het:
 </code></pre>
+
+In C#, de populaire variant van C++ die uitgebracht is door Microsoft, is het:
 
 <pre><code>
 using System;
