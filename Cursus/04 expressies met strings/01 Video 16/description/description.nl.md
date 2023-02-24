@@ -24,6 +24,7 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
   </li>
   <li>Waarom verschillende mogelijkheden?<br>
     <b style="color:green;">Voorbeeld</b>:<br>
+    
     <div align="center">
       <i>Harry Potter and the philosopher’s stone</i>
     </div>
@@ -34,8 +35,8 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
     </div>
     <br>
   </li>
-  <li>Wanneer je gebruik maakt van drievoudige aanhalingtekens, worden deze door Python niet weergegeven.
-    <br>
+  <li>Wanneer je gebruik maakt van drievoudige aanhalingtekens, worden deze door Python niet weergegeven.<br>
+    
     <div align="center">
       <img src="media/aanhalingstekens_vb2.png" align="center" width="350px" data-caption="Gebruik van aanhalingstekens - Voorbeeld 2." />
     </div>
