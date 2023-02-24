@@ -75,8 +75,7 @@ niet zou misstaan.
 ### Constanten
 Veel programmeertalen geven je de mogelijkheid om “constanten” te creëren, wat waardes zijn die aan een variabele zijn toegekend, die geen andere waarde meer kan krijgen. Het is conventie dat alle letters in dit soort variabele namen hoofdletters zijn. Constanten kunnen gebruikt worden om code leesbaarder en onderhoudbaarder te maken. Bijvoorbeeld, om voor een rekening van €24,95 exclusief BTW het eindbedrag te berekenen, kun je de volgende code gebruiken:
 
-<pre><code>
-totaal = 24.95
+<pre><code>totaal = 24.95
 eind_totaal = int(100 * totaal * 1.21)/100
 print(eind_totaal)
 </code></pre>
