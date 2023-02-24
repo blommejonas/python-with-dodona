@@ -27,10 +27,12 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
     <div align="center">
       <i>Harry Potter and the philosopher’s stone</i>
     </div>
+    <br>
     <p>Voor deze string kan je geen enkelvoudig aanhalingsteken gebruiken omdat dit teken in de string zelf reeds voorkomt. Hier kan je dus opteren voor het dubbele         aanhalingsteken:</p>
     <div align="center">
       <img src="media/aanhalingstekens_vb1.png" align="center" width="350px" data-caption="Gebruik van aanhalingstekens - Voorbeeld 1." />
     </div>
+    <br>
   </li>
   <li><p>Wanneer je gebruik maakt van drievoudige aanhalingtekens, worden deze door Python niet weergegeven.</p>
     <div align="center">
