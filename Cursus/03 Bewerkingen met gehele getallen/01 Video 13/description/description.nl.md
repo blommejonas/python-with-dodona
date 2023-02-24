@@ -22,7 +22,14 @@ We hoeven dus geen nieuw symbool.<br><br>
 <div align="center">
   <img src="media/machtswortels.png" align="center" width="100px" data-caption="Syntax machtswortel." />
 </div>
-Het resultaat is een <b>float</b>.
+Het resultaat is een <b>float</b>.<br>
+
+Merk op dat we niet altijd het resultaat verkrijgen dat we verwachten.<br>
+<b style="color:green;">Voorbeeld</b>:<br>
+<div align="center">
+  <img src="media/machtswortels_benadering.png" align="center" width="100px" data-caption="Syntax machtswortel." />
+</div>
+Dit heeft verschillende redenen waar we nu niet dieper op ingaan. We houden het erop dat het gevonden resultaat het verwachte resultaat heel heel dicht benadert.
 
 <div class="callout callout-danger">
   <p>Opmerking: haakjes rond 1/n moeten er staan!</p>
