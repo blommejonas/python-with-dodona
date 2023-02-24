@@ -17,9 +17,18 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
       <li>drievoudig enkele aanhalingsteken</li>
       <li>drievoudig dubbele aanhalingsteken</li>
     </ul>
+    <div align="center">
+      <img src="media/aanhalingstekens.png" align="center" width="275px" data-caption="Gebruik van aanhalingstekens." />
+    </div>
+  </li>
+  <li>Waarom verschillende mogelijkheden?<br>
+    Voorbeeld:<br>
+    <div align="center">
+      Harry Potter and the philosopher’s stone
+    </div>
+    Voor deze string kan je geen enkelvoudig aanhalingsteken gebruiken omdat dit teken in de string zelf reeds voorkomt. Hier kan je dus opteren voor het dubbele         aanhalingsteken:
+    <div align="center">
+      <img src="media/aanhalingstekens_vb1.png" align="center" width="275px" data-caption="Gebruik van aanhalingstekens." />
+    </div>
   </li>
 </ul>
-
-<div align="center">
-  <img src="media/aanhalingstekens.png" align="center" width="300px" data-caption="Gebruik van aanhalingstekens." />
-</div>
