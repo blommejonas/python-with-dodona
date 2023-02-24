@@ -22,9 +22,9 @@ We gebruiken in Python witruimte zoals spaties om de leesbaarheid van onze code 
     </div>
   </li>
   <li>Waarom verschillende mogelijkheden?<br>
-    Voorbeeld:<br>
+    <b style="color:green;">Voorbeeld</b>:<br>
     <div align="center">
-      Harry Potter and the philosopher’s stone
+      <i>Harry Potter and the philosopher’s stone</i>
     </div>
     Voor deze string kan je geen enkelvoudig aanhalingsteken gebruiken omdat dit teken in de string zelf reeds voorkomt. Hier kan je dus opteren voor het dubbele         aanhalingsteken:
     <div align="center">
