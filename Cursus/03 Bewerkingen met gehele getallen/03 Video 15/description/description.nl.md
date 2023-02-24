@@ -40,16 +40,16 @@ Er bestaat <b>2 soorten delingen</b>:
 
 ## Syntax
 <ul>
-  <li>Floor division of geheeltallige deling : // <br><br>
+  <li><b>Floor division</b> of <b>geheeltallige deling</b> : // <br><br>
     <div align="center">
       <i>D</i> // <i>d</i> = <i>q</i>
     </div>
     <br>
     De floor division of geheeltallig deling (//) levert ons dus het <b>quotiënt</b> bij deling van $$D$$ door $$d$$.
   </li>
-  <li>Modulo of restberekening: %
+  <li><b>Modulo</b> of <b>restberekening</b>: %
     <div align="center">
-      <i>D</i> % <i>d</i> = <i>r</i>$$
+      <i>D</i> % <i>d</i> = <i>r</i>
     </div>
     <br>
     De modulo of restberekening (%) levert ons dus de <b>rest</b> bij deling van $$D$$ door $$d$$.
