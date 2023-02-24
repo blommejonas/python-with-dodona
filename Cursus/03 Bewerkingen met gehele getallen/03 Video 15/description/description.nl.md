@@ -11,8 +11,8 @@ Er bestaat <b>2 soorten delingen</b>:
 <ul>
   <li>een gewone deling, ook wel een <b>deling met komma</b> genoemd<br>
     <b style="color:green;">Voorbeelden</b>:<br>
-    $$\frac{123}{5}=24.6$$<br>
-    $$\frac{100}{6}=16.666...$$<br>
+    $$\frac{123}{5}=24,6$$<br>
+    $$\frac{100}{6}=16,666...$$<br>
     In Python gebruiken we hiervoor de slash (/).
   </li><br>
   <li>een deling met rest, ook een <b>euclidische deling</b> genoemd<br>
