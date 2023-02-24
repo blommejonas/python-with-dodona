@@ -42,16 +42,34 @@ Er bestaat <b>2 soorten delingen</b>:
 <ul>
   <li><b>Floor division</b> of <b>geheeltallige deling</b> : // <br><br>
     <div align="center">
-      <i>D</i> // <i>d</i> = <i>q</i>
+      $$>D$$ // $$d$$ = $$q$$
     </div>
     <br>
     De floor division of geheeltallig deling (//) levert ons dus het <b>quotiënt</b> bij deling van $$D$$ door $$d$$.
   </li>
   <li><b>Modulo</b> of <b>restberekening</b>: %
     <div align="center">
-      <i>D</i> % <i>d</i> = <i>r</i>
+      $$D$$ % $$d$$ = $$r$$
     </div>
     <br>
     De modulo of restberekening (%) levert ons dus de <b>rest</b> bij deling van $$D$$ door $$d$$.
+  </li>
+</ul>
+
+## Voorbeeld
+<ul>
+  <li>Splits een groep van 317 mensen in groepjes van 23. We hebben dus gegeven:
+    <ul>
+      <li>Totaal: 317</li>
+      <li>Groepsgrootte: 23</li>
+    </ul>
+  </li>
+  <li>We stellen ons de volgende vragen:
+    <ul>
+      <li>Hoeveel volledige groepen kunnen we vormen?</li>
+      <li>Hoeveel mensen blijven er over?</li>
+    </ul>
+  </li>
+  <li>Oplossing:
   </li>
 </ul>
