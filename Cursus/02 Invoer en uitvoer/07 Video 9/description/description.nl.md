@@ -45,7 +45,7 @@ Een expressie is een combinatie van waarden, constanten, variabelen, operatoren 
 
 ## Goed om te weten
 <ul>
-  <li> De functie int() behoort tot de groep van de type conversion functies. Het is immers een functie die het datatype convergeert (omzet) naar een ander datatype. 
+  <li> De functie int() behoort tot de groep van de type conversion functies. Het is immers een functie die het datatype converteert (omzet) naar een ander datatype. 
   </li>
   <li> De functie int() zet o.a. een waarde van het datatype string om naar een waarde van het datatype integer. Zo is de integerwaarde beschikbaar voor verdere         verwerking.
   </li>
