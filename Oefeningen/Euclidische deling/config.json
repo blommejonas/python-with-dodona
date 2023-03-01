@@ -1,0 +1,15 @@
+{
+  "type": "exercise",
+  "labels": [
+    "Jonas Blomme"
+  ],
+  "description": {
+    "names": {
+      "nl": "De euclidische deling"
+    }
+  },
+  "internals": {
+    "token": "Y4pD5aygNZpdzpSsppnav3SHnqSK_HgFsc6Xgz5Mibc",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
