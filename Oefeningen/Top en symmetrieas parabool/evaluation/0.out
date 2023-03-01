@@ -5,7 +5,7 @@ Vergelijking S.A.: x = 1
 ----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 2
+input block size: 3
 output block size: 2
 show line numbers: false
 ignore fp rounding: -5
