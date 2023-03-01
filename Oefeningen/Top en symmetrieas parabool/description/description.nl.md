@@ -1,8 +1,8 @@
 Schrijf een programma dat vraagt naar de coëfficiënten van de tweedegraadsfunctie $$f(x) = ax^2 + bx + c$$ met $$a \in \mathbb{R}_0$$.
 
 Vervolgens bepaalt het programma:
-1. de coördinaat van de top
-   $$x_T = \alpha = -\dfrac{b}{2a}$$
+1. de coördinaat van de top <br>
+   $$x_T = \alpha = -\dfrac{b}{2a}$$ <br>
    $$y_T = \beta  = f(\alpha)$$
 2. de vergelijking van de symmertrie-as: $$x = \alpha$$
    
