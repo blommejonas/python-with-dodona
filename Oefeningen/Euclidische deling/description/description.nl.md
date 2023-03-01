@@ -1,4 +1,4 @@
-Schrijf een programma dat het quotiënt $$q$$ en de rest $$r$$ bepaalt bij deling van het deeltal $$D$$ door de deler $$q$$.
+Schrijf een programma dat het quotiënt $$q$$ en de rest $$r$$ bepaalt bij deling van het deeltal $$D$$ door de deler $$d$$.
 
 ## Invoer
 - Eerst wordt het deeltal $$D \in \mathbb{N}$$ gevraagd aan de gebruiker. 
