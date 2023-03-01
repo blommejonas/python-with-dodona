@@ -10,12 +10,12 @@ Vervolgens bepaalt het programma:
 ## Invoer
 - Eerst wordt gevraagd naar de waarde van $$a$$.
 - Vervolgens wordt gevraagd naar de waarde van $$b$$.
-- Tenslotte wordt gevraagd naar de waarde van $$c$$.
+- Tenslotte wordt gevraagd naar de waarde van $$c$$.<br>
 Alle waarden worden ingegeven als natuurlijke getallen en $$a$$ mag niet nul zijn.
 
 ## Uitvoer
 - Op de eerste regel verschijnt de coördinaat van de top van de parabool: "Top parabool: $$(x_T, y_T)$$"
-- Op de tweede regel verschijnt de vergelijking van de symmetrieas van de parabool: "Vergelijking S.A.: $$x = x_T$$"
+- Op de tweede regel verschijnt de vergelijking van de symmetrieas van de parabool: "Vergelijking S.A.: $$x = x_T$$" <br>
 We bekijken enkel de gevallen waarbij de x- en y-coördinaat natuurlijke getallen zijn.
 
 ## Voorbeeld 1
