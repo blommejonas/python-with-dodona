@@ -1,4 +1,4 @@
-Schrijf een programma dat vraagt naar de coëfficiënten van de tweedegraadsfunctie $$f(x) = ax^2 + bx + c$$ met $$b$$, $$c \in \mathbb{N}$$  $$a \in \mathbb{N}_0$$.
+Schrijf een programma dat vraagt naar de coëfficiënten van de tweedegraadsfunctie $$f(x) = ax^2 + bx + c$$ met $$b$$, $$c \in \mathbb{N}$$ en $$a \in \mathbb{N}_0$$.
 
 Vervolgens bepaalt het programma:
 1. de coördinaat van de top <br>
