@@ -1,4 +1,4 @@
-Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$m$$ (in kg) van de gebruiker vraagt. Het berekent de BMI van de gebruiker en interpreteert deze waarde aan de hand van de tabel.
+Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$m$$ (in kg) van de gebruiker vraagt. Het berekent de BMI van de gebruiker, rond deze af op 1 cijfer na de komma en interpreteert vervolgens deze afgeronde waarde aan de hand van de tabel.
 
 <div class="dodona-centered-group">
   <table class="table" style="width:50%">
