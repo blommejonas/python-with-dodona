@@ -8,17 +8,15 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ykh3f7f9lFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-## ALS/DAN
+## Het if-statement
+<p>Een <b>statement</b> is een stukje programmacode dat een - door de computer uit te voeren - taak beschrijft.</p>
+<p>Het <b><code>if</code>-statement</b> (in zijn eenvoudigste vorm) beschrijft welke taken moeten uitgevoerd worden wanneer een specifieke booleaanse expressie evalueert naar de waarde True</p>
+
+## Komt overeen met ALS/DAN
 <b>ALS</b> <i>booleaanse expressie</i> <b>DAN</b><br>
 &nbsp;&nbsp;&nbsp; <i>taak 1</i> <br>
 &nbsp;&nbsp;&nbsp; <i>taak 2</i> <br>
 &nbsp;&nbsp;&nbsp; <i>taak 3</i> <br>
-
-De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
-
-## Het if-statement
-<p>Een <b>statement</b> is een stukje programmacode dat een - door de computer uit te voeren - taak beschrijft.</p>
-<p>Het <b><code>if</code>-statement</b> (in zijn eenvoudigste vorm) beschrijft welke taken moeten uitgevoerd worden wanneer een specifieke booleaanse expressie evalueert naar de waarde True</p>
 
 ## Van ALS/DAN constructie naar if-statement
 <ul>
@@ -36,6 +34,8 @@ De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statem
     <i>taak 3</i> </code></pre>
   </li>
 </ul>
+
+De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
 
 ## Code block
 * inspringen → indentation
