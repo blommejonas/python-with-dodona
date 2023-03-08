@@ -30,8 +30,8 @@ Naast de syntax-afspraken behandelen we een eerste eenvoudig voorbeeld van het <
     <b>else :</b>
     <i>alternatieve taak 1</i>
     <i>alternatieve taak 2</i>
-    <i>alternatieve taak 3</i></code></pre>
-    ...
+    <i>alternatieve taak 3</i>
+    ...</code></pre>
   </li>
 </ul>
 
