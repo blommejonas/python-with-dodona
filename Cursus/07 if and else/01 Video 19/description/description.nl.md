@@ -23,7 +23,7 @@ Beweringen laten toe een specifiek gevolg te laten afhangen van het al dan niet 
 ⇒ ALS/DAN-constructie
 
 <div align="center">
-  <img src="media/als_dan.png" align="center" width="150px" data-caption="De ALS/DAN-constructie." />
+  <img src="media/als_dan.png" align="center" width="500px" data-caption="De ALS/DAN-constructie." />
 </div>
 
 ## Keywords
