@@ -10,7 +10,8 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
 
 ## ALS/DAN
 <b>ALS</b> <i>booleaanse expressie</i> <b>DAN</b><br>
-   taak 1 <br>
-   taak 2 <br>
-   taak 3 <br>
+&nbsp;&nbsp;&nbsp; <i>taak 1</i> <br>
+&nbsp;&nbsp;&nbsp; <i>taak 2</i> <br>
+&nbsp;&nbsp;&nbsp; <i>taak 3</i> <br>
+
 De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
