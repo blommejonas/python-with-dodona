@@ -16,9 +16,13 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
 
 De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
 
+<div class="callout callout-info">
+  <p>Een statement is een stukje programmacode dat een - door de computer uit te voeren - taak beschrijft.</p>
+</div>
+
 ## Van ALS/DAN constructie naar if-statement
 <ul>
-  <li> Syntax-regels voor if-statement:
+  <li> Syntax-regels voor if-statement: <br>
     ALS → if <br>
     DAN → : <br>
     tussen ALS en DAN → booleaanse expressie <br>
@@ -32,3 +36,11 @@ De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statem
     <i>taak 3</i> </code></pre>
   </li>
 </ul>
+
+## Code block
+* inspringen → indentation
+* eindigt met de terugkeer naar het eerdere niveau
+* een code block wordt door Python volledig doorlopen.
+
+## Keyword
+Het woord <b>if</b> is een Python keyword.
