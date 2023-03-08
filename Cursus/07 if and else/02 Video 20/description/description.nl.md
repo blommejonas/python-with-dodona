@@ -26,10 +26,9 @@ De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statem
     inspringen van code: 4 spaties <br>
   </li>
   <li> Samengevat:
-    <pre><code><b>if</b> booleaanse expressie :
-    taak 1
-    taak 2
-    taak 3
-    </code></pre>
+    <pre><code><b>if</b> <i>booleaanse expressie</i> :
+    <i>taak 1</i>
+    <i>taak 2</i>
+    <i>taak 3</i> </code></pre>
   </li>
 </ul>
