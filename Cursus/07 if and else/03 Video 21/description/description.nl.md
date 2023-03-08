@@ -16,7 +16,7 @@ Voor getallen geldt de getallen-as als rangschikking, voor strings geldt de alfa
 
 <div class="callout callout-danger">
   <p>Wanneer we willen nagaan of 2 waarden gelijk zijn aan elkaar gebruiken we ==.</p>
-  <p>Een enkele = is een assignment en levert geen boolean waarde</p>.
+  <p>Een enkele = is een assignment en levert geen boolean waarde.</p>
 </div>
 
 ## Relationele operatoren ook bij strings
