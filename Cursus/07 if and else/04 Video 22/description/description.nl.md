@@ -45,12 +45,12 @@ Beschouw volgend programma:
 Er zijn 2 mogelijke uitkomsten:
 
 <ul>
-  <li> Als het opgegeven getal strikt groter is dan 5, dan wordt de "code block" uitgevoerd.
+  <li> Als het opgegeven getal strikt groter is dan 50, dan wordt de "code block" onder het <code>if</code>-statement uitgevoerd.
     <div align="center">
       <img src="media/if_else_programma_true.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF/ELSE-statement.">
     </div>
   </li>
-  <li> Als het opgegeven getal kleiner is dan 5 of gelijk is aan 5, dan wordt de "code block" niet uitgevoerd.
+  <li> Als het opgegeven getal kleiner is dan 50 of gelijk is aan 50, dan wordt de "code block" onder het <code>else</code>-statement uitgevoerd.
     <div align="center">
       <img src="media/if_else_programma_false.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF/ELSE-statement.">
     </div>
