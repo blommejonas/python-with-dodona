@@ -44,5 +44,26 @@ De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statem
 * "code blocks" kunnen deel uitmaken van grotere "code blocks"
 * wordt er begonnen aan de uitvoering van een "code block", dan wordt de "code block", in principe, volledig doorlopen door Python.
 
+## Voorbeeld
+Beschouw volgend programma:
+
+<div align="center">
+  <img src="media/simple_if_programma.png" align="center" width="500px" data-caption="Voorbeeldprogramma met IF-statement." />
+</div>
+
+Er zijn 2 mogelijke uitkomsten:
+
+<ul>
+  <li> Als het opgegeven getal strikt groter is dan 5, dan wordt de "code block" uitgevoerd.
+    <div align="center">
+      img src="media/simple_if_programma_result_true.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement." />
+    </div>
+  </li>
+  <li> Als het opgegeven getal kleiner is dan 5, dan wordt de "code block" niet uitgevoerd.
+     <div align="center">
+      img src="media/simple_if_programma_result_false.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement." />
+    </div>
+  </li>
+
 ## Keyword
 Het woord <b>if</b> is een Python keyword.
