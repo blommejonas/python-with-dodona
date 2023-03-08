@@ -59,7 +59,7 @@ Er zijn 2 mogelijke uitkomsten:
       <img src="media/simple_if_program_result_true.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement.">
     </div>
   </li>
-  <li> Als het opgegeven getal kleiner is dan 5, dan wordt de "code block" niet uitgevoerd.
+  <li> Als het opgegeven getal kleiner is dan 5 of gelijk is aan 5, dan wordt de "code block" niet uitgevoerd.
     <div align="center">
       <img src="media/simple_if_program_result_false.png" align="center" width="350px" data-caption="Voorbeeldprogramma met IF-statement.">
     </div>
