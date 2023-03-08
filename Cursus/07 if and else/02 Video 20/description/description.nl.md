@@ -1,4 +1,4 @@
-In deze video maken we kennis met het <code>if</code-statement, in z’n meest éénvoudige vorm. We zien de analogie tussen de taalkundige constructie ALS/DAN en het <code>if</code>-statement.
+In deze video maken we kennis met het <code>if</code>-statement, in z’n meest éénvoudige vorm. We zien de analogie tussen de taalkundige constructie ALS/DAN en het <code>if</code>-statement.
 
 * We leren de syntax-regels die gevolgd moeten worden om een <code>if</code>-statement toe te passen in Python, kennen.
 * We zien het nut in van het inspringen van code (indentation), waardoor er zogenaamde “code blocks” worden gevormd.
