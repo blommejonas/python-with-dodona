@@ -61,7 +61,7 @@ Er zijn 2 mogelijke uitkomsten:
   </li>
   <li> Als het opgegeven getal kleiner is dan 5, dan wordt de "code block" niet uitgevoerd.
     <div align="center">
-      <img src="media/simple_if_program_result_false.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement.">
+      <img src="media/simple_if_program_result_false.png" align="center" width="350px" data-caption="Voorbeeldprogramma met IF-statement.">
     </div>
   </li>
 </ul>
