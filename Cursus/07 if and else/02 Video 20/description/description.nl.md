@@ -21,11 +21,11 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
 ## Van ALS/DAN constructie naar if-statement
 <ul>
   <li> Syntax-regels voor if-statement: <br>
-    ALS → if <br>
-    DAN → : <br>
-    tussen ALS en DAN → booleaanse expressie <br>
-    na de dubbelpunt → inspringende codeblok met uit te voeren taken <br>
-    inspringen van code: 4 spaties <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; ALS → if <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; DAN → : <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; tussen ALS en DAN → booleaanse expressie <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; na de dubbelpunt → inspringende codeblok met uit te voeren taken <br>
+    &nbsp;&nbsp;&nbsp;&nbsp; inspringen van code: 4 spaties <br>
   </li>
   <li> Samengevat:
     <pre><code><b>if</b> <i>booleaanse expressie</i> :
@@ -38,9 +38,11 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
 De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
 
 ## Code block
-* inspringen → indentation
+* start wanneer code inspringt (inspringen → indentation)
 * eindigt met de terugkeer naar het eerdere niveau
-* een code block wordt door Python volledig doorlopen.
+* alle tussenliggende regels maken deel uit van hetzelfde blokje programmacode, van dezelfde "code block"
+* "code blocks" kunnen deel uitmaken van grotere "code blocks"
+* wordt er begonnen aan de uitvoering van een "code block", dan wordt de "code block", in principe, volledig doorlopen door Python.
 
 ## Keyword
 Het woord <b>if</b> is een Python keyword.
