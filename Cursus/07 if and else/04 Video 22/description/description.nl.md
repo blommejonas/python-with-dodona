@@ -52,7 +52,7 @@ Er zijn 2 mogelijke uitkomsten:
   </li>
   <li> Als het opgegeven getal kleiner is dan 5 of gelijk is aan 5, dan wordt de "code block" niet uitgevoerd.
     <div align="center">
-      <img src="media/if_else_programma_false.png" align="center" width="350px" data-caption="Voorbeeldprogramma met IF/ELSE-statement.">
+      <img src="media/if_else_programma_false.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF/ELSE-statement.">
     </div>
   </li>
 </ul>
