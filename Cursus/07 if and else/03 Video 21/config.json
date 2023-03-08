@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "nl": "Video 21: de relationele operatoren (<, >, <=, >=, ==, !=)"
+    }
+  },
+  "internals": {
+    "token": "rjmRHtvYZaWWg6vbtOSOGaeVsh9B_dK61i9aUPDnHe8",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "Jonas Blomme"
+  ]
+}
