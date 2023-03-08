@@ -37,4 +37,4 @@ Naast de syntax-afspraken behandelen we een eerste eenvoudig voorbeeld van het <
 
 ## Voorbeeld
 ## Keyword
-Het woord else is een Python keyword
+Het woord <b>else</b> is een Python keyword
