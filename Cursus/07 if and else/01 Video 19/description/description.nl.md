@@ -9,7 +9,7 @@ Een expressie is een combinatie van waarden, constanten, variabelen, operatoren 
 
 ## Booleaanse expressie
 * Een expressie is een booleaanse expressie (of bewering) wanneer de waarde waarnaar de expressie evalueert ofwel Waar (True) ofwel Onwaar (False) is.
-* Het datatype van True en False is boolean (=bool).
+* Het datatype van <code>True</code> en <code>False</code> is boolean (= bool).
 * <code>True</code> en <code>False</code> moeten steeds met hoofdletter.
 
 ## Type conversion functie bool()
