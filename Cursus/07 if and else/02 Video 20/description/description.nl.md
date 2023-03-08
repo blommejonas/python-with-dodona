@@ -15,3 +15,21 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
 &nbsp;&nbsp;&nbsp; <i>taak 3</i> <br>
 
 De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
+
+## Van ALS/DAN constructie naar if-statement
+<ul>
+  <li> Syntax-regels voor if-statement:
+    ALS → if <br>
+    DAN → : <br>
+    tussen ALS en DAN → booleaanse expressie <br>
+    na de dubbelpunt → inspringende codeblok met uit te voeren taken <br>
+    inspringen van code: 4 spaties <br>
+  </li>
+  <li> Samengevat:
+    <pre><code><b>if</b> booleaanse expressie :
+    taak 1
+    taak 2
+    taak 3
+    </code></pre>
+  </li>
+</ul>
