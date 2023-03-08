@@ -56,14 +56,15 @@ Er zijn 2 mogelijke uitkomsten:
 <ul>
   <li> Als het opgegeven getal strikt groter is dan 5, dan wordt de "code block" uitgevoerd.
     <div align="center">
-      img src="media/simple_if_programma_result_true.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement." />
+      img src="media/simple_if_program_result_true.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement." />
     </div>
   </li>
   <li> Als het opgegeven getal kleiner is dan 5, dan wordt de "code block" niet uitgevoerd.
      <div align="center">
-      img src="media/simple_if_programma_result_false.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement." />
+      img src="media/simple_if_program_result_false.png" align="center" width="400px" data-caption="Voorbeeldprogramma met IF-statement." />
     </div>
   </li>
+</ul>
 
 ## Keyword
 Het woord <b>if</b> is een Python keyword.
