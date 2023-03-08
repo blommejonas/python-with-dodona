@@ -16,9 +16,9 @@ In deze video maken we kennis met het <code>if</code>-statement, in z’n meest 
 
 De booleaanse expressie is een voorwaarde vandaar dat het <code>if</code>-statement ook conditional statement genoemd wordt.
 
-<div class="callout callout-info">
-  <p>Een statement is een stukje programmacode dat een - door de computer uit te voeren - taak beschrijft.</p>
-</div>
+## Het if-statement
+<p>Een <b>statement</b> is een stukje programmacode dat een - door de computer uit te voeren - taak beschrijft.</p>
+<p>Het <b><code>if</code>-statement</b> (in zijn eenvoudigste vorm) beschrijft welke taken moeten uitgevoerd worden wanneer een specifieke booleaanse expressie evalueert naar de waarde True</p>
 
 ## Van ALS/DAN constructie naar if-statement
 <ul>
