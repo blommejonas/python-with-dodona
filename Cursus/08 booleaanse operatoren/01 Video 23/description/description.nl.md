@@ -4,11 +4,11 @@ In deze video leren we 2 van de 3 booleaanse operatoren kennen. Booleaanse opera
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NYRbDIlTGlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-De booleaanse operatoren zijn niet de eerste operatoren die we tegenkomen. We behandelden reeds de rekenkundige (video 3) en de relationele (video 21) operatoren.<br>
-Er zijn 3 booleaanse operatoren: or, not en and.
+De booleaanse operatoren zijn niet de eerste operatoren die we tegenkomen. We behandelden reeds de rekenkundige (video 3) en de relationele (video 21) operatoren.<br><br>
+Er zijn 3 booleaanse operatoren: <code>or</code>, <code>not</code> en <code>and</code>.
 
 ## or
-* Een samengestelde bewering met or is True als minstens ´e´en van de beweringen evalueert naar de waarde True is.
+* Een samengestelde bewering met <code>or</code> is True als minstens één van de beweringen evalueert naar de waarde True is.
 * Voorbeeld
 
 <div align="center">
@@ -20,7 +20,7 @@ Er zijn 3 booleaanse operatoren: or, not en and.
 * not False → True
 
 ## Keywords
-De woorden or en not zijn Python keywords.
+De woorden <code>or</code> en <code>not</code> zijn Python keywords.
 
 ## Goed om te weten
 * Het aantal te evalueren booleaanse expressies geeft een zicht op de efficiëntie van de code. Laat de computer bij voorkeur niet te veel overbodige taken uitvoeren: elke taal taak kost extra tijd.
