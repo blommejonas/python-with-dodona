@@ -7,14 +7,14 @@ We leren ook de term “genest <code>if</code>-statement” kennen.
 </div>
 
 ## Geneste if-statements
-Voorbeeld
+<b style="color:green">voorbeeld</b>
 <div align="center">
   <img src="media/genest_if_statement.png" align="center" width="500px" data-caption="Genest <code>if</code>-statement.">
 </div>
 
 ## and
-* Ter vervanging van geneste if-statements.
-* Voorbeeld
+* Ter vervanging van geneste <code>if</code>-statements.
+* <b style="color:green">voorbeeld</b>
 <div align="center">
   <img src="media/and.png" align="center" width="500px" data-caption="De booleaanse operator <code>and</code>.">
 </div>
@@ -25,5 +25,5 @@ Het woord <code>and</code> is een Python keyword.
 ## Goed om te weten
 Bij samengetelde beweringen met haakjes en de operatoren not, and en or hebben de haakjes de absolute voorrang. Vervolgens heeft de operator not voorrang op de operatoren and en de operator and heeft voorrang op de operator or. Gebruik bij voorkeur haakjes, dan vermijd je mogelijke problemen.<br>
 
-Voorbeeld:<br>
+<b style="color:green">voorbeeld</b><br>
 True or True and False → True or (True and False) = True
