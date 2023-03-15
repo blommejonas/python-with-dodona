@@ -1,0 +1,15 @@
+{
+  "type": "content",
+  "description": {
+    "names": {
+      "nl": "Video 24: de booleaanse operator 'and'"
+    }
+  },
+  "internals": {
+    "token": "8FSqpe9pg8weqU9JitdJEp7-tfL9b52sC31aFEdm5Ac",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+    "Jonas Blomme"
+  ]
+}
