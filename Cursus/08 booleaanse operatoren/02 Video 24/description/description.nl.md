@@ -23,7 +23,7 @@ We leren ook de term “genest <code>if</code>-statement” kennen.
 Het woord <code>and</code> is een Python keyword.
 
 ## Goed om te weten
-Bij samengetelde beweringen met haakjes en de operatoren not, and en or hebben de haakjes de absolute voorrang. Vervolgens heeft de operator not voorrang op de operatoren and en de operator and heeft voorrang op de operator or. Gebruik bij voorkeur haakjes, dan vermijd je mogelijke problemen.<br>
+Bij samengetelde beweringen met haakjes en de operatoren <code>not</code>, <code>and</code> en </code>or hebben de haakjes de absolute voorrang. Vervolgens heeft de operator <code>not</code> voorrang op de operatoren <code>and</code> en <code>or</code> en de operator <code>and</code> heeft voorrang op de operator <code>or</code>. Gebruik bij voorkeur haakjes, dan vermijd je mogelijke problemen.<br>
 
 <b style="color:green">voorbeeld</b><br>
 True or True and False → True or (True and False) = True
