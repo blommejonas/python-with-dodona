@@ -12,7 +12,7 @@ Er zijn 3 booleaanse operatoren: <code>or</code>, <code>not</code> en <code>and<
 * Voorbeeld
 
 <div align="center">
-  <img src="media/or.png" align="center" width="400px" data-caption="De booleaanse operator <b>or</b>.">
+  <img src="media/or.png" align="center" width="500px" data-caption="De booleaanse operator <b>or</b>.">
 </div>
 
 ## not
