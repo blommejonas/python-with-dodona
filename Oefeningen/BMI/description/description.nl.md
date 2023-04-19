@@ -1,5 +1,8 @@
 Schrijf een programma dat achtereenvolgens de lengte $$l$$ (in m) en de massa $$m$$ (in kg) van de gebruiker vraagt. Het berekent de BMI van de gebruiker, rondt deze af op 1 cijfer na de komma en interpreteert vervolgens deze afgeronde waarde aan de hand van de tabel.
 
+De BMI-waarde wordt berekent als:
+$$BMI = \dfrac{m}{l^2}$$
+
 <div class="dodona-centered-group">
   <table class="table" style="width:50%">
     <thead>
